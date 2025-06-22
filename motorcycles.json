@@ -1,0 +1,66 @@
+{
+    "tld": "motorcycles",
+    "internetbs": {
+        "registration": {
+            "usd": "17.99",
+            "eur": "16.33"
+        },
+        "renewal": {
+            "usd": "19.59",
+            "eur": "17.79"
+        },
+        "transfer": {
+            "usd": "17.99",
+            "eur": "16.33"
+        },
+        "restore": {
+            "usd": "139.59",
+            "eur": "126.75"
+        }
+    },
+    "namecheap": {
+        "registration": {
+            "usd": "13.98",
+            "eur": "12.14"
+        },
+        "renewal": {
+            "usd": "16.98",
+            "eur": "14.75"
+        },
+        "transfer": {
+            "usd": "13.98",
+            "eur": "12.14"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "16.81"
+        },
+        "renewal": {
+            "eur": "14.25"
+        },
+        "transfer": {
+            "eur": "40.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "97.35"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "1.39",
+            "usd": "1.46"
+        },
+        "renewal": {
+            "eur": "14.89",
+            "usd": "16.19"
+        },
+        "transfer": {
+            "eur": "14.89",
+            "usd": "16.19"
+        }
+    }
+}

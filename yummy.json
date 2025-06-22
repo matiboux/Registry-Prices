@@ -1,0 +1,17 @@
+{
+    "tld": "yummy",
+    "namecheap": {
+        "registration": {
+            "usd": "32.00",
+            "eur": "27.79"
+        },
+        "renewal": {
+            "usd": "30.00",
+            "eur": "26.05"
+        },
+        "transfer": {
+            "usd": "30.00",
+            "eur": "26.05"
+        }
+    }
+}

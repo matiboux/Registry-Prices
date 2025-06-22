@@ -1,0 +1,17 @@
+{
+    "tld": "coffees",
+    "namecheap": {
+        "registration": {
+            "usd": "10.00",
+            "eur": "8.68"
+        },
+        "renewal": {
+            "usd": "10.00",
+            "eur": "8.68"
+        },
+        "transfer": {
+            "usd": "10.00",
+            "eur": "8.68"
+        }
+    }
+}

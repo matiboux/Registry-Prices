@@ -1,0 +1,17 @@
+{
+    "tld": "qum",
+    "namecheap": {
+        "registration": {
+            "usd": "22.98",
+            "eur": "19.96"
+        },
+        "renewal": {
+            "usd": "19.98",
+            "eur": "17.35"
+        },
+        "transfer": {
+            "usd": "19.98",
+            "eur": "17.35"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "tld": "com.se",
+    "internetbs": {
+        "registration": {
+            "usd": "9.99",
+            "eur": "8.99"
+        },
+        "renewal": {
+            "usd": "11.35",
+            "eur": "10.29"
+        },
+        "transfer": {
+            "usd": "10.99",
+            "eur": "9.99"
+        },
+        "restore": {
+            "usd": "21.69",
+            "eur": "20.29"
+        }
+    },
+    "namecheap": {
+        "registration": {
+            "usd": "9.98",
+            "eur": "8.67"
+        },
+        "renewal": {
+            "usd": "11.98",
+            "eur": "10.40"
+        },
+        "transfer": {
+            "usd": "9.98",
+            "eur": "8.67"
+        }
+    }
+}

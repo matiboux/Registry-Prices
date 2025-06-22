@@ -1,0 +1,17 @@
+{
+    "tld": "townpromotion",
+    "ovh": {
+        "registration": {
+            "eur": "10.89",
+            "usd": "11.77"
+        },
+        "renewal": {
+            "eur": "34.09",
+            "usd": "37.19"
+        },
+        "transfer": {
+            "eur": "33.39",
+            "usd": "36.39"
+        }
+    }
+}

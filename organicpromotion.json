@@ -1,0 +1,17 @@
+{
+    "tld": "organicpromotion",
+    "ovh": {
+        "registration": {
+            "eur": "23.39",
+            "usd": "25.28"
+        },
+        "renewal": {
+            "eur": "77.39",
+            "usd": "84.39"
+        },
+        "transfer": {
+            "eur": "73.69",
+            "usd": "80.29"
+        }
+    }
+}

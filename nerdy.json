@@ -1,0 +1,17 @@
+{
+    "tld": "nerdy",
+    "namecheap": {
+        "registration": {
+            "usd": "45.98",
+            "eur": "39.93"
+        },
+        "renewal": {
+            "usd": "23.98",
+            "eur": "20.83"
+        },
+        "transfer": {
+            "usd": "23.98",
+            "eur": "20.83"
+        }
+    }
+}

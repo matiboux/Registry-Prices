@@ -1,0 +1,17 @@
+{
+    "tld": "gon",
+    "namecheap": {
+        "registration": {
+            "usd": "26.98",
+            "eur": "23.43"
+        },
+        "renewal": {
+            "usd": "26.98",
+            "eur": "23.43"
+        },
+        "transfer": {
+            "usd": "26.98",
+            "eur": "23.43"
+        }
+    }
+}

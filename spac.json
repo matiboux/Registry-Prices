@@ -1,0 +1,17 @@
+{
+    "tld": "spac",
+    "namecheap": {
+        "registration": {
+            "usd": "1.499",
+            "eur": "1.302"
+        },
+        "renewal": {
+            "usd": "1.499",
+            "eur": "1.302"
+        },
+        "transfer": {
+            "usd": "1.499",
+            "eur": "1.302"
+        }
+    }
+}

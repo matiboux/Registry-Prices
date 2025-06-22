@@ -1,0 +1,35 @@
+{
+    "tld": "org.ag",
+    "internetbs": {
+        "registration": {
+            "usd": "92.90",
+            "eur": "84.33"
+        },
+        "renewal": {
+            "usd": "105.09",
+            "eur": "95.39"
+        },
+        "transfer": {
+            "usd": "102.00",
+            "eur": "92.59"
+        },
+        "restore": {
+            "usd": "255.09",
+            "eur": "231.55"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "86.99",
+            "usd": "94.99"
+        },
+        "renewal": {
+            "eur": "93.99",
+            "usd": "101.99"
+        },
+        "transfer": {
+            "eur": "92.49",
+            "usd": "102.59"
+        }
+    }
+}

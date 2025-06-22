@@ -1,0 +1,17 @@
+{
+    "tld": "zug",
+    "namecheap": {
+        "registration": {
+            "usd": "50.00",
+            "eur": "43.42"
+        },
+        "renewal": {
+            "usd": "98.00",
+            "eur": "85.11"
+        },
+        "transfer": {
+            "usd": "98.00",
+            "eur": "85.11"
+        }
+    }
+}

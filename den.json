@@ -1,0 +1,17 @@
+{
+    "tld": "den",
+    "namecheap": {
+        "registration": {
+            "usd": "32.00",
+            "eur": "27.79"
+        },
+        "renewal": {
+            "usd": "32.00",
+            "eur": "27.79"
+        },
+        "transfer": {
+            "usd": "32.00",
+            "eur": "27.79"
+        }
+    }
+}

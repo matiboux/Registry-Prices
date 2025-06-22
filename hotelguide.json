@@ -1,0 +1,17 @@
+{
+    "tld": "hotelguide",
+    "namecheap": {
+        "registration": {
+            "usd": "100.00",
+            "eur": "86.84"
+        },
+        "renewal": {
+            "usd": "10.00",
+            "eur": "8.68"
+        },
+        "transfer": {
+            "usd": "10.00",
+            "eur": "8.68"
+        }
+    }
+}

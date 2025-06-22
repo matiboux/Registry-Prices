@@ -1,0 +1,20 @@
+{
+    "tld": "购物",
+    "gandi": {
+        "registration": {
+            "eur": "276.49"
+        },
+        "renewal": {
+            "eur": "267.49"
+        },
+        "transfer": {
+            "eur": "520.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "319.49"
+        }
+    }
+}

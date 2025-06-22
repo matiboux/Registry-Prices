@@ -1,0 +1,17 @@
+{
+    "tld": "huissier-justice.fr",
+    "ovh": {
+        "registration": {
+            "eur": "6.99",
+            "usd": "8.49"
+        },
+        "renewal": {
+            "eur": "6.99",
+            "usd": "8.49"
+        },
+        "transfer": {
+            "eur": "6.99",
+            "usd": "8.49"
+        }
+    }
+}

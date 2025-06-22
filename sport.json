@@ -1,0 +1,20 @@
+{
+    "tld": "sport",
+    "gandi": {
+        "registration": {
+            "eur": "353.64"
+        },
+        "renewal": {
+            "eur": "352.21"
+        },
+        "transfer": {
+            "eur": "660.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "353.64"
+        }
+    }
+}

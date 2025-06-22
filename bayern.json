@@ -1,0 +1,34 @@
+{
+    "tld": "bayern",
+    "gandi": {
+        "registration": {
+            "eur": "47.80"
+        },
+        "renewal": {
+            "eur": "40.50"
+        },
+        "transfer": {
+            "eur": "90.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "120.16"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "32.99",
+            "usd": "35.99"
+        },
+        "renewal": {
+            "eur": "35.69",
+            "usd": "38.89"
+        },
+        "transfer": {
+            "eur": "32.49",
+            "usd": "35.39"
+        }
+    }
+}

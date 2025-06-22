@@ -1,0 +1,48 @@
+{
+    "tld": "com.au",
+    "internetbs": {
+        "registration": {
+            "usd": "10.92",
+            "eur": "9.91"
+        },
+        "renewal": {
+            "usd": "12.75",
+            "eur": "11.59"
+        },
+        "transfer": {
+            "usd": "0.00",
+            "eur": "0.00"
+        },
+        "restore": {
+            "usd": "205.95",
+            "eur": "186.95"
+        }
+    },
+    "namecheap": {
+        "registration": {
+            "usd": "18.98",
+            "eur": "16.48"
+        },
+        "renewal": {
+            "usd": "19.98",
+            "eur": "17.35"
+        },
+        "transfer": {
+            "null": ""
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "12.38",
+            "usd": "13.64"
+        },
+        "renewal": {
+            "eur": "12.38",
+            "usd": "13.64"
+        },
+        "transfer": {
+            "eur": "12.38",
+            "usd": "13.64"
+        }
+    }
+}

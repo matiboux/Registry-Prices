@@ -1,0 +1,17 @@
+{
+    "tld": "partspromotion",
+    "ovh": {
+        "registration": {
+            "eur": "15.39",
+            "usd": "16.63"
+        },
+        "renewal": {
+            "eur": "36.69",
+            "usd": "39.99"
+        },
+        "transfer": {
+            "eur": "36.09",
+            "usd": "39.29"
+        }
+    }
+}

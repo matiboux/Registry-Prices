@@ -1,0 +1,35 @@
+{
+    "tld": "com.sc",
+    "internetbs": {
+        "registration": {
+            "usd": "133.00",
+            "eur": "120.72"
+        },
+        "renewal": {
+            "usd": "150.39",
+            "eur": "136.49"
+        },
+        "transfer": {
+            "usd": "146.00",
+            "eur": "132.52"
+        },
+        "restore": {
+            "usd": "300.39",
+            "eur": "272.65"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "86.99",
+            "usd": "94.99"
+        },
+        "renewal": {
+            "eur": "93.99",
+            "usd": "101.99"
+        },
+        "transfer": {
+            "eur": "92.49",
+            "usd": "102.59"
+        }
+    }
+}

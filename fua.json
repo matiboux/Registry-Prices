@@ -1,0 +1,17 @@
+{
+    "tld": "fua",
+    "namecheap": {
+        "registration": {
+            "usd": "12.98",
+            "eur": "11.27"
+        },
+        "renewal": {
+            "usd": "12.98",
+            "eur": "11.27"
+        },
+        "transfer": {
+            "usd": "12.98",
+            "eur": "11.27"
+        }
+    }
+}

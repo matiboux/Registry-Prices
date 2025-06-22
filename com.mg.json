@@ -1,0 +1,17 @@
+{
+    "tld": "com.mg",
+    "ovh": {
+        "registration": {
+            "eur": "119",
+            "usd": "129.99"
+        },
+        "renewal": {
+            "eur": "133.99",
+            "usd": "148.69"
+        },
+        "transfer": {
+            "eur": "133.99",
+            "usd": "148.79"
+        }
+    }
+}

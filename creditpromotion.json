@@ -1,0 +1,17 @@
+{
+    "tld": "creditpromotion",
+    "ovh": {
+        "registration": {
+            "eur": "14.89",
+            "usd": "16.09"
+        },
+        "renewal": {
+            "eur": "94.39",
+            "usd": "104.79"
+        },
+        "transfer": {
+            "eur": "92.49",
+            "usd": "102.59"
+        }
+    }
+}

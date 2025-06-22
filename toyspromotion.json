@@ -1,0 +1,17 @@
+{
+    "tld": "toyspromotion",
+    "ovh": {
+        "registration": {
+            "eur": "23.39",
+            "usd": "25.28"
+        },
+        "renewal": {
+            "eur": "58.99",
+            "usd": "64.29"
+        },
+        "transfer": {
+            "eur": "56.69",
+            "usd": "61.79"
+        }
+    }
+}

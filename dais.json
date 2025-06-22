@@ -1,0 +1,17 @@
+{
+    "tld": "dais",
+    "namecheap": {
+        "registration": {
+            "usd": "88.98",
+            "eur": "77.27"
+        },
+        "renewal": {
+            "usd": "43.98",
+            "eur": "38.19"
+        },
+        "transfer": {
+            "usd": "43.98",
+            "eur": "38.19"
+        }
+    }
+}

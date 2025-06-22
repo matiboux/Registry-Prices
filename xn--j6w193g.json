@@ -1,0 +1,17 @@
+{
+    "tld": "香港",
+    "gandi": {
+        "registration": {
+            "eur": "28.00"
+        },
+        "renewal": {
+            "eur": "28.00"
+        },
+        "transfer": {
+            "eur": "60.00"
+        },
+        "owner_change": {
+            "eur": "12.00"
+        }
+    }
+}

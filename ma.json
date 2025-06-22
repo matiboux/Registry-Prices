@@ -1,0 +1,17 @@
+{
+    "tld": "ma",
+    "gandi": {
+        "registration": {
+            "eur": "110.00"
+        },
+        "renewal": {
+            "eur": "94.05"
+        },
+        "transfer": {
+            "eur": "220.00"
+        },
+        "owner_change": {
+            "eur": "110.00"
+        }
+    }
+}

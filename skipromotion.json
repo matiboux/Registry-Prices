@@ -1,0 +1,17 @@
+{
+    "tld": "skipromotion",
+    "ovh": {
+        "registration": {
+            "eur": "36.89",
+            "usd": "39.86"
+        },
+        "renewal": {
+            "eur": "60.29",
+            "usd": "65.69"
+        },
+        "transfer": {
+            "eur": "57.89",
+            "usd": "63.09"
+        }
+    }
+}

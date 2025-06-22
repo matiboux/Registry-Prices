@@ -1,0 +1,17 @@
+{
+    "tld": "org.sb",
+    "ovh": {
+        "registration": {
+            "eur": "55.99",
+            "usd": "60.99"
+        },
+        "renewal": {
+            "eur": "60.99",
+            "usd": "65.99"
+        },
+        "transfer": {
+            "eur": "66.98",
+            "usd": "72.99"
+        }
+    }
+}

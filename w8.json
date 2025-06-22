@@ -1,0 +1,17 @@
+{
+    "tld": "w8",
+    "namecheap": {
+        "registration": {
+            "usd": "149.98",
+            "eur": "130.25"
+        },
+        "renewal": {
+            "usd": "15.98",
+            "eur": "13.88"
+        },
+        "transfer": {
+            "usd": "15.98",
+            "eur": "13.88"
+        }
+    }
+}

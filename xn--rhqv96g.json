@@ -1,0 +1,20 @@
+{
+    "tld": "世界",
+    "gandi": {
+        "registration": {
+            "eur": "34.89"
+        },
+        "renewal": {
+            "eur": "29.57"
+        },
+        "transfer": {
+            "eur": "71.98"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "99.76"
+        }
+    }
+}

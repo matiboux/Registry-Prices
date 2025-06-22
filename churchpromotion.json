@@ -1,0 +1,17 @@
+{
+    "tld": "churchpromotion",
+    "ovh": {
+        "registration": {
+            "eur": "17.89",
+            "usd": "19.33"
+        },
+        "renewal": {
+            "eur": "40.69",
+            "usd": "44.39"
+        },
+        "transfer": {
+            "eur": "39.89",
+            "usd": "43.49"
+        }
+    }
+}

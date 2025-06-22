@@ -1,0 +1,58 @@
+{
+    "tld": "xxx",
+    "cloudflare": {
+        "registration": {
+            "usd": "85.18",
+            "eur": "73.97"
+        },
+        "renewal": {
+            "usd": "85.18",
+            "eur": "73.97"
+        }
+    },
+    "namecheap": {
+        "registration": {
+            "usd": "108.98",
+            "eur": "94.64"
+        },
+        "renewal": {
+            "usd": "110.98",
+            "eur": "96.38"
+        },
+        "transfer": {
+            "usd": "108.98",
+            "eur": "94.64"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "118.57"
+        },
+        "renewal": {
+            "eur": "110.11"
+        },
+        "transfer": {
+            "eur": "130.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "153.91"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "90.69",
+            "usd": "98.89"
+        },
+        "renewal": {
+            "eur": "111.49",
+            "usd": "121.49"
+        },
+        "transfer": {
+            "eur": "104.89",
+            "usd": "114.29"
+        }
+    }
+}

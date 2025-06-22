@@ -1,0 +1,17 @@
+{
+    "tld": "clc",
+    "namecheap": {
+        "registration": {
+            "usd": "75.98",
+            "eur": "65.98"
+        },
+        "renewal": {
+            "usd": "15.98",
+            "eur": "13.88"
+        },
+        "transfer": {
+            "usd": "15.98",
+            "eur": "13.88"
+        }
+    }
+}

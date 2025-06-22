@@ -1,0 +1,17 @@
+{
+    "tld": "irishpromotion",
+    "ovh": {
+        "registration": {
+            "eur": "8.89",
+            "usd": "9.61"
+        },
+        "renewal": {
+            "eur": "19.69",
+            "usd": "21.49"
+        },
+        "transfer": {
+            "eur": "19.29",
+            "usd": "20.99"
+        }
+    }
+}

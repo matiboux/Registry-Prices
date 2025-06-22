@@ -1,0 +1,35 @@
+{
+    "tld": "edu.pl",
+    "internetbs": {
+        "registration": {
+            "usd": "10.99",
+            "eur": "9.99"
+        },
+        "renewal": {
+            "usd": "13.39",
+            "eur": "11.35"
+        },
+        "transfer": {
+            "usd": "12.99",
+            "eur": "10.99"
+        },
+        "restore": {
+            "usd": "50.89",
+            "eur": "51.55"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "2.99",
+            "usd": "3.49"
+        },
+        "renewal": {
+            "eur": "9.99",
+            "usd": "11.49"
+        },
+        "transfer": {
+            "eur": "0",
+            "usd": "0"
+        }
+    }
+}

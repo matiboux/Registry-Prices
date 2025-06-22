@@ -1,0 +1,17 @@
+{
+    "tld": "fundraising",
+    "namecheap": {
+        "registration": {
+            "usd": "7.48",
+            "eur": "6.50"
+        },
+        "renewal": {
+            "usd": "7.48",
+            "eur": "6.50"
+        },
+        "transfer": {
+            "usd": "7.48",
+            "eur": "6.50"
+        }
+    }
+}

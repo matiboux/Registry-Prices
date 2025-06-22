@@ -1,0 +1,17 @@
+{
+    "tld": "landpromotion",
+    "ovh": {
+        "registration": {
+            "eur": "19.89",
+            "usd": "21.49"
+        },
+        "renewal": {
+            "eur": "36.69",
+            "usd": "39.99"
+        },
+        "transfer": {
+            "eur": "36.09",
+            "usd": "39.29"
+        }
+    }
+}

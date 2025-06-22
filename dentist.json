@@ -1,0 +1,76 @@
+{
+    "tld": "dentist",
+    "cloudflare": {
+        "registration": {
+            "usd": "50.18",
+            "eur": "43.58"
+        },
+        "renewal": {
+            "usd": "50.18",
+            "eur": "43.58"
+        }
+    },
+    "internetbs": {
+        "registration": {
+            "usd": "63.63",
+            "eur": "57.76"
+        },
+        "renewal": {
+            "usd": "70.69",
+            "eur": "64.19"
+        },
+        "transfer": {
+            "usd": "63.63",
+            "eur": "57.76"
+        },
+        "restore": {
+            "usd": "344.89",
+            "eur": "313.09"
+        }
+    },
+    "namecheap": {
+        "registration": {
+            "usd": "63.98",
+            "eur": "55.56"
+        },
+        "renewal": {
+            "usd": "65.98",
+            "eur": "57.30"
+        },
+        "transfer": {
+            "usd": "63.98",
+            "eur": "55.56"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "66.41"
+        },
+        "renewal": {
+            "eur": "56.28"
+        },
+        "transfer": {
+            "eur": "140.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "117.43"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "58.09",
+            "usd": "63.29"
+        },
+        "renewal": {
+            "eur": "65.59",
+            "usd": "71.49"
+        },
+        "transfer": {
+            "eur": "64.39",
+            "usd": "70.19"
+        }
+    }
+}

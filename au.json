@@ -1,0 +1,52 @@
+{
+    "tld": "au",
+    "internetbs": {
+        "registration": {
+            "usd": "10.92",
+            "eur": "9.91"
+        },
+        "renewal": {
+            "usd": "12.75",
+            "eur": "11.59"
+        },
+        "transfer": {
+            "usd": "0.00",
+            "eur": "0.00"
+        },
+        "restore": {
+            "usd": "205.29",
+            "eur": "186.35"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "promo€": "20.00"
+        },
+        "renewal": {
+            "": "0.00"
+        },
+        "transfer": {
+            "eur": "40.00"
+        },
+        "owner_change": {
+            "eur": "28.00"
+        },
+        "restore": {
+            "eur": "35.10"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "12.38",
+            "usd": "12.36"
+        },
+        "renewal": {
+            "eur": "12.38",
+            "usd": "12.36"
+        },
+        "transfer": {
+            "eur": "12.38",
+            "usd": "12.36"
+        }
+    }
+}

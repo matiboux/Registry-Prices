@@ -1,0 +1,34 @@
+{
+    "tld": "ruhr",
+    "gandi": {
+        "registration": {
+            "eur": "32.39"
+        },
+        "renewal": {
+            "eur": "28.97"
+        },
+        "transfer": {
+            "eur": "63.98"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "135.12"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "23.99",
+            "usd": "25.99"
+        },
+        "renewal": {
+            "eur": "28.59",
+            "usd": "31.69"
+        },
+        "transfer": {
+            "eur": "28.59",
+            "usd": "31.69"
+        }
+    }
+}

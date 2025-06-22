@@ -1,0 +1,48 @@
+{
+    "tld": "alsace",
+    "scaleway": {
+        "registration": {
+            "eur": "35.61"
+        },
+        "renewal": {
+            "eur": "35.61"
+        },
+        "transfer": {
+            "eur": "39.23"
+        },
+        "restore": {
+            "eur": "49.99"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "45.00"
+        },
+        "renewal": {
+            "eur": "45.00"
+        },
+        "transfer": {
+            "eur": "72.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "57.25"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "30.99",
+            "usd": "33.99"
+        },
+        "renewal": {
+            "eur": "42.39",
+            "usd": "47.09"
+        },
+        "transfer": {
+            "eur": "42.39",
+            "usd": "46.99"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "tld": "vlaanderen",
+    "gandi": {
+        "registration": {
+            "eur": "38.25"
+        },
+        "renewal": {
+            "eur": "32.41"
+        },
+        "transfer": {
+            "eur": "80.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "105.13"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "23.99",
+            "usd": "25.99"
+        },
+        "renewal": {
+            "eur": "28.59",
+            "usd": "31.69"
+        },
+        "transfer": {
+            "eur": "28.59",
+            "usd": "31.69"
+        }
+    }
+}

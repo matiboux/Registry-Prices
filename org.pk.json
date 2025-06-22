@@ -1,0 +1,15 @@
+{
+    "tld": "org.pk",
+    "internetbs": {
+        "registration": {
+            "usd": "66.95",
+            "eur": "60.77"
+        },
+        "renewal": {
+            "usd": "76.19",
+            "eur": "69.15"
+        },
+        "transfer": "",
+        "restore": ""
+    }
+}

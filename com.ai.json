@@ -1,0 +1,31 @@
+{
+    "tld": "com.ai",
+    "cloudflare": {
+        "registration": {
+            "usd": "70.00",
+            "eur": "60.79"
+        },
+        "renewal": {
+            "usd": "70.00",
+            "eur": "60.79"
+        }
+    },
+    "internetbs": {
+        "registration": {
+            "usd": "121.00",
+            "eur": "109.83"
+        },
+        "renewal": {
+            "usd": "135.99",
+            "eur": "123.45"
+        },
+        "transfer": {
+            "usd": "132.00",
+            "eur": "119.82"
+        },
+        "restore": {
+            "usd": "416.79",
+            "eur": "378.35"
+        }
+    }
+}

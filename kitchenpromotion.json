@@ -1,0 +1,17 @@
+{
+    "tld": "kitchenpromotion",
+    "ovh": {
+        "registration": {
+            "eur": "13.89",
+            "usd": "15.01"
+        },
+        "renewal": {
+            "eur": "58.99",
+            "usd": "64.29"
+        },
+        "transfer": {
+            "eur": "56.69",
+            "usd": "61.79"
+        }
+    }
+}

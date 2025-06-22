@@ -1,0 +1,17 @@
+{
+    "tld": "x00m",
+    "namecheap": {
+        "registration": {
+            "usd": "6.98",
+            "eur": "6.06"
+        },
+        "renewal": {
+            "usd": "3.98",
+            "eur": "3.46"
+        },
+        "transfer": {
+            "usd": "3.98",
+            "eur": "3.46"
+        }
+    }
+}

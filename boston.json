@@ -1,0 +1,62 @@
+{
+    "tld": "boston",
+    "cloudflare": {
+        "registration": {
+            "usd": "10.18",
+            "eur": "8.84"
+        },
+        "renewal": {
+            "usd": "10.18",
+            "eur": "8.84"
+        }
+    },
+    "internetbs": {
+        "registration": {
+            "usd": "15.99",
+            "eur": "14.51"
+        },
+        "renewal": {
+            "usd": "17.49",
+            "eur": "15.89"
+        },
+        "transfer": {
+            "usd": "15.99",
+            "eur": "14.51"
+        },
+        "restore": {
+            "usd": "165.49",
+            "eur": "150.25"
+        }
+    },
+    "namecheap": {
+        "registration": {
+            "usd": "19.98",
+            "eur": "17.35"
+        },
+        "renewal": {
+            "usd": "21.98",
+            "eur": "19.09"
+        },
+        "transfer": {
+            "usd": "19.98",
+            "eur": "17.35"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "17.60"
+        },
+        "renewal": {
+            "eur": "14.91"
+        },
+        "transfer": {
+            "eur": "40.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "83.80"
+        }
+    }
+}

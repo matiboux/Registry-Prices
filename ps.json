@@ -1,0 +1,35 @@
+{
+    "tld": "ps",
+    "internetbs": {
+        "registration": {
+            "usd": "83.90",
+            "eur": "76.16"
+        },
+        "renewal": {
+            "usd": "94.69",
+            "eur": "85.95"
+        },
+        "transfer": {
+            "usd": "91.90",
+            "eur": "83.42"
+        },
+        "restore": {
+            "usd": "167.69",
+            "eur": "152.25"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "108.70"
+        },
+        "renewal": {
+            "eur": "108.80"
+        },
+        "transfer": {
+            "eur": "220.00"
+        },
+        "owner_change": {
+            "eur": "65.36"
+        }
+    }
+}

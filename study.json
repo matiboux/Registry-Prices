@@ -1,0 +1,48 @@
+{
+    "tld": "study",
+    "namecheap": {
+        "registration": {
+            "usd": "35.98",
+            "eur": "31.25"
+        },
+        "renewal": {
+            "usd": "37.98",
+            "eur": "32.98"
+        },
+        "transfer": {
+            "usd": "35.98",
+            "eur": "31.25"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "34.51"
+        },
+        "renewal": {
+            "eur": "29.24"
+        },
+        "transfer": {
+            "eur": "70.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "108.16"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "31.89",
+            "usd": "34.79"
+        },
+        "renewal": {
+            "eur": "34.39",
+            "usd": "37.49"
+        },
+        "transfer": {
+            "eur": "34.09",
+            "usd": "37.19"
+        }
+    }
+}

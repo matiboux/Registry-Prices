@@ -1,0 +1,17 @@
+{
+    "tld": "catgirl",
+    "namecheap": {
+        "registration": {
+            "usd": "15.98",
+            "eur": "13.88"
+        },
+        "renewal": {
+            "usd": "37.98",
+            "eur": "32.98"
+        },
+        "transfer": {
+            "usd": "37.98",
+            "eur": "32.98"
+        }
+    }
+}

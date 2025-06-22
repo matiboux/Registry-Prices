@@ -1,0 +1,17 @@
+{
+    "tld": "biopromotion",
+    "ovh": {
+        "registration": {
+            "eur": "8.89",
+            "usd": "9.61"
+        },
+        "renewal": {
+            "eur": "65.39",
+            "usd": "72.59"
+        },
+        "transfer": {
+            "eur": "62.39",
+            "usd": "69.29"
+        }
+    }
+}

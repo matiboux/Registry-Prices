@@ -1,0 +1,17 @@
+{
+    "tld": "4free",
+    "namecheap": {
+        "registration": {
+            "usd": "30.98",
+            "eur": "26.90"
+        },
+        "renewal": {
+            "usd": "30.98",
+            "eur": "26.90"
+        },
+        "transfer": {
+            "usd": "30.98",
+            "eur": "26.90"
+        }
+    }
+}

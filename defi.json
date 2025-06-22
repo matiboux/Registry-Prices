@@ -1,0 +1,17 @@
+{
+    "tld": "defi",
+    "namecheap": {
+        "registration": {
+            "usd": "120.00",
+            "eur": "104.21"
+        },
+        "renewal": {
+            "usd": "120.00",
+            "eur": "104.21"
+        },
+        "transfer": {
+            "usd": "120.00",
+            "eur": "104.21"
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "tld": "istanbul",
+    "internetbs": {
+        "registration": {
+            "usd": "30.99",
+            "eur": "28.13"
+        },
+        "renewal": {
+            "usd": "35.05",
+            "eur": "31.79"
+        },
+        "transfer": {
+            "usd": "33.99",
+            "eur": "30.85"
+        },
+        "restore": {
+            "usd": "140.09",
+            "eur": "127.15"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "25.96"
+        },
+        "renewal": {
+            "eur": "22.00"
+        },
+        "transfer": {
+            "eur": "60.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "94.36"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "17.99",
+            "usd": "20.49"
+        },
+        "renewal": {
+            "eur": "18.99",
+            "usd": "20.99"
+        },
+        "transfer": {
+            "eur": "19.29",
+            "usd": "20.49"
+        }
+    }
+}

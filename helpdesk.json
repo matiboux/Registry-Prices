@@ -1,0 +1,17 @@
+{
+    "tld": "helpdesk",
+    "namecheap": {
+        "registration": {
+            "usd": "22.98",
+            "eur": "19.96"
+        },
+        "renewal": {
+            "usd": "45.98",
+            "eur": "39.93"
+        },
+        "transfer": {
+            "usd": "45.98",
+            "eur": "39.93"
+        }
+    }
+}

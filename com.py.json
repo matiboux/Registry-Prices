@@ -1,0 +1,17 @@
+{
+    "tld": "com.py",
+    "ovh": {
+        "registration": {
+            "eur": "83.99",
+            "usd": "93.19"
+        },
+        "renewal": {
+            "eur": "91.29",
+            "usd": "101.29"
+        },
+        "transfer": {
+            "eur": "0",
+            "usd": "0"
+        }
+    }
+}

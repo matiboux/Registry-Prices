@@ -1,0 +1,66 @@
+{
+    "tld": "vegas",
+    "internetbs": {
+        "registration": {
+            "usd": "62.90",
+            "eur": "56.90"
+        },
+        "renewal": {
+            "usd": "70.99",
+            "eur": "64.79"
+        },
+        "transfer": {
+            "usd": "68.90",
+            "eur": "62.90"
+        },
+        "restore": {
+            "usd": "112.09",
+            "eur": "113.45"
+        }
+    },
+    "namecheap": {
+        "registration": {
+            "usd": "51.98",
+            "eur": "45.14"
+        },
+        "renewal": {
+            "usd": "53.98",
+            "eur": "46.88"
+        },
+        "transfer": {
+            "usd": "51.98",
+            "eur": "45.14"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "55.56"
+        },
+        "renewal": {
+            "eur": "47.08"
+        },
+        "transfer": {
+            "eur": "111.98"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "103.39"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "52.99",
+            "usd": "56.99"
+        },
+        "renewal": {
+            "eur": "50.99",
+            "usd": "55.99"
+        },
+        "transfer": {
+            "eur": "50.39",
+            "usd": "55.89"
+        }
+    }
+}

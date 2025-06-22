@@ -1,0 +1,76 @@
+{
+    "tld": "game",
+    "cloudflare": {
+        "registration": {
+            "usd": "300.18",
+            "eur": "260.69"
+        },
+        "renewal": {
+            "usd": "300.18",
+            "eur": "260.69"
+        }
+    },
+    "internetbs": {
+        "registration": {
+            "usd": "378.00",
+            "eur": "343.00"
+        },
+        "renewal": {
+            "usd": "426.45",
+            "eur": "387.29"
+        },
+        "transfer": {
+            "usd": "414.00",
+            "eur": "376.00"
+        },
+        "restore": {
+            "usd": "432.79",
+            "eur": "437.55"
+        }
+    },
+    "namecheap": {
+        "registration": {
+            "usd": "389.98",
+            "eur": "338.67"
+        },
+        "renewal": {
+            "usd": "391.98",
+            "eur": "340.41"
+        },
+        "transfer": {
+            "usd": "389.98",
+            "eur": "338.67"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "promo€": "318.16"
+        },
+        "renewal": {
+            "eur": "309.16"
+        },
+        "transfer": {
+            "eur": "600.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "366.39"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "294.99",
+            "usd": "309.12"
+        },
+        "renewal": {
+            "eur": "379",
+            "usd": "412.99"
+        },
+        "transfer": {
+            "eur": "349",
+            "usd": "379.99"
+        }
+    }
+}

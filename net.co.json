@@ -1,0 +1,45 @@
+{
+    "tld": "net.co",
+    "cloudflare": {
+        "registration": {
+            "usd": "10.00",
+            "eur": "8.68"
+        },
+        "renewal": {
+            "usd": "10.00",
+            "eur": "8.68"
+        }
+    },
+    "internetbs": {
+        "registration": {
+            "usd": "18.99",
+            "eur": "17.24"
+        },
+        "renewal": {
+            "usd": "21.65",
+            "eur": "19.65"
+        },
+        "transfer": {
+            "usd": "18.99",
+            "eur": "17.24"
+        },
+        "restore": {
+            "usd": "131.69",
+            "eur": "119.55"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "12.49",
+            "usd": "13.59"
+        },
+        "renewal": {
+            "eur": "13.79",
+            "usd": "14.99"
+        },
+        "transfer": {
+            "eur": "12.49",
+            "usd": "13.59"
+        }
+    }
+}

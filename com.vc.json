@@ -1,0 +1,49 @@
+{
+    "tld": "com.vc",
+    "internetbs": {
+        "registration": {
+            "usd": "44.99",
+            "eur": "40.84"
+        },
+        "renewal": {
+            "usd": "50.49",
+            "eur": "45.85"
+        },
+        "transfer": {
+            "usd": "48.99",
+            "eur": "44.47"
+        },
+        "restore": {
+            "usd": "200.49",
+            "eur": "182.05"
+        }
+    },
+    "namecheap": {
+        "registration": {
+            "usd": "32.98",
+            "eur": "28.64"
+        },
+        "renewal": {
+            "usd": "34.98",
+            "eur": "30.38"
+        },
+        "transfer": {
+            "usd": "32.98",
+            "eur": "28.64"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "28.99",
+            "usd": "31.99"
+        },
+        "renewal": {
+            "eur": "31.99",
+            "usd": "34.99"
+        },
+        "transfer": {
+            "eur": "32.19",
+            "usd": "35.69"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "tld": "co.ag",
+    "ovh": {
+        "registration": {
+            "eur": "86.99",
+            "usd": "94.99"
+        },
+        "renewal": {
+            "eur": "93.99",
+            "usd": "101.99"
+        },
+        "transfer": {
+            "eur": "92.49",
+            "usd": "102.59"
+        }
+    }
+}

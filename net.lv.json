@@ -1,0 +1,17 @@
+{
+    "tld": "net.lv",
+    "ovh": {
+        "registration": {
+            "eur": "11.99",
+            "usd": "13.49"
+        },
+        "renewal": {
+            "eur": "14.29",
+            "usd": "15.89"
+        },
+        "transfer": {
+            "eur": "14.29",
+            "usd": "15.89"
+        }
+    }
+}

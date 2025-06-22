@@ -1,0 +1,17 @@
+{
+    "tld": "lean",
+    "namecheap": {
+        "registration": {
+            "usd": "40.00",
+            "eur": "34.74"
+        },
+        "renewal": {
+            "usd": "60.00",
+            "eur": "52.11"
+        },
+        "transfer": {
+            "usd": "60.00",
+            "eur": "52.11"
+        }
+    }
+}

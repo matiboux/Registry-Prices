@@ -1,0 +1,90 @@
+{
+    "tld": "coach",
+    "cloudflare": {
+        "registration": {
+            "usd": "49.18",
+            "eur": "42.71"
+        },
+        "renewal": {
+            "usd": "49.18",
+            "eur": "42.71"
+        }
+    },
+    "internetbs": {
+        "registration": {
+            "usd": "56.15",
+            "eur": "50.97"
+        },
+        "renewal": {
+            "usd": "63.75",
+            "eur": "57.89"
+        },
+        "transfer": {
+            "usd": "56.15",
+            "eur": "50.97"
+        },
+        "restore": {
+            "usd": "325.95",
+            "eur": "295.89"
+        }
+    },
+    "scaleway": {
+        "registration": {
+            "eur": "63.93"
+        },
+        "renewal": {
+            "eur": "48.22"
+        },
+        "transfer": {
+            "eur": "46.38"
+        },
+        "restore": {
+            "eur": "51.74"
+        }
+    },
+    "namecheap": {
+        "registration": {
+            "usd": "62.98",
+            "eur": "54.69"
+        },
+        "renewal": {
+            "usd": "64.98",
+            "eur": "56.43"
+        },
+        "transfer": {
+            "usd": "62.98",
+            "eur": "54.69"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "63.11"
+        },
+        "renewal": {
+            "eur": "53.48"
+        },
+        "transfer": {
+            "eur": "140.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "114.51"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "61.59",
+            "usd": "66.55"
+        },
+        "renewal": {
+            "eur": "64.29",
+            "usd": "70.09"
+        },
+        "transfer": {
+            "eur": "61.59",
+            "usd": "67.09"
+        }
+    }
+}

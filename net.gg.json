@@ -1,0 +1,35 @@
+{
+    "tld": "net.gg",
+    "internetbs": {
+        "registration": {
+            "usd": "74.90",
+            "eur": "67.99"
+        },
+        "renewal": {
+            "usd": "84.39",
+            "eur": "76.59"
+        },
+        "transfer": {
+            "usd": "81.90",
+            "eur": "74.34"
+        },
+        "restore": {
+            "usd": "104.39",
+            "eur": "94.75"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "40.99",
+            "usd": "44.99"
+        },
+        "renewal": {
+            "eur": "43.99",
+            "usd": "47.99"
+        },
+        "transfer": {
+            "eur": "40.99",
+            "usd": "44.99"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "tld": "中文网",
+    "gandi": {
+        "registration": {
+            "eur": "270.00"
+        },
+        "renewal": {
+            "eur": "270.00"
+        },
+        "transfer": {
+            "eur": "360.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "400.00"
+        }
+    }
+}

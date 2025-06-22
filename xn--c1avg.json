@@ -1,0 +1,52 @@
+{
+    "tld": "орг",
+    "internetbs": {
+        "registration": {
+            "usd": "12.99",
+            "eur": "11.99"
+        },
+        "renewal": {
+            "usd": "14.45",
+            "eur": "13.39"
+        },
+        "transfer": {
+            "usd": "13.99",
+            "eur": "12.99"
+        },
+        "restore": {
+            "usd": "137.99",
+            "eur": "139.85"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "12.32"
+        },
+        "renewal": {
+            "eur": "10.44"
+        },
+        "transfer": {
+            "eur": "23.98"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "70.78"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "10.99",
+            "usd": "12.49"
+        },
+        "renewal": {
+            "eur": "11.99",
+            "usd": "13.49"
+        },
+        "transfer": {
+            "eur": "10.99",
+            "usd": "12.49"
+        }
+    }
+}

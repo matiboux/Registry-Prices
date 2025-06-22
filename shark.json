@@ -1,0 +1,17 @@
+{
+    "tld": "shark",
+    "namecheap": {
+        "registration": {
+            "usd": "11.98",
+            "eur": "10.40"
+        },
+        "renewal": {
+            "usd": "11.98",
+            "eur": "10.40"
+        },
+        "transfer": {
+            "usd": "11.98",
+            "eur": "10.40"
+        }
+    }
+}

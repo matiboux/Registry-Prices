@@ -1,0 +1,17 @@
+{
+    "tld": "communion",
+    "namecheap": {
+        "registration": {
+            "usd": "52.98",
+            "eur": "46.01"
+        },
+        "renewal": {
+            "usd": "52.98",
+            "eur": "46.01"
+        },
+        "transfer": {
+            "usd": "52.98",
+            "eur": "46.01"
+        }
+    }
+}

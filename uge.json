@@ -1,0 +1,17 @@
+{
+    "tld": "uge",
+    "namecheap": {
+        "registration": {
+            "usd": "16.00",
+            "eur": "13.89"
+        },
+        "renewal": {
+            "usd": "16.00",
+            "eur": "13.89"
+        },
+        "transfer": {
+            "usd": "16.00",
+            "eur": "13.89"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "tld": "farmpromotion",
+    "ovh": {
+        "registration": {
+            "eur": "19.89",
+            "usd": "21.49"
+        },
+        "renewal": {
+            "eur": "35.39",
+            "usd": "38.59"
+        },
+        "transfer": {
+            "eur": "34.79",
+            "usd": "37.89"
+        }
+    }
+}

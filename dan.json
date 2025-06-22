@@ -1,0 +1,17 @@
+{
+    "tld": "dan",
+    "namecheap": {
+        "registration": {
+            "usd": "55.98",
+            "eur": "48.61"
+        },
+        "renewal": {
+            "usd": "25.98",
+            "eur": "22.56"
+        },
+        "transfer": {
+            "usd": "25.98",
+            "eur": "22.56"
+        }
+    }
+}

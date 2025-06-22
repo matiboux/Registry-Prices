@@ -1,0 +1,17 @@
+{
+    "tld": "clic",
+    "namecheap": {
+        "registration": {
+            "usd": "16.98",
+            "eur": "14.75"
+        },
+        "renewal": {
+            "usd": "16.98",
+            "eur": "14.75"
+        },
+        "transfer": {
+            "usd": "16.98",
+            "eur": "14.75"
+        }
+    }
+}

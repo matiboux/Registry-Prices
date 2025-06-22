@@ -1,0 +1,38 @@
+{
+    "tld": "сайт",
+    "internetbs": {
+        "registration": {
+            "usd": "38.99",
+            "eur": "35.39"
+        },
+        "renewal": {
+            "usd": "44.29",
+            "eur": "40.19"
+        },
+        "transfer": {
+            "usd": "42.99",
+            "eur": "39.02"
+        },
+        "restore": {
+            "usd": "278.59",
+            "eur": "252.85"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "32.42"
+        },
+        "renewal": {
+            "eur": "29.00"
+        },
+        "transfer": {
+            "eur": "63.98"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "135.14"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "tld": "lyf",
+    "namecheap": {
+        "registration": {
+            "usd": "15.98",
+            "eur": "13.88"
+        },
+        "renewal": {
+            "usd": "30.98",
+            "eur": "26.90"
+        },
+        "transfer": {
+            "usd": "30.98",
+            "eur": "26.90"
+        }
+    }
+}

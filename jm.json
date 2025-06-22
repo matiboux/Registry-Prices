@@ -1,0 +1,14 @@
+{
+    "tld": "jm",
+    "gandi": {
+        "registration": {
+            "eur": "141.00"
+        },
+        "renewal": {
+            "eur": "141.00"
+        },
+        "transfer": {
+            "eur": "271.98"
+        }
+    }
+}

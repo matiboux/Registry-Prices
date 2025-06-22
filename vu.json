@@ -1,0 +1,17 @@
+{
+    "tld": "vu",
+    "gandi": {
+        "registration": {
+            "eur": "129.22"
+        },
+        "renewal": {
+            "eur": "110.48"
+        },
+        "transfer": {
+            "eur": "260.00"
+        },
+        "owner_change": {
+            "eur": "72.80"
+        }
+    }
+}

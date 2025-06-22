@@ -1,0 +1,17 @@
+{
+    "tld": "80proof",
+    "namecheap": {
+        "registration": {
+            "usd": "11.11",
+            "eur": "9.65"
+        },
+        "renewal": {
+            "usd": "11.64",
+            "eur": "10.11"
+        },
+        "transfer": {
+            "usd": "11.64",
+            "eur": "10.11"
+        }
+    }
+}

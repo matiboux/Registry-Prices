@@ -1,0 +1,17 @@
+{
+    "tld": "petpromotion",
+    "ovh": {
+        "registration": {
+            "eur": "10.89",
+            "usd": "11.77"
+        },
+        "renewal": {
+            "eur": "22.99",
+            "usd": "25.09"
+        },
+        "transfer": {
+            "eur": "22.59",
+            "usd": "24.89"
+        }
+    }
+}

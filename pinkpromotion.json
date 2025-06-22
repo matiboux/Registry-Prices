@@ -1,0 +1,17 @@
+{
+    "tld": "pinkpromotion",
+    "ovh": {
+        "registration": {
+            "eur": "13.89",
+            "usd": "15.01"
+        },
+        "renewal": {
+            "eur": "22.99",
+            "usd": "25.09"
+        },
+        "transfer": {
+            "eur": "22.59",
+            "usd": "24.59"
+        }
+    }
+}

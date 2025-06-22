@@ -1,0 +1,76 @@
+{
+    "tld": "haus",
+    "cloudflare": {
+        "registration": {
+            "usd": "23.18",
+            "eur": "20.13"
+        },
+        "renewal": {
+            "usd": "23.18",
+            "eur": "20.13"
+        }
+    },
+    "internetbs": {
+        "registration": {
+            "usd": "28.88",
+            "eur": "26.21"
+        },
+        "renewal": {
+            "usd": "30.85",
+            "eur": "28.05"
+        },
+        "transfer": {
+            "usd": "28.88",
+            "eur": "26.21"
+        },
+        "restore": {
+            "usd": "145.05",
+            "eur": "131.69"
+        }
+    },
+    "scaleway": {
+        "registration": {
+            "eur": "28.18"
+        },
+        "renewal": {
+            "eur": "48.22"
+        },
+        "transfer": {
+            "eur": "28.18"
+        },
+        "restore": {
+            "eur": "49.99"
+        }
+    },
+    "namecheap": {
+        "registration": {
+            "usd": "29.98",
+            "eur": "26.04"
+        },
+        "renewal": {
+            "usd": "31.98",
+            "eur": "27.77"
+        },
+        "transfer": {
+            "usd": "29.98",
+            "eur": "26.04"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "35.84"
+        },
+        "renewal": {
+            "eur": "30.37"
+        },
+        "transfer": {
+            "eur": "71.98"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "98.66"
+        }
+    }
+}

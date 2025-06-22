@@ -1,0 +1,34 @@
+{
+    "tld": "pt",
+    "gandi": {
+        "registration": {
+            "eur": "17.38"
+        },
+        "renewal": {
+            "": "0.00"
+        },
+        "transfer": {
+            "eur": "40.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "17.38"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "11.19",
+            "usd": "12.19"
+        },
+        "renewal": {
+            "eur": "13.39",
+            "usd": "14.59"
+        },
+        "transfer": {
+            "eur": "0",
+            "usd": "0"
+        }
+    }
+}

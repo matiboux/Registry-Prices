@@ -1,0 +1,17 @@
+{
+    "tld": "hill",
+    "namecheap": {
+        "registration": {
+            "usd": "9.00",
+            "eur": "7.82"
+        },
+        "renewal": {
+            "usd": "9.00",
+            "eur": "7.82"
+        },
+        "transfer": {
+            "usd": "9.00",
+            "eur": "7.82"
+        }
+    }
+}

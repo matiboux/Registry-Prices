@@ -1,0 +1,17 @@
+{
+    "tld": "nuk",
+    "namecheap": {
+        "registration": {
+            "usd": "1.98",
+            "eur": "1.72"
+        },
+        "renewal": {
+            "usd": "12.48",
+            "eur": "10.84"
+        },
+        "transfer": {
+            "usd": "12.48",
+            "eur": "10.84"
+        }
+    }
+}

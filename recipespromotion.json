@@ -1,0 +1,17 @@
+{
+    "tld": "recipespromotion",
+    "ovh": {
+        "registration": {
+            "eur": "7.89",
+            "usd": "8.53"
+        },
+        "renewal": {
+            "eur": "72.09",
+            "usd": "78.59"
+        },
+        "transfer": {
+            "eur": "69.19",
+            "usd": "75.39"
+        }
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "tld": "actor",
+    "cloudflare": {
+        "registration": {
+            "usd": "31.18",
+            "eur": "27.08"
+        },
+        "renewal": {
+            "usd": "31.18",
+            "eur": "27.08"
+        }
+    },
+    "internetbs": {
+        "registration": {
+            "usd": "35.30",
+            "eur": "32.04"
+        },
+        "renewal": {
+            "usd": "37.49",
+            "eur": "34.05"
+        },
+        "transfer": {
+            "usd": "35.30",
+            "eur": "32.04"
+        },
+        "restore": {
+            "usd": "135.69",
+            "eur": "123.19"
+        }
+    },
+    "scaleway": {
+        "registration": {
+            "eur": "34.68"
+        },
+        "renewal": {
+            "eur": "48.22"
+        },
+        "transfer": {
+            "eur": "34.68"
+        },
+        "restore": {
+            "eur": "49.99"
+        }
+    },
+    "namecheap": {
+        "registration": {
+            "usd": "39.98",
+            "eur": "34.72"
+        },
+        "renewal": {
+            "usd": "41.98",
+            "eur": "36.46"
+        },
+        "transfer": {
+            "usd": "39.98",
+            "eur": "34.72"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "44.10"
+        },
+        "renewal": {
+            "eur": "37.37"
+        },
+        "transfer": {
+            "eur": "90.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "103.01"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "tld": "cryptoservice",
+    "namecheap": {
+        "registration": {
+            "usd": "29.98",
+            "eur": "26.04"
+        },
+        "renewal": {
+            "usd": "7.98",
+            "eur": "6.93"
+        },
+        "transfer": {
+            "usd": "7.98",
+            "eur": "6.93"
+        }
+    }
+}

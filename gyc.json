@@ -1,0 +1,17 @@
+{
+    "tld": "gyc",
+    "namecheap": {
+        "registration": {
+            "usd": "16.98",
+            "eur": "14.75"
+        },
+        "renewal": {
+            "usd": "13.98",
+            "eur": "12.14"
+        },
+        "transfer": {
+            "usd": "13.98",
+            "eur": "12.14"
+        }
+    }
+}

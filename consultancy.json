@@ -1,0 +1,17 @@
+{
+    "tld": "consultancy",
+    "namecheap": {
+        "registration": {
+            "usd": "9.98",
+            "eur": "8.67"
+        },
+        "renewal": {
+            "usd": "20.00",
+            "eur": "17.37"
+        },
+        "transfer": {
+            "usd": "20.00",
+            "eur": "17.37"
+        }
+    }
+}

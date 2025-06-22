@@ -1,0 +1,17 @@
+{
+    "tld": "dweb3",
+    "namecheap": {
+        "registration": {
+            "usd": "2.98",
+            "eur": "2.59"
+        },
+        "renewal": {
+            "usd": "2.98",
+            "eur": "2.59"
+        },
+        "transfer": {
+            "usd": "2.98",
+            "eur": "2.59"
+        }
+    }
+}

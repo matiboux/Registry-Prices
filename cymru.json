@@ -1,0 +1,65 @@
+{
+    "tld": "cymru",
+    "internetbs": {
+        "registration": {
+            "usd": "14.99",
+            "eur": "12.99"
+        },
+        "renewal": {
+            "usd": "16.49",
+            "eur": "14.45"
+        },
+        "transfer": {
+            "usd": "15.99",
+            "eur": "13.99"
+        },
+        "restore": {
+            "usd": "39.59",
+            "eur": "38.59"
+        }
+    },
+    "namecheap": {
+        "registration": {
+            "usd": "12.98",
+            "eur": "11.27"
+        },
+        "renewal": {
+            "usd": "14.98",
+            "eur": "13.01"
+        },
+        "transfer": {
+            "null": ""
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "17.50"
+        },
+        "renewal": {
+            "eur": "14.83"
+        },
+        "transfer": {
+            "eur": "40.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "17.50"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "12.99",
+            "usd": "14.49"
+        },
+        "renewal": {
+            "eur": "13.99",
+            "usd": "15.49"
+        },
+        "transfer": {
+            "eur": "12.99",
+            "usd": "14.49"
+        }
+    }
+}

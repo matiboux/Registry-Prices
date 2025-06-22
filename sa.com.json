@@ -1,0 +1,52 @@
+{
+    "tld": "sa.com",
+    "internetbs": {
+        "registration": {
+            "usd": "705.00",
+            "eur": "639.93"
+        },
+        "renewal": {
+            "usd": "648.89",
+            "eur": "589.05"
+        },
+        "transfer": {
+            "usd": "705.00",
+            "eur": "639.93"
+        },
+        "restore": {
+            "usd": "853.89",
+            "eur": "775.15"
+        }
+    },
+    "namecheap": {
+        "registration": {
+            "usd": "359.98",
+            "eur": "312.62"
+        },
+        "renewal": {
+            "usd": "369.98",
+            "eur": "321.30"
+        },
+        "transfer": {
+            "usd": "359.98",
+            "eur": "312.62"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "197.60"
+        },
+        "renewal": {
+            "eur": "184.04"
+        },
+        "transfer": {
+            "eur": "380.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "197.60"
+        }
+    }
+}

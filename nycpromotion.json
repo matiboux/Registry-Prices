@@ -1,0 +1,17 @@
+{
+    "tld": "nycpromotion",
+    "ovh": {
+        "registration": {
+            "eur": "5.49",
+            "usd": "6.16"
+        },
+        "renewal": {
+            "eur": "33.99",
+            "usd": "36.99"
+        },
+        "transfer": {
+            "eur": "30.29",
+            "usd": "32.99"
+        }
+    }
+}

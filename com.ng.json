@@ -1,0 +1,21 @@
+{
+    "tld": "com.ng",
+    "internetbs": {
+        "registration": {
+            "usd": "9.99",
+            "eur": "9.07"
+        },
+        "renewal": {
+            "usd": "11.35",
+            "eur": "10.29"
+        },
+        "transfer": {
+            "usd": "10.99",
+            "eur": "9.98"
+        },
+        "restore": {
+            "usd": "41.39",
+            "eur": "37.55"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "tld": "com.vn",
+    "internetbs": {
+        "registration": {
+            "usd": "145.00",
+            "eur": "131.62"
+        },
+        "renewal": {
+            "usd": "169.35",
+            "eur": "153.75"
+        },
+        "transfer": {
+            "usd": "164.40",
+            "eur": "149.23"
+        },
+        "restore": {
+            "usd": "189.99",
+            "eur": "172.45"
+        }
+    }
+}

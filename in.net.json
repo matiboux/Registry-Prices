@@ -1,0 +1,52 @@
+{
+    "tld": "in.net",
+    "internetbs": {
+        "registration": {
+            "usd": "7.99",
+            "eur": "6.99"
+        },
+        "renewal": {
+            "usd": "8.25",
+            "eur": "8.25"
+        },
+        "transfer": {
+            "usd": "7.99",
+            "eur": "7.99"
+        },
+        "restore": {
+            "usd": "8.19",
+            "eur": "8.29"
+        }
+    },
+    "namecheap": {
+        "registration": {
+            "usd": "7.98",
+            "eur": "6.93"
+        },
+        "renewal": {
+            "usd": "9.98",
+            "eur": "8.67"
+        },
+        "transfer": {
+            "usd": "7.98",
+            "eur": "6.93"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "10.00"
+        },
+        "renewal": {
+            "eur": "10.00"
+        },
+        "transfer": {
+            "eur": "14.99"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "10.00"
+        }
+    }
+}

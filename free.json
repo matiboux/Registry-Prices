@@ -1,0 +1,34 @@
+{
+    "tld": "free",
+    "namecheap": {
+        "registration": {
+            "usd": "38.98",
+            "eur": "33.85"
+        },
+        "renewal": {
+            "usd": "42.98",
+            "eur": "37.33"
+        },
+        "transfer": {
+            "usd": "38.98",
+            "eur": "33.85"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "69.91"
+        },
+        "renewal": {
+            "eur": "69.91"
+        },
+        "transfer": {
+            "eur": "69.91"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "66.42"
+        }
+    }
+}

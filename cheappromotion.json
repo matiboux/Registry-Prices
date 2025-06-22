@@ -1,0 +1,17 @@
+{
+    "tld": "cheappromotion",
+    "ovh": {
+        "registration": {
+            "eur": "10.89",
+            "usd": "11.77"
+        },
+        "renewal": {
+            "eur": "32.79",
+            "usd": "35.69"
+        },
+        "transfer": {
+            "eur": "32.19",
+            "usd": "35.09"
+        }
+    }
+}

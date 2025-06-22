@@ -1,0 +1,17 @@
+{
+    "tld": "bluepromotion",
+    "ovh": {
+        "registration": {
+            "eur": "19.89",
+            "usd": "21.49"
+        },
+        "renewal": {
+            "eur": "22.29",
+            "usd": "24.29"
+        },
+        "transfer": {
+            "eur": "21.89",
+            "usd": "23.89"
+        }
+    }
+}

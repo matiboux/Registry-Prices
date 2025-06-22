@@ -1,0 +1,17 @@
+{
+    "tld": "kimpromotion",
+    "ovh": {
+        "registration": {
+            "eur": "13.89",
+            "usd": "15.01"
+        },
+        "renewal": {
+            "eur": "19.29",
+            "usd": "21.79"
+        },
+        "transfer": {
+            "eur": "19.29",
+            "usd": "23.29"
+        }
+    }
+}

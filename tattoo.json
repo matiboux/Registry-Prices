@@ -1,0 +1,62 @@
+{
+    "tld": "tattoo",
+    "scaleway": {
+        "registration": {
+            "eur": "39.23"
+        },
+        "renewal": {
+            "eur": "36.22"
+        },
+        "transfer": {
+            "eur": "39.23"
+        },
+        "restore": {
+            "eur": "87.26"
+        }
+    },
+    "namecheap": {
+        "registration": {
+            "usd": "38.98",
+            "eur": "33.85"
+        },
+        "renewal": {
+            "usd": "40.98",
+            "eur": "35.59"
+        },
+        "transfer": {
+            "usd": "38.98",
+            "eur": "33.85"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "52.18"
+        },
+        "renewal": {
+            "eur": "44.22"
+        },
+        "transfer": {
+            "eur": "103.98"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "99.76"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "39.99",
+            "usd": "42.86"
+        },
+        "renewal": {
+            "eur": "37.99",
+            "usd": "40.99"
+        },
+        "transfer": {
+            "eur": "38.39",
+            "usd": "42.59"
+        }
+    }
+}

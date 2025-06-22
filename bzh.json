@@ -1,0 +1,48 @@
+{
+    "tld": "bzh",
+    "scaleway": {
+        "registration": {
+            "eur": "41.51"
+        },
+        "renewal": {
+            "eur": "41.51"
+        },
+        "transfer": {
+            "eur": "45.73"
+        },
+        "restore": {
+            "eur": "51.01"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "promo€": "49.00"
+        },
+        "renewal": {
+            "eur": "44.00"
+        },
+        "transfer": {
+            "eur": "100.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "44.00"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "19.99",
+            "usd": "21.80"
+        },
+        "renewal": {
+            "eur": "49.99",
+            "usd": "53.99"
+        },
+        "transfer": {
+            "eur": "48.99",
+            "usd": "54.39"
+        }
+    }
+}

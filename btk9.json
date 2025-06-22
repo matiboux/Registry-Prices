@@ -1,0 +1,17 @@
+{
+    "tld": "btk9",
+    "namecheap": {
+        "registration": {
+            "usd": "4.98",
+            "eur": "4.32"
+        },
+        "renewal": {
+            "usd": "14.98",
+            "eur": "13.01"
+        },
+        "transfer": {
+            "usd": "14.98",
+            "eur": "13.01"
+        }
+    }
+}

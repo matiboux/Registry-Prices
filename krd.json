@@ -1,0 +1,17 @@
+{
+    "tld": "krd",
+    "namecheap": {
+        "registration": {
+            "usd": "34.98",
+            "eur": "30.38"
+        },
+        "renewal": {
+            "usd": "36.98",
+            "eur": "32.11"
+        },
+        "transfer": {
+            "usd": "29.98",
+            "eur": "26.04"
+        }
+    }
+}

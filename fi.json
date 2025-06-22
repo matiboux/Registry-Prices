@@ -1,0 +1,49 @@
+{
+    "tld": "fi",
+    "internetbs": {
+        "registration": {
+            "usd": "13.99",
+            "eur": "12.99"
+        },
+        "renewal": {
+            "usd": "16.49",
+            "eur": "14.45"
+        },
+        "transfer": {
+            "usd": "15.99",
+            "eur": "13.99"
+        },
+        "restore": {
+            "usd": "46.35",
+            "eur": "43.49"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "15.00"
+        },
+        "renewal": {
+            "": "0.00"
+        },
+        "transfer": {
+            "eur": "40.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "10.99",
+            "usd": "12.49"
+        },
+        "renewal": {
+            "eur": "12.89",
+            "usd": "13.49"
+        },
+        "transfer": {
+            "eur": "0",
+            "usd": "0"
+        }
+    }
+}

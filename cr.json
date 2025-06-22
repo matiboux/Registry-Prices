@@ -1,0 +1,31 @@
+{
+    "tld": "cr",
+    "gandi": {
+        "registration": {
+            "eur": "176.00"
+        },
+        "renewal": {
+            "eur": "176.00"
+        },
+        "transfer": {
+            "eur": "343.98"
+        },
+        "restore": {
+            "eur": "140.92"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "114.49",
+            "usd": "127.09"
+        },
+        "renewal": {
+            "eur": "124.99",
+            "usd": "138.69"
+        },
+        "transfer": {
+            "eur": "0",
+            "usd": "0"
+        }
+    }
+}

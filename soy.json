@@ -1,0 +1,57 @@
+{
+    "tld": "soy",
+    "cloudflare": {
+        "registration": {
+            "usd": "18.18",
+            "eur": "15.79"
+        },
+        "renewal": {
+            "usd": "18.18",
+            "eur": "15.79"
+        }
+    },
+    "namecheap": {
+        "registration": {
+            "usd": "28.98",
+            "eur": "25.17"
+        },
+        "renewal": {
+            "usd": "30.98",
+            "eur": "26.90"
+        },
+        "transfer": {
+            "null": ""
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "25.17"
+        },
+        "renewal": {
+            "eur": "21.33"
+        },
+        "transfer": {
+            "eur": "60.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "104.32"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "20.99",
+            "usd": "22.99"
+        },
+        "renewal": {
+            "eur": "22.99",
+            "usd": "24.99"
+        },
+        "transfer": {
+            "eur": "23.19",
+            "usd": "25.69"
+        }
+    }
+}

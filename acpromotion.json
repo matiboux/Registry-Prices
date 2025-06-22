@@ -1,0 +1,17 @@
+{
+    "tld": "acpromotion",
+    "ovh": {
+        "registration": {
+            "eur": "39.89",
+            "usd": "41.53"
+        },
+        "renewal": {
+            "eur": "57.99",
+            "usd": "64.29"
+        },
+        "transfer": {
+            "eur": "33.99",
+            "usd": "36.20"
+        }
+    }
+}

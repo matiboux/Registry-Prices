@@ -1,0 +1,38 @@
+{
+    "tld": "capetown",
+    "internetbs": {
+        "registration": {
+            "usd": "125.00",
+            "eur": "113.46"
+        },
+        "renewal": {
+            "usd": "128.75",
+            "eur": "116.89"
+        },
+        "transfer": {
+            "usd": "125.00",
+            "eur": "113.46"
+        },
+        "restore": {
+            "usd": "198.75",
+            "eur": "180.45"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "8.70"
+        },
+        "renewal": {
+            "eur": "11.50"
+        },
+        "transfer": {
+            "eur": "30.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "78.56"
+        }
+    }
+}

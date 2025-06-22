@@ -1,0 +1,17 @@
+{
+    "tld": "oof",
+    "namecheap": {
+        "registration": {
+            "usd": "112.98",
+            "eur": "98.12"
+        },
+        "renewal": {
+            "usd": "112.98",
+            "eur": "98.12"
+        },
+        "transfer": {
+            "usd": "112.98",
+            "eur": "98.12"
+        }
+    }
+}

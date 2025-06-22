@@ -1,0 +1,17 @@
+{
+    "tld": "co3",
+    "namecheap": {
+        "registration": {
+            "usd": "3.98",
+            "eur": "3.46"
+        },
+        "renewal": {
+            "usd": "7.98",
+            "eur": "6.93"
+        },
+        "transfer": {
+            "usd": "7.98",
+            "eur": "6.93"
+        }
+    }
+}

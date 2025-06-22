@@ -1,0 +1,17 @@
+{
+    "tld": "worldtour",
+    "namecheap": {
+        "registration": {
+            "usd": "29.98",
+            "eur": "26.04"
+        },
+        "renewal": {
+            "usd": "44.98",
+            "eur": "39.06"
+        },
+        "transfer": {
+            "usd": "44.98",
+            "eur": "39.06"
+        }
+    }
+}

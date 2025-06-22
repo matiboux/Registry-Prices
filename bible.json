@@ -1,0 +1,34 @@
+{
+    "tld": "bible",
+    "gandi": {
+        "registration": {
+            "eur": "64.76"
+        },
+        "renewal": {
+            "eur": "54.88"
+        },
+        "transfer": {
+            "eur": "130.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "113.89"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "29.49",
+            "usd": "31.99"
+        },
+        "renewal": {
+            "eur": "121.69",
+            "usd": "135.09"
+        },
+        "transfer": {
+            "eur": "121.69",
+            "usd": "134.99"
+        }
+    }
+}

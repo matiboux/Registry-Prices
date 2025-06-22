@@ -1,0 +1,66 @@
+{
+    "tld": "tube",
+    "internetbs": {
+        "registration": {
+            "usd": "28.99",
+            "eur": "26.99"
+        },
+        "renewal": {
+            "usd": "32.95",
+            "eur": "29.89"
+        },
+        "transfer": {
+            "usd": "31.99",
+            "eur": "28.99"
+        },
+        "restore": {
+            "usd": "153.99",
+            "eur": "156.09"
+        }
+    },
+    "namecheap": {
+        "registration": {
+            "usd": "25.98",
+            "eur": "22.56"
+        },
+        "renewal": {
+            "usd": "27.98",
+            "eur": "24.30"
+        },
+        "transfer": {
+            "usd": "25.98",
+            "eur": "22.56"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "34.24"
+        },
+        "renewal": {
+            "eur": "29.01"
+        },
+        "transfer": {
+            "eur": "71.98"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "98.74"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "23.99",
+            "usd": "25.99"
+        },
+        "renewal": {
+            "eur": "25.99",
+            "usd": "27.99"
+        },
+        "transfer": {
+            "eur": "25.69",
+            "usd": "28.59"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "tld": "organic",
+    "cloudflare": {
+        "registration": {
+            "usd": "59.18",
+            "eur": "51.39"
+        },
+        "renewal": {
+            "usd": "59.18",
+            "eur": "51.39"
+        }
+    },
+    "internetbs": {
+        "registration": {
+            "usd": "104.75",
+            "eur": "95.08"
+        },
+        "renewal": {
+            "usd": "119.05",
+            "eur": "108.05"
+        },
+        "transfer": {
+            "usd": "104.75",
+            "eur": "95.08"
+        },
+        "restore": {
+            "usd": "243.25",
+            "eur": "220.79"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "95.40"
+        },
+        "renewal": {
+            "eur": "80.84"
+        },
+        "transfer": {
+            "eur": "191.98"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "108.01"
+        }
+    }
+}

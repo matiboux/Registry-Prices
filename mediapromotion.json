@@ -1,0 +1,17 @@
+{
+    "tld": "mediapromotion",
+    "ovh": {
+        "registration": {
+            "eur": "7.39",
+            "usd": "7.99"
+        },
+        "renewal": {
+            "eur": "41.99",
+            "usd": "45.79"
+        },
+        "transfer": {
+            "eur": "41.19",
+            "usd": "44.89"
+        }
+    }
+}

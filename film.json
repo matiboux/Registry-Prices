@@ -1,0 +1,66 @@
+{
+    "tld": "film",
+    "internetbs": {
+        "registration": {
+            "usd": "123.00",
+            "eur": "111.65"
+        },
+        "renewal": {
+            "usd": "139.09",
+            "eur": "126.25"
+        },
+        "transfer": {
+            "usd": "135.00",
+            "eur": "122.54"
+        },
+        "restore": {
+            "usd": "239.09",
+            "eur": "217.05"
+        }
+    },
+    "namecheap": {
+        "registration": {
+            "usd": "77.98",
+            "eur": "67.72"
+        },
+        "renewal": {
+            "usd": "79.98",
+            "eur": "69.46"
+        },
+        "transfer": {
+            "usd": "77.98",
+            "eur": "67.72"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "99.16"
+        },
+        "renewal": {
+            "eur": "87.20"
+        },
+        "transfer": {
+            "eur": "191.98"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "144.16"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "69.99",
+            "usd": "75.99"
+        },
+        "renewal": {
+            "eur": "75.99",
+            "usd": "82.99"
+        },
+        "transfer": {
+            "eur": "74.49",
+            "usd": "82.59"
+        }
+    }
+}

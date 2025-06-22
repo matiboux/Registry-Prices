@@ -1,0 +1,66 @@
+{
+    "tld": "saarland",
+    "internetbs": {
+        "registration": {
+            "usd": "23.99",
+            "eur": "21.99"
+        },
+        "renewal": {
+            "usd": "25.75",
+            "eur": "22.65"
+        },
+        "transfer": {
+            "usd": "24.99",
+            "eur": "21.99"
+        },
+        "restore": {
+            "usd": "235.39",
+            "eur": "220.69"
+        }
+    },
+    "scaleway": {
+        "registration": {
+            "eur": "23.63"
+        },
+        "renewal": {
+            "eur": "21.82"
+        },
+        "transfer": {
+            "eur": "23.63"
+        },
+        "restore": {
+            "eur": "145.26"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "34.50"
+        },
+        "renewal": {
+            "eur": "29.23"
+        },
+        "transfer": {
+            "eur": "71.98"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "163.16"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "25.79",
+            "usd": "28.09"
+        },
+        "renewal": {
+            "eur": "25.79",
+            "usd": "28.09"
+        },
+        "transfer": {
+            "eur": "25.79",
+            "usd": "28.09"
+        }
+    }
+}

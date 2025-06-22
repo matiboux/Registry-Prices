@@ -1,0 +1,17 @@
+{
+    "tld": "premio",
+    "namecheap": {
+        "registration": {
+            "usd": "29.98",
+            "eur": "26.04"
+        },
+        "renewal": {
+            "usd": "2.98",
+            "eur": "2.59"
+        },
+        "transfer": {
+            "usd": "2.98",
+            "eur": "2.59"
+        }
+    }
+}

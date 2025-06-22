@@ -1,0 +1,17 @@
+{
+    "tld": "isthefuture",
+    "namecheap": {
+        "registration": {
+            "usd": "30.00",
+            "eur": "26.05"
+        },
+        "renewal": {
+            "usd": "20.00",
+            "eur": "17.37"
+        },
+        "transfer": {
+            "usd": "20.00",
+            "eur": "17.37"
+        }
+    }
+}

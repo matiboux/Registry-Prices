@@ -1,0 +1,20 @@
+{
+    "tld": "reit",
+    "gandi": {
+        "registration": {
+            "eur": "970.16"
+        },
+        "renewal": {
+            "eur": "981.16"
+        },
+        "transfer": {
+            "eur": "1.591"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "990.16"
+        }
+    }
+}

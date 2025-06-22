@@ -1,0 +1,65 @@
+{
+    "tld": "nagoya",
+    "internetbs": {
+        "registration": {
+            "usd": "22.53",
+            "eur": "20.39"
+        },
+        "renewal": {
+            "usd": "25.45",
+            "eur": "23.05"
+        },
+        "transfer": {
+            "usd": "22.53",
+            "eur": "20.39"
+        },
+        "restore": {
+            "usd": "112.29",
+            "eur": "101.65"
+        }
+    },
+    "namecheap": {
+        "registration": {
+            "usd": "16.98",
+            "eur": "14.75"
+        },
+        "renewal": {
+            "usd": "18.98",
+            "eur": "16.48"
+        },
+        "transfer": {
+            "null": ""
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "12.22"
+        },
+        "renewal": {
+            "eur": "10.35"
+        },
+        "transfer": {
+            "eur": "23.98"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "72.07"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "19.99",
+            "usd": "22.19"
+        },
+        "renewal": {
+            "eur": "21.99",
+            "usd": "24.39"
+        },
+        "transfer": {
+            "eur": "19.99",
+            "usd": "22.19"
+        }
+    }
+}

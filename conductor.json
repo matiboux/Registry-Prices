@@ -1,0 +1,17 @@
+{
+    "tld": "conductor",
+    "namecheap": {
+        "registration": {
+            "usd": "548.98",
+            "eur": "476.75"
+        },
+        "renewal": {
+            "usd": "548.98",
+            "eur": "476.75"
+        },
+        "transfer": {
+            "usd": "548.98",
+            "eur": "476.75"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "tld": "bikepromotion",
+    "ovh": {
+        "registration": {
+            "eur": "15.89",
+            "usd": "17.17"
+        },
+        "renewal": {
+            "eur": "35.39",
+            "usd": "38.59"
+        },
+        "transfer": {
+            "eur": "34.79",
+            "usd": "37.89"
+        }
+    }
+}

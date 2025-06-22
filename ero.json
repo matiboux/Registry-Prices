@@ -1,0 +1,17 @@
+{
+    "tld": "ero",
+    "namecheap": {
+        "registration": {
+            "usd": "5.98",
+            "eur": "5.19"
+        },
+        "renewal": {
+            "usd": "5.98",
+            "eur": "5.19"
+        },
+        "transfer": {
+            "usd": "5.98",
+            "eur": "5.19"
+        }
+    }
+}

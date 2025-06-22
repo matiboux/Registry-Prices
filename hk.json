@@ -1,0 +1,34 @@
+{
+    "tld": "hk",
+    "gandi": {
+        "registration": {
+            "eur": "53.34"
+        },
+        "renewal": {
+            "": "0.00"
+        },
+        "transfer": {
+            "eur": "103.98"
+        },
+        "owner_change": {
+            "eur": "160.01"
+        },
+        "restore": {
+            "eur": "106.67"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "37.99",
+            "usd": "40.99"
+        },
+        "renewal": {
+            "eur": "40.99",
+            "usd": "44.99"
+        },
+        "transfer": {
+            "eur": "120.79",
+            "usd": "133.99"
+        }
+    }
+}

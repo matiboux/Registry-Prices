@@ -1,0 +1,49 @@
+{
+    "tld": "poker",
+    "internetbs": {
+        "registration": {
+            "usd": "93.85",
+            "eur": "85.19"
+        },
+        "renewal": {
+            "usd": "105.59",
+            "eur": "95.85"
+        },
+        "transfer": {
+            "usd": "93.85",
+            "eur": "85.19"
+        },
+        "restore": {
+            "usd": "278.79",
+            "eur": "253.05"
+        }
+    },
+    "scaleway": {
+        "registration": {
+            "eur": "52.23"
+        },
+        "renewal": {
+            "eur": "48.22"
+        },
+        "transfer": {
+            "eur": "52.23"
+        },
+        "restore": {
+            "eur": "58.26"
+        }
+    },
+    "namecheap": {
+        "registration": {
+            "usd": "57.98",
+            "eur": "50.35"
+        },
+        "renewal": {
+            "usd": "59.98",
+            "eur": "52.09"
+        },
+        "transfer": {
+            "usd": "57.98",
+            "eur": "50.35"
+        }
+    }
+}

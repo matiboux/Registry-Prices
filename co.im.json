@@ -1,0 +1,31 @@
+{
+    "tld": "co.im",
+    "namecheap": {
+        "registration": {
+            "usd": "8.48",
+            "eur": "7.36"
+        },
+        "renewal": {
+            "usd": "10.48",
+            "eur": "9.10"
+        },
+        "transfer": {
+            "usd": "0.00",
+            "eur": "0.00"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "12.99",
+            "usd": "14.49"
+        },
+        "renewal": {
+            "eur": "14.99",
+            "usd": "16.49"
+        },
+        "transfer": {
+            "eur": "0",
+            "usd": "0"
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "tld": "sucks",
+    "internetbs": {
+        "registration": {
+            "usd": "407.00",
+            "eur": "369.43"
+        },
+        "renewal": {
+            "usd": "459.39",
+            "eur": "416.99"
+        },
+        "transfer": {
+            "usd": "446.00",
+            "eur": "404.83"
+        },
+        "restore": {
+            "usd": "519.39",
+            "eur": "471.49"
+        }
+    },
+    "namecheap": {
+        "registration": {
+            "usd": "278.98",
+            "eur": "242.28"
+        },
+        "renewal": {
+            "usd": "280.98",
+            "eur": "244.01"
+        },
+        "transfer": {
+            "null": ""
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "226.25"
+        },
+        "renewal": {
+            "eur": "217.25"
+        },
+        "transfer": {
+            "eur": "440.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "253.55"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "209",
+            "usd": "227.99"
+        },
+        "renewal": {
+            "eur": "233.09",
+            "usd": "258.69"
+        },
+        "transfer": {
+            "eur": "233.09",
+            "usd": "258.79"
+        }
+    }
+}

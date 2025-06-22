@@ -1,0 +1,14 @@
+{
+    "tld": "biz.my",
+    "gandi": {
+        "registration": {
+            "eur": "70.00"
+        },
+        "renewal": {
+            "eur": "59.85"
+        },
+        "transfer": {
+            "eur": "110.00"
+        }
+    }
+}

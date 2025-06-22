@@ -1,0 +1,17 @@
+{
+    "tld": "valley",
+    "namecheap": {
+        "registration": {
+            "usd": "500.00",
+            "eur": "434.22"
+        },
+        "renewal": {
+            "usd": "40.00",
+            "eur": "34.74"
+        },
+        "transfer": {
+            "usd": "40.00",
+            "eur": "34.74"
+        }
+    }
+}

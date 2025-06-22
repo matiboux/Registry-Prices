@@ -1,0 +1,52 @@
+{
+    "tld": "hu.net",
+    "internetbs": {
+        "registration": {
+            "usd": "31.99",
+            "eur": "28.99"
+        },
+        "renewal": {
+            "usd": "37.09",
+            "eur": "32.95"
+        },
+        "transfer": {
+            "usd": "35.99",
+            "eur": "31.99"
+        },
+        "restore": {
+            "usd": "65.09",
+            "eur": "60.99"
+        }
+    },
+    "namecheap": {
+        "registration": {
+            "usd": "32.98",
+            "eur": "28.64"
+        },
+        "renewal": {
+            "usd": "32.98",
+            "eur": "28.64"
+        },
+        "transfer": {
+            "usd": "32.98",
+            "eur": "28.64"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "28.60"
+        },
+        "renewal": {
+            "eur": "28.60"
+        },
+        "transfer": {
+            "eur": "60.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "28.60"
+        }
+    }
+}

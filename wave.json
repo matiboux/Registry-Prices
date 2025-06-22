@@ -1,0 +1,17 @@
+{
+    "tld": "wave",
+    "namecheap": {
+        "registration": {
+            "usd": "35.98",
+            "eur": "31.25"
+        },
+        "renewal": {
+            "usd": "35.98",
+            "eur": "31.25"
+        },
+        "transfer": {
+            "usd": "35.98",
+            "eur": "31.25"
+        }
+    }
+}

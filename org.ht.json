@@ -1,0 +1,17 @@
+{
+    "tld": "org.ht",
+    "ovh": {
+        "registration": {
+            "eur": "86.99",
+            "usd": "94.99"
+        },
+        "renewal": {
+            "eur": "93.99",
+            "usd": "101.99"
+        },
+        "transfer": {
+            "eur": "135.69",
+            "usd": "150.69"
+        }
+    }
+}

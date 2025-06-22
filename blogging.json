@@ -1,0 +1,17 @@
+{
+    "tld": "blogging",
+    "namecheap": {
+        "registration": {
+            "usd": "3.98",
+            "eur": "3.46"
+        },
+        "renewal": {
+            "usd": "3.98",
+            "eur": "3.46"
+        },
+        "transfer": {
+            "usd": "3.98",
+            "eur": "3.46"
+        }
+    }
+}

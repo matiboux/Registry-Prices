@@ -1,0 +1,17 @@
+{
+    "tld": "lingo",
+    "namecheap": {
+        "registration": {
+            "usd": "7.48",
+            "eur": "6.50"
+        },
+        "renewal": {
+            "usd": "5.48",
+            "eur": "4.76"
+        },
+        "transfer": {
+            "usd": "5.48",
+            "eur": "4.76"
+        }
+    }
+}

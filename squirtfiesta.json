@@ -1,0 +1,17 @@
+{
+    "tld": "squirtfiesta",
+    "namecheap": {
+        "registration": {
+            "usd": "5.00",
+            "eur": "4.34"
+        },
+        "renewal": {
+            "usd": "10.00",
+            "eur": "8.68"
+        },
+        "transfer": {
+            "usd": "10.00",
+            "eur": "8.68"
+        }
+    }
+}

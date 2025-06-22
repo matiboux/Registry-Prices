@@ -1,0 +1,61 @@
+{
+    "tld": "realty",
+    "cloudflare": {
+        "registration": {
+            "usd": "280.18",
+            "eur": "243.32"
+        },
+        "renewal": {
+            "usd": "280.18",
+            "eur": "243.32"
+        }
+    },
+    "internetbs": {
+        "registration": {
+            "usd": "357.00",
+            "eur": "324.00"
+        },
+        "renewal": {
+            "usd": "402.75",
+            "eur": "365.69"
+        },
+        "transfer": {
+            "usd": "391.00",
+            "eur": "355.00"
+        },
+        "restore": {
+            "usd": "391.79",
+            "eur": "396.09"
+        }
+    },
+    "namecheap": {
+        "registration": {
+            "usd": "312.98",
+            "eur": "271.80"
+        },
+        "renewal": {
+            "usd": "314.98",
+            "eur": "273.54"
+        },
+        "transfer": {
+            "null": ""
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "281.80"
+        },
+        "renewal": {
+            "eur": "272.80"
+        },
+        "transfer": {
+            "eur": "530.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "325.30"
+        }
+    }
+}

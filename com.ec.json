@@ -1,0 +1,17 @@
+{
+    "tld": "com.ec",
+    "ovh": {
+        "registration": {
+            "eur": "75.09",
+            "usd": "83.29"
+        },
+        "renewal": {
+            "eur": "82.59",
+            "usd": "91.69"
+        },
+        "transfer": {
+            "eur": "82.59",
+            "usd": "91.69"
+        }
+    }
+}

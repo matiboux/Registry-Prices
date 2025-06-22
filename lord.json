@@ -1,0 +1,17 @@
+{
+    "tld": "lord",
+    "namecheap": {
+        "registration": {
+            "usd": "1.498",
+            "eur": "1.300"
+        },
+        "renewal": {
+            "usd": "378.98",
+            "eur": "329.12"
+        },
+        "transfer": {
+            "usd": "378.98",
+            "eur": "329.12"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "tld": "tipspromotion",
+    "ovh": {
+        "registration": {
+            "eur": "15.89",
+            "usd": "17.17"
+        },
+        "renewal": {
+            "eur": "27.49",
+            "usd": "30.49"
+        },
+        "transfer": {
+            "eur": "26.99",
+            "usd": "29.99"
+        }
+    }
+}

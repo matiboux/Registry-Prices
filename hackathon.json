@@ -1,0 +1,17 @@
+{
+    "tld": "hackathon",
+    "namecheap": {
+        "registration": {
+            "usd": "75.98",
+            "eur": "65.98"
+        },
+        "renewal": {
+            "usd": "75.98",
+            "eur": "65.98"
+        },
+        "transfer": {
+            "usd": "75.98",
+            "eur": "65.98"
+        }
+    }
+}

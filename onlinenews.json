@@ -1,0 +1,17 @@
+{
+    "tld": "onlinenews",
+    "namecheap": {
+        "registration": {
+            "usd": "22.00",
+            "eur": "19.11"
+        },
+        "renewal": {
+            "usd": "22.00",
+            "eur": "19.11"
+        },
+        "transfer": {
+            "usd": "22.00",
+            "eur": "19.11"
+        }
+    }
+}

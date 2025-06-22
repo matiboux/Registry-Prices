@@ -1,0 +1,17 @@
+{
+    "tld": "academypromotion",
+    "ovh": {
+        "registration": {
+            "eur": "17.39",
+            "usd": "18.10"
+        },
+        "renewal": {
+            "eur": "43.29",
+            "usd": "47.19"
+        },
+        "transfer": {
+            "eur": "39.89",
+            "usd": "43.49"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "tld": "jp",
+    "internetbs": {
+        "registration": {
+            "usd": "32.99",
+            "eur": "29.99"
+        },
+        "renewal": {
+            "usd": "38.09",
+            "eur": "33.99"
+        },
+        "transfer": {
+            "usd": "36.99",
+            "eur": "32.99"
+        },
+        "restore": {
+            "usd": "143.59",
+            "eur": "145.49"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "72.00"
+        },
+        "renewal": {
+            "": "0.00"
+        },
+        "transfer": {
+            "eur": "111.98"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "90.20"
+        }
+    }
+}

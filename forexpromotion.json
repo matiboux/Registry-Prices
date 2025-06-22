@@ -1,0 +1,17 @@
+{
+    "tld": "forexpromotion",
+    "ovh": {
+        "registration": {
+            "eur": "17.89",
+            "usd": "19.33"
+        },
+        "renewal": {
+            "eur": "37.99",
+            "usd": "42.19"
+        },
+        "transfer": {
+            "eur": "38.39",
+            "usd": "42.59"
+        }
+    }
+}

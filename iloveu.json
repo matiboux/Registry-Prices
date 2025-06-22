@@ -1,0 +1,17 @@
+{
+    "tld": "iloveu",
+    "namecheap": {
+        "registration": {
+            "usd": "60.98",
+            "eur": "52.96"
+        },
+        "renewal": {
+            "usd": "19.98",
+            "eur": "17.35"
+        },
+        "transfer": {
+            "usd": "19.98",
+            "eur": "17.35"
+        }
+    }
+}

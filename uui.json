@@ -1,0 +1,17 @@
+{
+    "tld": "uui",
+    "namecheap": {
+        "registration": {
+            "usd": "15.98",
+            "eur": "13.88"
+        },
+        "renewal": {
+            "usd": "15.98",
+            "eur": "13.88"
+        },
+        "transfer": {
+            "usd": "15.98",
+            "eur": "13.88"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "tld": "ahoy",
+    "namecheap": {
+        "registration": {
+            "usd": "7.48",
+            "eur": "6.50"
+        },
+        "renewal": {
+            "usd": "22.98",
+            "eur": "19.96"
+        },
+        "transfer": {
+            "usd": "22.98",
+            "eur": "19.96"
+        }
+    }
+}

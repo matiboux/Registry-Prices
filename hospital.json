@@ -1,0 +1,76 @@
+{
+    "tld": "hospital",
+    "cloudflare": {
+        "registration": {
+            "usd": "44.18",
+            "eur": "38.37"
+        },
+        "renewal": {
+            "usd": "44.18",
+            "eur": "38.37"
+        }
+    },
+    "internetbs": {
+        "registration": {
+            "usd": "51.35",
+            "eur": "46.61"
+        },
+        "renewal": {
+            "usd": "58.29",
+            "eur": "52.95"
+        },
+        "transfer": {
+            "usd": "51.35",
+            "eur": "46.61"
+        },
+        "restore": {
+            "usd": "175.49",
+            "eur": "159.35"
+        }
+    },
+    "namecheap": {
+        "registration": {
+            "usd": "55.98",
+            "eur": "48.61"
+        },
+        "renewal": {
+            "usd": "58.98",
+            "eur": "51.22"
+        },
+        "transfer": {
+            "usd": "55.98",
+            "eur": "48.61"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "63.11"
+        },
+        "renewal": {
+            "eur": "53.49"
+        },
+        "transfer": {
+            "eur": "130.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "114.82"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "48.19",
+            "usd": "53.79"
+        },
+        "renewal": {
+            "eur": "57.69",
+            "usd": "62.89"
+        },
+        "transfer": {
+            "eur": "55.39",
+            "usd": "60.39"
+        }
+    }
+}

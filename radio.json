@@ -1,0 +1,52 @@
+{
+    "tld": "radio",
+    "internetbs": {
+        "registration": {
+            "usd": "427.00",
+            "eur": "387.59"
+        },
+        "renewal": {
+            "usd": "482.05",
+            "eur": "437.55"
+        },
+        "transfer": {
+            "usd": "468.00",
+            "eur": "424.80"
+        },
+        "restore": {
+            "usd": "1.012",
+            "eur": "918.65"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "245.16"
+        },
+        "renewal": {
+            "eur": "236.16"
+        },
+        "transfer": {
+            "eur": "471.98"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "245.15"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "229",
+            "usd": "249.99"
+        },
+        "renewal": {
+            "eur": "258.99",
+            "usd": "287.49"
+        },
+        "transfer": {
+            "eur": "258.99",
+            "usd": "287.49"
+        }
+    }
+}

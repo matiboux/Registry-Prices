@@ -1,0 +1,17 @@
+{
+    "tld": "edu.sn",
+    "ovh": {
+        "registration": {
+            "eur": "46.99",
+            "usd": "50.99"
+        },
+        "renewal": {
+            "eur": "25.99",
+            "usd": "27.99"
+        },
+        "transfer": {
+            "eur": "46.99",
+            "usd": "50.99"
+        }
+    }
+}

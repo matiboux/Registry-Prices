@@ -1,0 +1,32 @@
+{
+    "tld": "ae",
+    "internetbs": {
+        "registration": {
+            "usd": "59.49",
+            "eur": "54.00"
+        },
+        "renewal": {
+            "usd": "61.29",
+            "eur": "55.65"
+        },
+        "transfer": {
+            "usd": "59.49",
+            "eur": "54.00"
+        },
+        "restore": {
+            "usd": "108.15",
+            "eur": "98.19"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "77.90"
+        },
+        "renewal": {
+            "eur": "66.01"
+        },
+        "transfer": {
+            "eur": "151.98"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "tld": "org.ai",
+    "cloudflare": {
+        "registration": {
+            "usd": "70.00",
+            "eur": "60.79"
+        },
+        "renewal": {
+            "usd": "70.00",
+            "eur": "60.79"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "tld": "在线",
+    "namecheap": {
+        "registration": {
+            "null": ""
+        },
+        "renewal": {
+            "usd": "35.98",
+            "eur": "31.25"
+        },
+        "transfer": {
+            "null": ""
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "217.15"
+        },
+        "renewal": {
+            "eur": "208.15"
+        },
+        "transfer": {
+            "eur": "423.98"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "303.15"
+        }
+    }
+}

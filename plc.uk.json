@@ -1,0 +1,17 @@
+{
+    "tld": "plc.uk",
+    "ovh": {
+        "registration": {
+            "eur": "13.98",
+            "usd": "15.49"
+        },
+        "renewal": {
+            "eur": "7.98",
+            "usd": "9.49"
+        },
+        "transfer": {
+            "eur": "0",
+            "usd": "0"
+        }
+    }
+}

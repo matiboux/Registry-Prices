@@ -1,0 +1,76 @@
+{
+    "tld": "lawyer",
+    "cloudflare": {
+        "registration": {
+            "usd": "43.18",
+            "eur": "37.50"
+        },
+        "renewal": {
+            "usd": "43.18",
+            "eur": "37.50"
+        }
+    },
+    "internetbs": {
+        "registration": {
+            "usd": "54.46",
+            "eur": "49.43"
+        },
+        "renewal": {
+            "usd": "60.55",
+            "eur": "54.95"
+        },
+        "transfer": {
+            "usd": "54.46",
+            "eur": "49.43"
+        },
+        "restore": {
+            "usd": "180.75",
+            "eur": "164.05"
+        }
+    },
+    "namecheap": {
+        "registration": {
+            "usd": "54.98",
+            "eur": "47.75"
+        },
+        "renewal": {
+            "usd": "56.98",
+            "eur": "49.48"
+        },
+        "transfer": {
+            "usd": "54.98",
+            "eur": "47.75"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "66.41"
+        },
+        "renewal": {
+            "eur": "56.28"
+        },
+        "transfer": {
+            "eur": "140.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "117.43"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "49.89",
+            "usd": "54.39"
+        },
+        "renewal": {
+            "eur": "56.39",
+            "usd": "61.49"
+        },
+        "transfer": {
+            "eur": "55.39",
+            "usd": "60.39"
+        }
+    }
+}

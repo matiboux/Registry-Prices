@@ -1,0 +1,66 @@
+{
+    "tld": "car",
+    "internetbs": {
+        "registration": {
+            "usd": "2.500",
+            "eur": "2.269"
+        },
+        "renewal": {
+            "usd": "2.725",
+            "eur": "2.473"
+        },
+        "transfer": {
+            "usd": "2.646",
+            "eur": "2.401"
+        },
+        "restore": {
+            "usd": "2.379",
+            "eur": "2.405"
+        }
+    },
+    "namecheap": {
+        "registration": {
+            "usd": "2.298",
+            "eur": "1.995"
+        },
+        "renewal": {
+            "usd": "2.298",
+            "eur": "1.995"
+        },
+        "transfer": {
+            "usd": "2.298",
+            "eur": "1.995"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "1.937"
+        },
+        "renewal": {
+            "eur": "1.927"
+        },
+        "transfer": {
+            "eur": "3.360"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "1.984"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "299 €": "2",
+            "usd": "2.506"
+        },
+        "renewal": {
+            "499 €": "2",
+            "usd": "2.724"
+        },
+        "transfer": {
+            "299 €": "2",
+            "usd": "2.506"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "tld": "financialpromotion",
+    "ovh": {
+        "registration": {
+            "eur": "25.99",
+            "usd": "28.08"
+        },
+        "renewal": {
+            "eur": "52.49",
+            "usd": "57.19"
+        },
+        "transfer": {
+            "eur": "50.89",
+            "usd": "55.49"
+        }
+    }
+}

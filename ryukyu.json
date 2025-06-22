@@ -1,0 +1,65 @@
+{
+    "tld": "ryukyu",
+    "internetbs": {
+        "registration": {
+            "usd": "31.64",
+            "eur": "28.64"
+        },
+        "renewal": {
+            "usd": "34.65",
+            "eur": "31.39"
+        },
+        "transfer": {
+            "usd": "31.64",
+            "eur": "28.64"
+        },
+        "restore": {
+            "usd": "141.25",
+            "eur": "127.89"
+        }
+    },
+    "namecheap": {
+        "registration": {
+            "usd": "17.98",
+            "eur": "15.61"
+        },
+        "renewal": {
+            "usd": "20.98",
+            "eur": "18.22"
+        },
+        "transfer": {
+            "null": ""
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "12.38"
+        },
+        "renewal": {
+            "eur": "10.49"
+        },
+        "transfer": {
+            "eur": "20.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "73.09"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "19.99",
+            "usd": "21.79"
+        },
+        "renewal": {
+            "eur": "21.99",
+            "usd": "23.99"
+        },
+        "transfer": {
+            "eur": "9.99",
+            "usd": "13.99"
+        }
+    }
+}

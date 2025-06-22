@@ -1,0 +1,21 @@
+{
+    "tld": "com.hn",
+    "internetbs": {
+        "registration": {
+            "usd": "99.90",
+            "eur": "90.68"
+        },
+        "renewal": {
+            "usd": "112.29",
+            "eur": "101.95"
+        },
+        "transfer": {
+            "usd": "109.00",
+            "eur": "98.94"
+        },
+        "restore": {
+            "usd": "206.79",
+            "eur": "187.75"
+        }
+    }
+}

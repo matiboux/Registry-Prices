@@ -1,0 +1,17 @@
+{
+    "tld": "island",
+    "namecheap": {
+        "registration": {
+            "usd": "74.00",
+            "eur": "64.26"
+        },
+        "renewal": {
+            "usd": "54.00",
+            "eur": "46.90"
+        },
+        "transfer": {
+            "usd": "54.00",
+            "eur": "46.90"
+        }
+    }
+}

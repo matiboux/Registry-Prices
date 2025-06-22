@@ -1,0 +1,48 @@
+{
+    "tld": "compare",
+    "cloudflare": {
+        "registration": {
+            "usd": "22.18",
+            "eur": "19.26"
+        },
+        "renewal": {
+            "usd": "22.18",
+            "eur": "19.26"
+        }
+    },
+    "internetbs": {
+        "registration": {
+            "usd": "52.95",
+            "eur": "48.06"
+        },
+        "renewal": {
+            "usd": "57.95",
+            "eur": "52.60"
+        },
+        "transfer": {
+            "usd": "52.95",
+            "eur": "48.06"
+        },
+        "restore": {
+            "usd": "167.95",
+            "eur": "152.45"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "36.66"
+        },
+        "renewal": {
+            "eur": "31.07"
+        },
+        "transfer": {
+            "eur": "70.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "99.10"
+        }
+    }
+}

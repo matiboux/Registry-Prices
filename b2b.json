@@ -1,0 +1,17 @@
+{
+    "tld": "b2b",
+    "namecheap": {
+        "registration": {
+            "usd": "30.98",
+            "eur": "26.90"
+        },
+        "renewal": {
+            "usd": "75.98",
+            "eur": "65.98"
+        },
+        "transfer": {
+            "usd": "75.98",
+            "eur": "65.98"
+        }
+    }
+}

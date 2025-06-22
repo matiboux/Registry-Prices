@@ -1,0 +1,17 @@
+{
+    "tld": "com.pa",
+    "ovh": {
+        "registration": {
+            "eur": "34.59",
+            "usd": "38.39"
+        },
+        "renewal": {
+            "eur": "37.79",
+            "usd": "41.89"
+        },
+        "transfer": {
+            "eur": "0",
+            "usd": "0"
+        }
+    }
+}

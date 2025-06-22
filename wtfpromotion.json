@@ -1,0 +1,17 @@
+{
+    "tld": "wtfpromotion",
+    "ovh": {
+        "registration": {
+            "eur": "8.89",
+            "usd": "9.61"
+        },
+        "renewal": {
+            "eur": "32.79",
+            "usd": "35.69"
+        },
+        "transfer": {
+            "eur": "32.19",
+            "usd": "35.09"
+        }
+    }
+}

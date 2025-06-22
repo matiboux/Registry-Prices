@@ -1,0 +1,38 @@
+{
+    "tld": "企业",
+    "internetbs": {
+        "registration": {
+            "usd": "91.90",
+            "eur": "83.90"
+        },
+        "renewal": {
+            "usd": "104.05",
+            "eur": "94.69"
+        },
+        "transfer": {
+            "usd": "101.00",
+            "eur": "91.90"
+        },
+        "restore": {
+            "usd": "141.05",
+            "eur": "142.75"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "102.58"
+        },
+        "renewal": {
+            "eur": "92.70"
+        },
+        "transfer": {
+            "eur": "200.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "137.38"
+        }
+    }
+}

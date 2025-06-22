@@ -1,0 +1,65 @@
+{
+    "tld": "移动",
+    "internetbs": {
+        "registration": {
+            "usd": "16.99",
+            "eur": "14.99"
+        },
+        "renewal": {
+            "usd": "18.55",
+            "eur": "17.49"
+        },
+        "transfer": {
+            "usd": "17.99",
+            "eur": "16.99"
+        },
+        "restore": {
+            "usd": "141.59",
+            "eur": "143.49"
+        }
+    },
+    "namecheap": {
+        "registration": {
+            "usd": "14.98",
+            "eur": "13.01"
+        },
+        "renewal": {
+            "usd": "15.98",
+            "eur": "13.88"
+        },
+        "transfer": {
+            "null": ""
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "20.13"
+        },
+        "renewal": {
+            "eur": "17.06"
+        },
+        "transfer": {
+            "eur": "40.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "86.25"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "14.49",
+            "usd": "16.09"
+        },
+        "renewal": {
+            "eur": "15.99",
+            "usd": "19.49"
+        },
+        "transfer": {
+            "eur": "15.99",
+            "usd": "19.49"
+        }
+    }
+}

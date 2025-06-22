@@ -1,0 +1,52 @@
+{
+    "tld": "jpn.com",
+    "internetbs": {
+        "registration": {
+            "usd": "37.99",
+            "eur": "33.99"
+        },
+        "renewal": {
+            "usd": "41.19",
+            "eur": "37.09"
+        },
+        "transfer": {
+            "usd": "39.99",
+            "eur": "35.99"
+        },
+        "restore": {
+            "usd": "39.59",
+            "eur": "40.05"
+        }
+    },
+    "namecheap": {
+        "registration": {
+            "usd": "38.98",
+            "eur": "33.85"
+        },
+        "renewal": {
+            "usd": "38.98",
+            "eur": "33.85"
+        },
+        "transfer": {
+            "usd": "38.98",
+            "eur": "33.85"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "34.80"
+        },
+        "renewal": {
+            "eur": "34.80"
+        },
+        "transfer": {
+            "eur": "71.98"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "34.80"
+        }
+    }
+}

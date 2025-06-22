@@ -1,0 +1,14 @@
+{
+    "tld": "ainew",
+    "ovh": {
+        "registration": {
+            "usd": "77.39"
+        },
+        "renewal": {
+            "usd": "130.79"
+        },
+        "transfer": {
+            "usd": "143.56"
+        }
+    }
+}

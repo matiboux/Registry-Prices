@@ -1,0 +1,17 @@
+{
+    "tld": "hpp",
+    "namecheap": {
+        "registration": {
+            "usd": "7.48",
+            "eur": "6.50"
+        },
+        "renewal": {
+            "usd": "9.98",
+            "eur": "8.67"
+        },
+        "transfer": {
+            "usd": "9.98",
+            "eur": "8.67"
+        }
+    }
+}

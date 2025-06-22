@@ -1,0 +1,17 @@
+{
+    "tld": "gurupromotion",
+    "ovh": {
+        "registration": {
+            "eur": "4.89",
+            "usd": "5.28"
+        },
+        "renewal": {
+            "eur": "38.09",
+            "usd": "41.49"
+        },
+        "transfer": {
+            "eur": "37.29",
+            "usd": "40.59"
+        }
+    }
+}

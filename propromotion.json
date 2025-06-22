@@ -1,0 +1,17 @@
+{
+    "tld": "propromotion",
+    "ovh": {
+        "registration": {
+            "eur": "3.89",
+            "usd": "4.20"
+        },
+        "renewal": {
+            "eur": "26.29",
+            "usd": "28.69"
+        },
+        "transfer": {
+            "eur": "26.29",
+            "usd": "28.69"
+        }
+    }
+}

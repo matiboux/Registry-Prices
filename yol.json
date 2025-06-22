@@ -1,0 +1,17 @@
+{
+    "tld": "yol",
+    "namecheap": {
+        "registration": {
+            "usd": "12.00",
+            "eur": "10.42"
+        },
+        "renewal": {
+            "usd": "12.00",
+            "eur": "10.42"
+        },
+        "transfer": {
+            "usd": "12.00",
+            "eur": "10.42"
+        }
+    }
+}

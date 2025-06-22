@@ -1,0 +1,48 @@
+{
+    "tld": "shiksha",
+    "scaleway": {
+        "registration": {
+            "eur": "17.33"
+        },
+        "renewal": {
+            "eur": "48.22"
+        },
+        "transfer": {
+            "eur": "17.33"
+        },
+        "restore": {
+            "eur": "49.99"
+        }
+    },
+    "namecheap": {
+        "registration": {
+            "usd": "15.98",
+            "eur": "13.88"
+        },
+        "renewal": {
+            "usd": "16.98",
+            "eur": "14.75"
+        },
+        "transfer": {
+            "usd": "15.98",
+            "eur": "13.88"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "22.03"
+        },
+        "renewal": {
+            "eur": "18.67"
+        },
+        "transfer": {
+            "eur": "50.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "88.15"
+        }
+    }
+}

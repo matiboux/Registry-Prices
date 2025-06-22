@@ -1,0 +1,17 @@
+{
+    "tld": "kcx",
+    "namecheap": {
+        "registration": {
+            "usd": "12.98",
+            "eur": "11.27"
+        },
+        "renewal": {
+            "usd": "11.98",
+            "eur": "10.40"
+        },
+        "transfer": {
+            "usd": "11.98",
+            "eur": "10.40"
+        }
+    }
+}

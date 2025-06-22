@@ -1,0 +1,20 @@
+{
+    "tld": "watches",
+    "gandi": {
+        "registration": {
+            "eur": "390.00"
+        },
+        "renewal": {
+            "eur": "287.66"
+        },
+        "transfer": {
+            "eur": "720.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "322.46"
+        }
+    }
+}

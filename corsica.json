@@ -1,0 +1,34 @@
+{
+    "tld": "corsica",
+    "gandi": {
+        "registration": {
+            "eur": "24.25"
+        },
+        "renewal": {
+            "eur": "24.25"
+        },
+        "transfer": {
+            "eur": "50.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "51.61"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "17.99",
+            "usd": "20.49"
+        },
+        "renewal": {
+            "eur": "38.39",
+            "usd": "42.59"
+        },
+        "transfer": {
+            "eur": "38.39",
+            "usd": "42.59"
+        }
+    }
+}

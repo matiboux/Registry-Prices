@@ -1,0 +1,17 @@
+{
+    "tld": "dancepromotion",
+    "ovh": {
+        "registration": {
+            "eur": "22.39",
+            "usd": "24.19"
+        },
+        "renewal": {
+            "eur": "24.99",
+            "usd": "27.19"
+        },
+        "transfer": {
+            "eur": "24.49",
+            "usd": "26.69"
+        }
+    }
+}

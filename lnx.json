@@ -1,0 +1,17 @@
+{
+    "tld": "lnx",
+    "namecheap": {
+        "registration": {
+            "usd": "28.98",
+            "eur": "25.17"
+        },
+        "renewal": {
+            "usd": "28.98",
+            "eur": "25.17"
+        },
+        "transfer": {
+            "usd": "28.98",
+            "eur": "25.17"
+        }
+    }
+}

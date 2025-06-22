@@ -1,0 +1,17 @@
+{
+    "tld": "photographypromotion",
+    "ovh": {
+        "registration": {
+            "eur": "19.89",
+            "usd": "21.49"
+        },
+        "renewal": {
+            "eur": "32.89",
+            "usd": "35.89"
+        },
+        "transfer": {
+            "eur": "32.19",
+            "usd": "35.09"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "tld": "merc",
+    "namecheap": {
+        "registration": {
+            "usd": "2.98",
+            "eur": "2.59"
+        },
+        "renewal": {
+            "usd": "45.98",
+            "eur": "39.93"
+        },
+        "transfer": {
+            "usd": "45.98",
+            "eur": "39.93"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "tld": "ooo",
+    "scaleway": {
+        "registration": {
+            "eur": "26.22"
+        },
+        "renewal": {
+            "eur": "24.20"
+        },
+        "transfer": {
+            "eur": "26.22"
+        },
+        "restore": {
+            "eur": "116.26"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "34.22"
+        },
+        "renewal": {
+            "eur": "29.00"
+        },
+        "transfer": {
+            "eur": "71.98"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "134.45"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "23.99",
+            "usd": "25.99"
+        },
+        "renewal": {
+            "eur": "25.99",
+            "usd": "27.99"
+        },
+        "transfer": {
+            "eur": "25.69",
+            "usd": "28.59"
+        }
+    }
+}

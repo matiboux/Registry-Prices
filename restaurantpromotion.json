@@ -1,0 +1,17 @@
+{
+    "tld": "restaurantpromotion",
+    "ovh": {
+        "registration": {
+            "eur": "19.89",
+            "usd": "21.49"
+        },
+        "renewal": {
+            "eur": "57.69",
+            "usd": "62.89"
+        },
+        "transfer": {
+            "eur": "53.89",
+            "usd": "58.69"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "tld": "earthpromotion",
+    "ovh": {
+        "registration": {
+            "eur": "6.99",
+            "usd": "7.28"
+        },
+        "renewal": {
+            "eur": "18.99",
+            "usd": "20.99"
+        },
+        "transfer": {
+            "eur": "19.29",
+            "usd": "20.49"
+        }
+    }
+}

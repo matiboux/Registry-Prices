@@ -1,0 +1,17 @@
+{
+    "tld": "hire",
+    "namecheap": {
+        "registration": {
+            "usd": "74.98",
+            "eur": "65.12"
+        },
+        "renewal": {
+            "usd": "50.00",
+            "eur": "43.42"
+        },
+        "transfer": {
+            "usd": "50.00",
+            "eur": "43.42"
+        }
+    }
+}

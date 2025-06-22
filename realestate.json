@@ -1,0 +1,20 @@
+{
+    "tld": "realestate",
+    "gandi": {
+        "registration": {
+            "eur": "103.63"
+        },
+        "renewal": {
+            "eur": "94.40"
+        },
+        "transfer": {
+            "eur": "200.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "138.03"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "tld": "aotearoa",
+    "namecheap": {
+        "registration": {
+            "usd": "37.98",
+            "eur": "32.98"
+        },
+        "renewal": {
+            "usd": "10.00",
+            "eur": "8.68"
+        },
+        "transfer": {
+            "usd": "10.00",
+            "eur": "8.68"
+        }
+    }
+}

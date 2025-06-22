@@ -1,0 +1,17 @@
+{
+    "tld": "doctorpromotion",
+    "ovh": {
+        "registration": {
+            "eur": "13.89",
+            "usd": "15.01"
+        },
+        "renewal": {
+            "eur": "100.69",
+            "usd": "111.69"
+        },
+        "transfer": {
+            "eur": "98.49",
+            "usd": "109.29"
+        }
+    }
+}

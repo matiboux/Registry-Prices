@@ -1,0 +1,17 @@
+{
+    "tld": "mwallet",
+    "namecheap": {
+        "registration": {
+            "usd": "4.98",
+            "eur": "4.32"
+        },
+        "renewal": {
+            "usd": "21.98",
+            "eur": "19.09"
+        },
+        "transfer": {
+            "usd": "21.98",
+            "eur": "19.09"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "tld": "baas",
+    "namecheap": {
+        "registration": {
+            "usd": "15.98",
+            "eur": "13.88"
+        },
+        "renewal": {
+            "usd": "45.98",
+            "eur": "39.93"
+        },
+        "transfer": {
+            "usd": "45.98",
+            "eur": "39.93"
+        }
+    }
+}

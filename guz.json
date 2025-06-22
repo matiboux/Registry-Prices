@@ -1,0 +1,17 @@
+{
+    "tld": "guz",
+    "namecheap": {
+        "registration": {
+            "usd": "15.98",
+            "eur": "13.88"
+        },
+        "renewal": {
+            "usd": "18.98",
+            "eur": "16.48"
+        },
+        "transfer": {
+            "usd": "18.98",
+            "eur": "16.48"
+        }
+    }
+}

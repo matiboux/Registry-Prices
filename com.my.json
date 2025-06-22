@@ -1,0 +1,17 @@
+{
+    "tld": "com.my",
+    "gandi": {
+        "registration": {
+            "eur": "50.00"
+        },
+        "renewal": {
+            "eur": "42.75"
+        },
+        "transfer": {
+            "eur": "80.00"
+        },
+        "owner_change": {
+            "eur": "60.00"
+        }
+    }
+}

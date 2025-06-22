@@ -1,0 +1,17 @@
+{
+    "tld": "gin",
+    "namecheap": {
+        "registration": {
+            "usd": "450.00",
+            "eur": "390.79"
+        },
+        "renewal": {
+            "usd": "450.00",
+            "eur": "390.79"
+        },
+        "transfer": {
+            "usd": "450.00",
+            "eur": "390.79"
+        }
+    }
+}

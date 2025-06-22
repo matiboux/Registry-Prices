@@ -1,0 +1,17 @@
+{
+    "tld": "elite",
+    "namecheap": {
+        "registration": {
+            "usd": "8.98",
+            "eur": "7.80"
+        },
+        "renewal": {
+            "usd": "8.98",
+            "eur": "7.80"
+        },
+        "transfer": {
+            "null": "",
+            "null": ""
+        }
+    }
+}

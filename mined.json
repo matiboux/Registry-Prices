@@ -1,0 +1,17 @@
+{
+    "tld": "mined",
+    "namecheap": {
+        "registration": {
+            "usd": "100.00",
+            "eur": "86.84"
+        },
+        "renewal": {
+            "usd": "40.00",
+            "eur": "34.74"
+        },
+        "transfer": {
+            "usd": "40.00",
+            "eur": "34.74"
+        }
+    }
+}

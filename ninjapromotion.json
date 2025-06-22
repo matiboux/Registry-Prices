@@ -1,0 +1,17 @@
+{
+    "tld": "ninjapromotion",
+    "ovh": {
+        "registration": {
+            "eur": "19.89",
+            "usd": "21.49"
+        },
+        "renewal": {
+            "eur": "28.09",
+            "usd": "31.19"
+        },
+        "transfer": {
+            "eur": "26.99",
+            "usd": "29.99"
+        }
+    }
+}

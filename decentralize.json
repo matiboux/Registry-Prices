@@ -1,0 +1,17 @@
+{
+    "tld": "decentralize",
+    "namecheap": {
+        "registration": {
+            "usd": "3.98",
+            "eur": "3.46"
+        },
+        "renewal": {
+            "usd": "2.98",
+            "eur": "2.59"
+        },
+        "transfer": {
+            "usd": "2.98",
+            "eur": "2.59"
+        }
+    }
+}

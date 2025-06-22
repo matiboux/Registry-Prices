@@ -1,0 +1,52 @@
+{
+    "tld": "scot",
+    "internetbs": {
+        "registration": {
+            "usd": "59.90",
+            "eur": "54.37"
+        },
+        "renewal": {
+            "usd": "67.89",
+            "eur": "61.65"
+        },
+        "transfer": {
+            "usd": "65.90",
+            "eur": "59.82"
+        },
+        "restore": {
+            "usd": "465.69",
+            "eur": "422.69"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "42.10"
+        },
+        "renewal": {
+            "eur": "35.67"
+        },
+        "transfer": {
+            "eur": "90.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "237.16"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "22.99",
+            "usd": "24.99"
+        },
+        "renewal": {
+            "eur": "29.99",
+            "usd": "32.99"
+        },
+        "transfer": {
+            "eur": "32.99",
+            "usd": "35.99"
+        }
+    }
+}

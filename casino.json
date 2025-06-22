@@ -1,0 +1,76 @@
+{
+    "tld": "casino",
+    "cloudflare": {
+        "registration": {
+            "usd": "118.18",
+            "eur": "102.63"
+        },
+        "renewal": {
+            "usd": "118.18",
+            "eur": "102.63"
+        }
+    },
+    "internetbs": {
+        "registration": {
+            "usd": "142.31",
+            "eur": "129.17"
+        },
+        "renewal": {
+            "usd": "159.85",
+            "eur": "145.09"
+        },
+        "transfer": {
+            "usd": "142.31",
+            "eur": "129.17"
+        },
+        "restore": {
+            "usd": "261.05",
+            "eur": "236.95"
+        }
+    },
+    "scaleway": {
+        "registration": {
+            "eur": "128.93"
+        },
+        "renewal": {
+            "eur": "48.22"
+        },
+        "transfer": {
+            "eur": "128.93"
+        },
+        "restore": {
+            "eur": "143.81"
+        }
+    },
+    "namecheap": {
+        "registration": {
+            "usd": "147.98",
+            "eur": "128.51"
+        },
+        "renewal": {
+            "usd": "149.98",
+            "eur": "130.25"
+        },
+        "transfer": {
+            "usd": "147.98",
+            "eur": "128.51"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "139.24"
+        },
+        "renewal": {
+            "eur": "129.69"
+        },
+        "transfer": {
+            "eur": "271.98"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "173.25"
+        }
+    }
+}

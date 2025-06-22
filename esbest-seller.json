@@ -1,0 +1,17 @@
+{
+    "tld": "esbest-seller",
+    "ovh": {
+        "registration": {
+            "eur": "11.99",
+            "usd": "13.49"
+        },
+        "renewal": {
+            "eur": "11.99",
+            "usd": "13.49"
+        },
+        "transfer": {
+            "eur": "0",
+            "usd": "0"
+        }
+    }
+}

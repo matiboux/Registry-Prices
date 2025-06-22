@@ -1,0 +1,17 @@
+{
+    "tld": "gov.uk",
+    "ovh": {
+        "registration": {
+            "eur": "99.99",
+            "usd": "108.99"
+        },
+        "renewal": {
+            "eur": "84.79",
+            "usd": "94.09"
+        },
+        "transfer": {
+            "eur": "0",
+            "usd": "0"
+        }
+    }
+}

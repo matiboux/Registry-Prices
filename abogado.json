@@ -1,0 +1,34 @@
+{
+    "tld": "abogado",
+    "gandi": {
+        "registration": {
+            "eur": "35.88"
+        },
+        "renewal": {
+            "eur": "30.41"
+        },
+        "transfer": {
+            "eur": "71.98"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "94.20"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "28.99",
+            "usd": "31.99"
+        },
+        "renewal": {
+            "eur": "31.99",
+            "usd": "34.99"
+        },
+        "transfer": {
+            "eur": "32.19",
+            "usd": "35.69"
+        }
+    }
+}

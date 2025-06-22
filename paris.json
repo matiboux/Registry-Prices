@@ -1,0 +1,61 @@
+{
+    "tld": "paris",
+    "scaleway": {
+        "registration": {
+            "eur": "34.43"
+        },
+        "renewal": {
+            "eur": "34.43"
+        },
+        "transfer": {
+            "eur": "37.93"
+        },
+        "restore": {
+            "eur": "49.99"
+        }
+    },
+    "namecheap": {
+        "registration": {
+            "usd": "46.98",
+            "eur": "40.80"
+        },
+        "renewal": {
+            "usd": "48.98",
+            "eur": "42.54"
+        },
+        "transfer": {
+            "null": ""
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "39.00"
+        },
+        "renewal": {
+            "eur": "36.00"
+        },
+        "transfer": {
+            "eur": "80.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "39.00"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "24.99",
+            "usd": "26.66"
+        },
+        "renewal": {
+            "eur": "40.99",
+            "usd": "45.49"
+        },
+        "transfer": {
+            "eur": "40.99",
+            "usd": "45.59"
+        }
+    }
+}

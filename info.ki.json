@@ -1,0 +1,17 @@
+{
+    "tld": "info.ki",
+    "ovh": {
+        "registration": {
+            "eur": "919",
+            "usd": "1.002"
+        },
+        "renewal": {
+            "eur": "999",
+            "usd": "1.089"
+        },
+        "transfer": {
+            "eur": "969",
+            "usd": "1.056"
+        }
+    }
+}

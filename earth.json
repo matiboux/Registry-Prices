@@ -1,0 +1,51 @@
+{
+    "tld": "earth",
+    "internetbs": {
+        "registration": {
+            "usd": "30.99",
+            "eur": "28.13"
+        },
+        "renewal": {
+            "usd": "35.05",
+            "eur": "31.79"
+        },
+        "transfer": {
+            "usd": "33.99",
+            "eur": "30.85"
+        },
+        "restore": {
+            "usd": "160.09",
+            "eur": "145.29"
+        }
+    },
+    "namecheap": {
+        "registration": {
+            "usd": "19.98",
+            "eur": "17.35"
+        },
+        "renewal": {
+            "usd": "21.98",
+            "eur": "19.09"
+        },
+        "transfer": {
+            "null": ""
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "25.96"
+        },
+        "renewal": {
+            "eur": "22.00"
+        },
+        "transfer": {
+            "eur": "60.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "112.66"
+        }
+    }
+}

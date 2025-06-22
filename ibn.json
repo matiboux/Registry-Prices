@@ -1,0 +1,17 @@
+{
+    "tld": "ibn",
+    "namecheap": {
+        "registration": {
+            "usd": "40.00",
+            "eur": "34.74"
+        },
+        "renewal": {
+            "usd": "130.00",
+            "eur": "112.90"
+        },
+        "transfer": {
+            "usd": "130.00",
+            "eur": "112.90"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "tld": "winepromotion",
+    "ovh": {
+        "registration": {
+            "eur": "8.89",
+            "usd": "9.61"
+        },
+        "renewal": {
+            "eur": "53.79",
+            "usd": "58.59"
+        },
+        "transfer": {
+            "eur": "52.19",
+            "usd": "56.89"
+        }
+    }
+}

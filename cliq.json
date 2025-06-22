@@ -1,0 +1,17 @@
+{
+    "tld": "cliq",
+    "namecheap": {
+        "registration": {
+            "usd": "14.98",
+            "eur": "13.01"
+        },
+        "renewal": {
+            "usd": "22.98",
+            "eur": "19.96"
+        },
+        "transfer": {
+            "usd": "22.98",
+            "eur": "19.96"
+        }
+    }
+}

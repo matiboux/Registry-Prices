@@ -1,0 +1,48 @@
+{
+    "tld": "org.es",
+    "internetbs": {
+        "registration": {
+            "usd": "3.99",
+            "eur": "3.62"
+        },
+        "renewal": {
+            "usd": "4.15",
+            "eur": "3.75"
+        },
+        "transfer": {
+            "usd": "3.99",
+            "eur": "3.62"
+        },
+        "restore": {
+            "usd": "61.19",
+            "eur": "55.55"
+        }
+    },
+    "namecheap": {
+        "registration": {
+            "usd": "18.98",
+            "eur": "16.48"
+        },
+        "renewal": {
+            "usd": "19.98",
+            "eur": "17.35"
+        },
+        "transfer": {
+            "null": ""
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "6.99",
+            "usd": "8.49"
+        },
+        "renewal": {
+            "eur": "6.99",
+            "usd": "8.49"
+        },
+        "transfer": {
+            "eur": "0",
+            "usd": "0"
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "tld": "geometre-expert.fr",
+    "gandi": {
+        "registration": {
+            "eur": "19.00"
+        },
+        "renewal": {
+            "eur": "16.10"
+        },
+        "transfer": {
+            "eur": "40.00"
+        },
+        "owner_change": {
+            "eur": "19.00"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "19.99",
+            "usd": "21.99"
+        },
+        "renewal": {
+            "eur": "19.99",
+            "usd": "21.99"
+        },
+        "transfer": {
+            "eur": "19.99",
+            "usd": "21.99"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "tld": "coinnet",
+    "namecheap": {
+        "registration": {
+            "usd": "30.98",
+            "eur": "26.90"
+        },
+        "renewal": {
+            "usd": "22.98",
+            "eur": "19.96"
+        },
+        "transfer": {
+            "usd": "22.98",
+            "eur": "19.96"
+        }
+    }
+}

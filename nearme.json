@@ -1,0 +1,17 @@
+{
+    "tld": "nearme",
+    "namecheap": {
+        "registration": {
+            "usd": "150.00",
+            "eur": "130.26"
+        },
+        "renewal": {
+            "usd": "34.00",
+            "eur": "29.53"
+        },
+        "transfer": {
+            "usd": "34.00",
+            "eur": "29.53"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "tld": "spot",
+    "namecheap": {
+        "registration": {
+            "usd": "25.98",
+            "eur": "22.56"
+        },
+        "renewal": {
+            "usd": "28.98",
+            "eur": "25.17"
+        },
+        "transfer": {
+            "usd": "25.98",
+            "eur": "22.56"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "66.42"
+        },
+        "renewal": {
+            "eur": "69.91"
+        },
+        "transfer": {
+            "eur": "69.91"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "66.42"
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "tld": "radio.am",
+    "internetbs": {
+        "registration": {
+            "usd": "24.99",
+            "eur": "22.68"
+        },
+        "renewal": {
+            "usd": "27.79",
+            "eur": "25.25"
+        },
+        "transfer": {
+            "usd": "26.99",
+            "eur": "24.50"
+        },
+        "restore": {
+            "usd": "115.79",
+            "eur": "105.15"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "15.27"
+        },
+        "renewal": {
+            "eur": "12.94"
+        },
+        "transfer": {
+            "eur": "31.98"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "74.65"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "15.79",
+            "usd": "17.19"
+        },
+        "renewal": {
+            "eur": "15.79",
+            "usd": "17.19"
+        },
+        "transfer": {
+            "eur": "15.79",
+            "usd": "17.19"
+        }
+    }
+}

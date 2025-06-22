@@ -1,0 +1,17 @@
+{
+    "tld": "we3",
+    "namecheap": {
+        "registration": {
+            "usd": "4.98",
+            "eur": "4.32"
+        },
+        "renewal": {
+            "usd": "4.98",
+            "eur": "4.32"
+        },
+        "transfer": {
+            "usd": "4.98",
+            "eur": "4.32"
+        }
+    }
+}

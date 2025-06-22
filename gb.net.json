@@ -1,0 +1,52 @@
+{
+    "tld": "gb.net",
+    "internetbs": {
+        "registration": {
+            "usd": "7.99",
+            "eur": "7.99"
+        },
+        "renewal": {
+            "usd": "9.29",
+            "eur": "9.29"
+        },
+        "transfer": {
+            "usd": "8.99",
+            "eur": "8.99"
+        },
+        "restore": {
+            "usd": "38.49",
+            "eur": "37.55"
+        }
+    },
+    "namecheap": {
+        "registration": {
+            "usd": "9.98",
+            "eur": "8.67"
+        },
+        "renewal": {
+            "usd": "11.98",
+            "eur": "10.40"
+        },
+        "transfer": {
+            "usd": "9.98",
+            "eur": "8.67"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "24.00"
+        },
+        "renewal": {
+            "eur": "24.00"
+        },
+        "transfer": {
+            "eur": "50.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "24.00"
+        }
+    }
+}

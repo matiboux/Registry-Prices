@@ -1,0 +1,52 @@
+{
+    "tld": "ru.com",
+    "internetbs": {
+        "registration": {
+            "usd": "315.00",
+            "eur": "285.93"
+        },
+        "renewal": {
+            "usd": "293.59",
+            "eur": "266.49"
+        },
+        "transfer": {
+            "usd": "315.00",
+            "eur": "285.93"
+        },
+        "restore": {
+            "usd": "343.59",
+            "eur": "311.89"
+        }
+    },
+    "namecheap": {
+        "registration": {
+            "usd": "176.98",
+            "eur": "153.70"
+        },
+        "renewal": {
+            "usd": "179.98",
+            "eur": "156.30"
+        },
+        "transfer": {
+            "usd": "176.98",
+            "eur": "153.70"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "68.65"
+        },
+        "renewal": {
+            "eur": "68.65"
+        },
+        "transfer": {
+            "eur": "140.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "68.65"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "tld": "中国",
+    "gandi": {
+        "registration": {
+            "eur": "8.44"
+        },
+        "renewal": {
+            "eur": "18.82"
+        },
+        "transfer": {
+            "eur": "50.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "204.69"
+        }
+    }
+}

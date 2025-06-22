@@ -1,0 +1,17 @@
+{
+    "tld": "globalpromotion",
+    "ovh": {
+        "registration": {
+            "eur": "59.89",
+            "usd": "64.72"
+        },
+        "renewal": {
+            "eur": "83.89",
+            "usd": "91.39"
+        },
+        "transfer": {
+            "eur": "79.59",
+            "usd": "86.79"
+        }
+    }
+}

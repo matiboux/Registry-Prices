@@ -1,0 +1,17 @@
+{
+    "tld": "gaypromotion",
+    "ovh": {
+        "registration": {
+            "eur": "1.99",
+            "usd": "2.23"
+        },
+        "renewal": {
+            "eur": "34.09",
+            "usd": "37.19"
+        },
+        "transfer": {
+            "eur": "34.09",
+            "usd": "37.19"
+        }
+    }
+}

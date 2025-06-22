@@ -1,0 +1,20 @@
+{
+    "tld": "nrw",
+    "gandi": {
+        "registration": {
+            "eur": "61.10"
+        },
+        "renewal": {
+            "eur": "51.77"
+        },
+        "transfer": {
+            "eur": "100.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "61.10"
+        }
+    }
+}

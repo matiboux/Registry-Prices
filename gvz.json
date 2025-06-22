@@ -1,0 +1,17 @@
+{
+    "tld": "gvz",
+    "namecheap": {
+        "registration": {
+            "usd": "12.98",
+            "eur": "11.27"
+        },
+        "renewal": {
+            "usd": "10.98",
+            "eur": "9.54"
+        },
+        "transfer": {
+            "usd": "10.98",
+            "eur": "9.54"
+        }
+    }
+}

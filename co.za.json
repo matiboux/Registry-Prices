@@ -1,0 +1,21 @@
+{
+    "tld": "co.za",
+    "internetbs": {
+        "registration": {
+            "usd": "7.99",
+            "eur": "7.25"
+        },
+        "renewal": {
+            "usd": "9.29",
+            "eur": "8.45"
+        },
+        "transfer": {
+            "usd": "7.99",
+            "eur": "7.25"
+        },
+        "restore": {
+            "usd": "59.29",
+            "eur": "53.85"
+        }
+    }
+}

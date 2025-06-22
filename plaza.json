@@ -1,0 +1,17 @@
+{
+    "tld": "plaza",
+    "namecheap": {
+        "registration": {
+            "usd": "118.98",
+            "eur": "103.33"
+        },
+        "renewal": {
+            "usd": "22.98",
+            "eur": "19.96"
+        },
+        "transfer": {
+            "usd": "22.98",
+            "eur": "19.96"
+        }
+    }
+}

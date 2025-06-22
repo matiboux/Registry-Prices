@@ -1,0 +1,17 @@
+{
+    "tld": "web4",
+    "namecheap": {
+        "registration": {
+            "usd": "20.00",
+            "eur": "17.37"
+        },
+        "renewal": {
+            "usd": "20.00",
+            "eur": "17.37"
+        },
+        "transfer": {
+            "usd": "20.00",
+            "eur": "17.37"
+        }
+    }
+}

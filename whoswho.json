@@ -1,0 +1,20 @@
+{
+    "tld": "whoswho",
+    "gandi": {
+        "registration": {
+            "eur": "4.395"
+        },
+        "renewal": {
+            "eur": "4.386"
+        },
+        "transfer": {
+            "eur": "8.871"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "4.395"
+        }
+    }
+}

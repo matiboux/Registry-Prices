@@ -1,0 +1,17 @@
+{
+    "tld": "mielno.pl",
+    "ovh": {
+        "registration": {
+            "eur": "3.39",
+            "usd": "3.69"
+        },
+        "renewal": {
+            "eur": "9.99",
+            "usd": "10.89"
+        },
+        "transfer": {
+            "eur": "0",
+            "usd": "0"
+        }
+    }
+}

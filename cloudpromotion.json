@@ -1,0 +1,17 @@
+{
+    "tld": "cloudpromotion",
+    "ovh": {
+        "registration": {
+            "eur": "1.99",
+            "usd": "2.15"
+        },
+        "renewal": {
+            "eur": "19.29",
+            "usd": "21.39"
+        },
+        "transfer": {
+            "eur": "16.49",
+            "usd": "19.99"
+        }
+    }
+}

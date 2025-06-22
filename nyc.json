@@ -1,0 +1,52 @@
+{
+    "tld": "nyc",
+    "internetbs": {
+        "registration": {
+            "usd": "47.49",
+            "eur": "43.11"
+        },
+        "renewal": {
+            "usd": "52.95",
+            "eur": "48.06"
+        },
+        "transfer": {
+            "usd": "47.49",
+            "eur": "43.11"
+        },
+        "restore": {
+            "usd": "162.95",
+            "eur": "147.91"
+        }
+    },
+    "namecheap": {
+        "registration": {
+            "usd": "32.98",
+            "eur": "28.64"
+        },
+        "renewal": {
+            "usd": "35.98",
+            "eur": "31.25"
+        },
+        "transfer": {
+            "usd": "32.98",
+            "eur": "28.64"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "29.49"
+        },
+        "renewal": {
+            "eur": "24.99"
+        },
+        "transfer": {
+            "eur": "60.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "87.95"
+        }
+    }
+}

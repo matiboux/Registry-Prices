@@ -1,0 +1,17 @@
+{
+    "tld": "engaged",
+    "namecheap": {
+        "registration": {
+            "usd": "45.98",
+            "eur": "39.93"
+        },
+        "renewal": {
+            "usd": "90.98",
+            "eur": "79.01"
+        },
+        "transfer": {
+            "usd": "90.98",
+            "eur": "79.01"
+        }
+    }
+}

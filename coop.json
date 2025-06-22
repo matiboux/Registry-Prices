@@ -1,0 +1,20 @@
+{
+    "tld": "coop",
+    "gandi": {
+        "registration": {
+            "eur": "67.00"
+        },
+        "renewal": {
+            "eur": "67.00"
+        },
+        "transfer": {
+            "eur": "143.98"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "73.70"
+        }
+    }
+}

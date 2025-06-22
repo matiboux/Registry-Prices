@@ -1,0 +1,17 @@
+{
+    "tld": "betpromotion",
+    "ovh": {
+        "registration": {
+            "eur": "13.89",
+            "usd": "15.01"
+        },
+        "renewal": {
+            "eur": "23.59",
+            "usd": "25.69"
+        },
+        "transfer": {
+            "eur": "23.19",
+            "usd": "26.39"
+        }
+    }
+}

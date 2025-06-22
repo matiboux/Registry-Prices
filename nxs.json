@@ -1,0 +1,17 @@
+{
+    "tld": "nxs",
+    "namecheap": {
+        "registration": {
+            "usd": "37.98",
+            "eur": "32.98"
+        },
+        "renewal": {
+            "usd": "7.98",
+            "eur": "6.93"
+        },
+        "transfer": {
+            "usd": "7.98",
+            "eur": "6.93"
+        }
+    }
+}

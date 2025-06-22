@@ -1,0 +1,17 @@
+{
+    "tld": "mansion",
+    "namecheap": {
+        "registration": {
+            "usd": "40.00",
+            "eur": "34.74"
+        },
+        "renewal": {
+            "usd": "40.00",
+            "eur": "34.74"
+        },
+        "transfer": {
+            "usd": "40.00",
+            "eur": "34.74"
+        }
+    }
+}

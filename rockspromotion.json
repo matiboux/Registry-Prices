@@ -1,0 +1,17 @@
+{
+    "tld": "rockspromotion",
+    "ovh": {
+        "registration": {
+            "eur": "3.89",
+            "usd": "4.20"
+        },
+        "renewal": {
+            "eur": "20.69",
+            "usd": "22.59"
+        },
+        "transfer": {
+            "eur": "19.29",
+            "usd": "20.99"
+        }
+    }
+}

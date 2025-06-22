@@ -1,0 +1,34 @@
+{
+    "tld": "quebec",
+    "gandi": {
+        "registration": {
+            "eur": "31.90"
+        },
+        "renewal": {
+            "eur": "27.03"
+        },
+        "transfer": {
+            "eur": "63.98"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "95.11"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "24.99",
+            "usd": "26.99"
+        },
+        "renewal": {
+            "eur": "26.99",
+            "usd": "28.99"
+        },
+        "transfer": {
+            "eur": "24.99",
+            "usd": "26.99"
+        }
+    }
+}

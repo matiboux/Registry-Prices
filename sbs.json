@@ -1,0 +1,34 @@
+{
+    "tld": "sbs",
+    "namecheap": {
+        "registration": {
+            "usd": "15.98",
+            "eur": "13.88"
+        },
+        "renewal": {
+            "usd": "17.98",
+            "eur": "15.61"
+        },
+        "transfer": {
+            "usd": "15.98",
+            "eur": "13.88"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "15.17"
+        },
+        "renewal": {
+            "eur": "8.66"
+        },
+        "transfer": {
+            "eur": "20.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "119.98"
+        }
+    }
+}

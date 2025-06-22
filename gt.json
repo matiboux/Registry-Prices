@@ -1,0 +1,28 @@
+{
+    "tld": "gt",
+    "gandi": {
+        "registration": {
+            "eur": "231.15"
+        },
+        "renewal": {
+            "eur": "231.15"
+        },
+        "transfer": {
+            "eur": "450.00"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "79.79",
+            "usd": "88.59"
+        },
+        "renewal": {
+            "eur": "87.09",
+            "usd": "96.69"
+        },
+        "transfer": {
+            "eur": "0",
+            "usd": "0"
+        }
+    }
+}

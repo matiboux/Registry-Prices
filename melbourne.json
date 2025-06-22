@@ -1,0 +1,48 @@
+{
+    "tld": "melbourne",
+    "namecheap": {
+        "registration": {
+            "usd": "44.98",
+            "eur": "39.06"
+        },
+        "renewal": {
+            "usd": "46.98",
+            "eur": "40.80"
+        },
+        "transfer": {
+            "usd": "44.98",
+            "eur": "39.06"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "63.14"
+        },
+        "renewal": {
+            "eur": "53.50"
+        },
+        "transfer": {
+            "eur": "130.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "144.44"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "46.99",
+            "usd": "50.99"
+        },
+        "renewal": {
+            "eur": "50.99",
+            "usd": "55.99"
+        },
+        "transfer": {
+            "eur": "46.99",
+            "usd": "50.99"
+        }
+    }
+}

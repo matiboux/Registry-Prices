@@ -1,0 +1,17 @@
+{
+    "tld": "co.ms",
+    "ovh": {
+        "registration": {
+            "eur": "57.99",
+            "usd": "62.99"
+        },
+        "renewal": {
+            "eur": "62.99",
+            "usd": "68.99"
+        },
+        "transfer": {
+            "eur": "62.39",
+            "usd": "69.29"
+        }
+    }
+}

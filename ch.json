@@ -1,0 +1,79 @@
+{
+    "tld": "ch",
+    "internetbs": {
+        "registration": {
+            "usd": "8.99",
+            "eur": "7.99"
+        },
+        "renewal": {
+            "usd": "10.29",
+            "eur": "9.29"
+        },
+        "transfer": {
+            "usd": "0.00",
+            "eur": "0.00"
+        },
+        "restore": {
+            "usd": "38.69",
+            "eur": "39.25"
+        }
+    },
+    "scaleway": {
+        "registration": {
+            "eur": "20.54"
+        },
+        "renewal": {
+            "eur": "1.00"
+        },
+        "transfer": {
+            "eur": "20.54"
+        },
+        "restore": {
+            "eur": "49.99"
+        }
+    },
+    "namecheap": {
+        "registration": {
+            "usd": "18.98",
+            "eur": "16.48"
+        },
+        "renewal": {
+            "usd": "19.98",
+            "eur": "17.35"
+        },
+        "transfer": {
+            "null": ""
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "11.90"
+        },
+        "renewal": {
+            "": "0.00"
+        },
+        "transfer": {
+            "eur": "31.98"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "16.27"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "9.99",
+            "usd": "11.49"
+        },
+        "renewal": {
+            "eur": "12.99",
+            "usd": "14.49"
+        },
+        "transfer": {
+            "eur": "0",
+            "usd": "0"
+        }
+    }
+}

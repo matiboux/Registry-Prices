@@ -1,0 +1,17 @@
+{
+    "tld": "co.lc",
+    "ovh": {
+        "registration": {
+            "eur": "20.98",
+            "usd": "22.99"
+        },
+        "renewal": {
+            "eur": "22.99",
+            "usd": "24.99"
+        },
+        "transfer": {
+            "eur": "23.19",
+            "usd": "25.69"
+        }
+    }
+}

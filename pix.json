@@ -1,0 +1,17 @@
+{
+    "tld": "pix",
+    "namecheap": {
+        "registration": {
+            "usd": "48.88",
+            "eur": "42.45"
+        },
+        "renewal": {
+            "usd": "42.58",
+            "eur": "36.98"
+        },
+        "transfer": {
+            "usd": "42.58",
+            "eur": "36.98"
+        }
+    }
+}

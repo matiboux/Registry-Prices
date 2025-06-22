@@ -1,0 +1,17 @@
+{
+    "tld": "ljb",
+    "namecheap": {
+        "registration": {
+            "usd": "9.98",
+            "eur": "8.67"
+        },
+        "renewal": {
+            "usd": "7.98",
+            "eur": "6.93"
+        },
+        "transfer": {
+            "usd": "7.98",
+            "eur": "6.93"
+        }
+    }
+}

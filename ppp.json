@@ -1,0 +1,17 @@
+{
+    "tld": "ppp",
+    "namecheap": {
+        "registration": {
+            "usd": "10.98",
+            "eur": "9.54"
+        },
+        "renewal": {
+            "usd": "4.98",
+            "eur": "4.32"
+        },
+        "transfer": {
+            "usd": "4.98",
+            "eur": "4.32"
+        }
+    }
+}

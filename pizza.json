@@ -1,0 +1,76 @@
+{
+    "tld": "pizza",
+    "cloudflare": {
+        "registration": {
+            "usd": "45.18",
+            "eur": "39.24"
+        },
+        "renewal": {
+            "usd": "45.18",
+            "eur": "39.24"
+        }
+    },
+    "internetbs": {
+        "registration": {
+            "usd": "51.35",
+            "eur": "46.61"
+        },
+        "renewal": {
+            "usd": "58.29",
+            "eur": "52.95"
+        },
+        "transfer": {
+            "usd": "51.35",
+            "eur": "46.61"
+        },
+        "restore": {
+            "usd": "183.49",
+            "eur": "166.59"
+        }
+    },
+    "scaleway": {
+        "registration": {
+            "eur": "47.03"
+        },
+        "renewal": {
+            "eur": "48.22"
+        },
+        "transfer": {
+            "eur": "47.03"
+        },
+        "restore": {
+            "eur": "52.46"
+        }
+    },
+    "namecheap": {
+        "registration": {
+            "usd": "56.98",
+            "eur": "49.48"
+        },
+        "renewal": {
+            "usd": "58.98",
+            "eur": "51.22"
+        },
+        "transfer": {
+            "usd": "56.98",
+            "eur": "49.48"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "63.11"
+        },
+        "renewal": {
+            "eur": "53.47"
+        },
+        "transfer": {
+            "eur": "130.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "114.19"
+        }
+    }
+}

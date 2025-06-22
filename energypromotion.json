@@ -1,0 +1,17 @@
+{
+    "tld": "energypromotion",
+    "ovh": {
+        "registration": {
+            "eur": "17.39",
+            "usd": "18.79"
+        },
+        "renewal": {
+            "eur": "106.19",
+            "usd": "115.69"
+        },
+        "transfer": {
+            "eur": "99.89",
+            "usd": "108.89"
+        }
+    }
+}

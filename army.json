@@ -1,0 +1,62 @@
+{
+    "tld": "army",
+    "cloudflare": {
+        "registration": {
+            "usd": "27.18",
+            "eur": "23.60"
+        },
+        "renewal": {
+            "usd": "27.18",
+            "eur": "23.60"
+        }
+    },
+    "internetbs": {
+        "registration": {
+            "usd": "33.47",
+            "eur": "30.38"
+        },
+        "renewal": {
+            "usd": "34.49",
+            "eur": "31.29"
+        },
+        "transfer": {
+            "usd": "33.47",
+            "eur": "30.38"
+        },
+        "restore": {
+            "usd": "178.69",
+            "eur": "162.19"
+        }
+    },
+    "namecheap": {
+        "registration": {
+            "usd": "34.98",
+            "eur": "30.38"
+        },
+        "renewal": {
+            "usd": "36.98",
+            "eur": "32.11"
+        },
+        "transfer": {
+            "usd": "34.98",
+            "eur": "30.38"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "35.84"
+        },
+        "renewal": {
+            "eur": "30.37"
+        },
+        "transfer": {
+            "eur": "71.98"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "98.66"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "tld": "music",
+    "namecheap": {
+        "registration": {
+            "usd": "47.98",
+            "eur": "41.67"
+        },
+        "renewal": {
+            "usd": "49.98",
+            "eur": "43.40"
+        },
+        "transfer": {
+            "usd": "47.98",
+            "eur": "41.67"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "55.00"
+        },
+        "renewal": {
+            "eur": "55.00"
+        },
+        "transfer": {
+            "eur": "90.00"
+        },
+        "owner_change": {
+            "eur": "55.00"
+        },
+        "restore": {
+            "eur": "140.00"
+        }
+    }
+}

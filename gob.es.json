@@ -1,0 +1,17 @@
+{
+    "tld": "gob.es",
+    "ovh": {
+        "registration": {
+            "eur": "6.99",
+            "usd": "8.49"
+        },
+        "renewal": {
+            "eur": "14.79",
+            "usd": "16.39"
+        },
+        "transfer": {
+            "eur": "0",
+            "usd": "0"
+        }
+    }
+}

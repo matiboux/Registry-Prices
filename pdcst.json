@@ -1,0 +1,17 @@
+{
+    "tld": "pdcst",
+    "namecheap": {
+        "registration": {
+            "usd": "5.98",
+            "eur": "5.19"
+        },
+        "renewal": {
+            "usd": "9.98",
+            "eur": "8.67"
+        },
+        "transfer": {
+            "usd": "9.98",
+            "eur": "8.67"
+        }
+    }
+}

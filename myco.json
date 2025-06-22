@@ -1,0 +1,17 @@
+{
+    "tld": "myco",
+    "namecheap": {
+        "registration": {
+            "usd": "13.44",
+            "eur": "11.67"
+        },
+        "renewal": {
+            "usd": "13.44",
+            "eur": "11.67"
+        },
+        "transfer": {
+            "usd": "13.44",
+            "eur": "11.67"
+        }
+    }
+}

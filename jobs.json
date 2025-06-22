@@ -1,0 +1,52 @@
+{
+    "tld": "jobs",
+    "internetbs": {
+        "registration": {
+            "usd": "512.00",
+            "eur": "464.74"
+        },
+        "renewal": {
+            "usd": "527.39",
+            "eur": "478.69"
+        },
+        "transfer": {
+            "usd": "512.00",
+            "eur": "464.74"
+        },
+        "restore": {
+            "usd": "812.39",
+            "eur": "737.39"
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "127.81"
+        },
+        "renewal": {
+            "eur": "118.81"
+        },
+        "transfer": {
+            "eur": "250.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "66.42"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "109",
+            "usd": "118.99"
+        },
+        "renewal": {
+            "eur": "119",
+            "usd": "129.99"
+        },
+        "transfer": {
+            "eur": "115.99",
+            "usd": "128.79"
+        }
+    }
+}

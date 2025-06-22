@@ -1,0 +1,14 @@
+{
+    "tld": "бел",
+    "gandi": {
+        "registration": {
+            "eur": "26.00"
+        },
+        "renewal": {
+            "eur": "26.00"
+        },
+        "transfer": {
+            "eur": "60.00"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "tld": "c0m",
+    "namecheap": {
+        "registration": {
+            "usd": "39.98",
+            "eur": "34.72"
+        },
+        "renewal": {
+            "usd": "19.98",
+            "eur": "17.35"
+        },
+        "transfer": {
+            "usd": "19.98",
+            "eur": "17.35"
+        }
+    }
+}

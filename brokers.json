@@ -1,0 +1,17 @@
+{
+    "tld": "brokers",
+    "namecheap": {
+        "registration": {
+            "usd": "40.00",
+            "eur": "34.74"
+        },
+        "renewal": {
+            "usd": "200.00",
+            "eur": "173.69"
+        },
+        "transfer": {
+            "usd": "200.00",
+            "eur": "173.69"
+        }
+    }
+}

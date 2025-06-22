@@ -1,0 +1,35 @@
+{
+    "tld": "com.mx",
+    "internetbs": {
+        "registration": {
+            "usd": "24.99",
+            "eur": "22.68"
+        },
+        "renewal": {
+            "usd": "27.79",
+            "eur": "25.25"
+        },
+        "transfer": {
+            "usd": "26.99",
+            "eur": "24.50"
+        },
+        "restore": {
+            "usd": "95.85",
+            "eur": "86.99"
+        }
+    },
+    "namecheap": {
+        "registration": {
+            "usd": "13.98",
+            "eur": "12.14"
+        },
+        "renewal": {
+            "usd": "28.98",
+            "eur": "25.17"
+        },
+        "transfer": {
+            "usd": "26.98",
+            "eur": "23.43"
+        }
+    }
+}

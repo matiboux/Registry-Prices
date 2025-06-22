@@ -1,0 +1,17 @@
+{
+    "tld": "furniturepromotion",
+    "ovh": {
+        "registration": {
+            "eur": "36.89",
+            "usd": "39.86"
+        },
+        "renewal": {
+            "eur": "101.89",
+            "usd": "113.09"
+        },
+        "transfer": {
+            "eur": "98.49",
+            "usd": "109.29"
+        }
+    }
+}

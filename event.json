@@ -1,0 +1,17 @@
+{
+    "tld": "event",
+    "namecheap": {
+        "registration": {
+            "usd": "158.98",
+            "eur": "138.06"
+        },
+        "renewal": {
+            "usd": "89.98",
+            "eur": "78.14"
+        },
+        "transfer": {
+            "usd": "89.98",
+            "eur": "78.14"
+        }
+    }
+}

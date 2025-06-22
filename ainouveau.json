@@ -1,0 +1,14 @@
+{
+    "tld": "ainouveau",
+    "ovh": {
+        "registration": {
+            "eur": "88.99"
+        },
+        "renewal": {
+            "eur": "119.99"
+        },
+        "transfer": {
+            "eur": "137"
+        }
+    }
+}

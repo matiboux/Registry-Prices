@@ -1,0 +1,17 @@
+{
+    "tld": "com.gy",
+    "ovh": {
+        "registration": {
+            "eur": "28.99",
+            "usd": "31.99"
+        },
+        "renewal": {
+            "eur": "31.99",
+            "usd": "34.99"
+        },
+        "transfer": {
+            "eur": "44.39",
+            "usd": "49.29"
+        }
+    }
+}

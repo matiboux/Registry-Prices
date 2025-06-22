@@ -1,0 +1,65 @@
+{
+    "tld": "kiwi",
+    "internetbs": {
+        "registration": {
+            "usd": "35.51",
+            "eur": "32.23"
+        },
+        "renewal": {
+            "usd": "40.55",
+            "eur": "36.79"
+        },
+        "transfer": {
+            "usd": "39.35",
+            "eur": "35.72"
+        },
+        "restore": {
+            "usd": "138.69",
+            "eur": "125.89"
+        }
+    },
+    "namecheap": {
+        "registration": {
+            "usd": "31.98",
+            "eur": "27.77"
+        },
+        "renewal": {
+            "usd": "33.98",
+            "eur": "29.51"
+        },
+        "transfer": {
+            "null": ""
+        }
+    },
+    "gandi": {
+        "registration": {
+            "eur": "24.36"
+        },
+        "renewal": {
+            "eur": "21.79"
+        },
+        "transfer": {
+            "eur": "50.00"
+        },
+        "owner_change": {
+            "": "0.00"
+        },
+        "restore": {
+            "eur": "53.53"
+        }
+    },
+    "ovh": {
+        "registration": {
+            "eur": "20.99",
+            "usd": "22.99"
+        },
+        "renewal": {
+            "eur": "22.99",
+            "usd": "24.99"
+        },
+        "transfer": {
+            "eur": "20.99",
+            "usd": "22.99"
+        }
+    }
+}

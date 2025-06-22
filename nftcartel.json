@@ -1,0 +1,17 @@
+{
+    "tld": "nftcartel",
+    "namecheap": {
+        "registration": {
+            "usd": "5.00",
+            "eur": "4.34"
+        },
+        "renewal": {
+            "usd": "40.00",
+            "eur": "34.74"
+        },
+        "transfer": {
+            "usd": "40.00",
+            "eur": "34.74"
+        }
+    }
+}

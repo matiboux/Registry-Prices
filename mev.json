@@ -1,0 +1,17 @@
+{
+    "tld": "mev",
+    "namecheap": {
+        "registration": {
+            "usd": "131.98",
+            "eur": "114.62"
+        },
+        "renewal": {
+            "usd": "131.98",
+            "eur": "114.62"
+        },
+        "transfer": {
+            "usd": "131.98",
+            "eur": "114.62"
+        }
+    }
+}

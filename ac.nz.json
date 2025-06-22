@@ -1,0 +1,21 @@
+{
+    "tld": "ac.nz",
+    "internetbs": {
+        "registration": {
+            "usd": "15.99",
+            "eur": "14.99"
+        },
+        "renewal": {
+            "usd": "18.55",
+            "eur": "16.49"
+        },
+        "transfer": {
+            "usd": "17.99",
+            "eur": "15.99"
+        },
+        "restore": {
+            "usd": "50.49",
+            "eur": "51.15"
+        }
+    }
+}
