@@ -6,5 +6,5 @@ Pricing (excluding taxes):
 
 | Service | Date |  | / Renewed year | First year | Transfer | Restoration |
 |--|--|--|--|--|--|--|
-| **Gandi** | 2025-06-23 | 🏆 | € 200.00 | € 200.00 | € 391.98 |  |
-| **OVH** | 2025-06-23 |  | {"currency": "usd", "price": "80.39"} | {"currency": "usd", "price": "74.59"} | {"currency": "usd", "price": "0"} |  |
+| **Gandi** | 2025-06-23 |  | € 200.00 | € 200.00 | € 391.98 |  |
+| **OVH** | 2025-06-23 | 🏆 | € 72.39<br>($ 80.39) | € 67.19<br>($ 74.59) | € 0<br>($ 0) |  |

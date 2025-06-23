@@ -6,4 +6,4 @@ Pricing (excluding taxes):
 
 | Service | Date |  | / Renewed year | First year | Transfer | Restoration |
 |--|--|--|--|--|--|--|
-| **OVH** | 2025-06-23 |  | {"currency": "usd", "price": "61.09"} | {"currency": "usd", "price": "55.39"} | {"currency": "usd", "price": "0"} |  |
+| **OVH** | 2025-06-23 | 🏆 | € 55.09<br>($ 61.09) | € 49.89<br>($ 55.39) | € 0<br>($ 0) |  |
