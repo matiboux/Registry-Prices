@@ -1,0 +1,9 @@
+# Compare `.forexspecial offer` domain names
+
+## Summary
+
+Pricing (excluding taxes):
+
+| Service | Date |  | / Renewed year | First year | Transfer | Restoration |
+|--|--|--|--|--|--|--|
+| **OVH** | 2025-06-23 |  | {"gbp": "32.49"} | {"gbp": "14.98"} | {"gbp": "34.99"} |  |
