@@ -1,15 +1,15 @@
 {
     "tld": "bank",
     "gandi": {
-        "date": "2025-06-23T13:35:04.989518",
+        "date": "2025-06-23T14:52:14.488617",
         "registration": {
             "eur": "701.04"
         },
         "renewal": {
-            "eur": "675.84"
+            "eur": "1.240"
         },
         "transfer": {
-            "eur": "1.240"
+            "eur": "675.84"
         },
         "owner_change": {
             "eur": "6.00"

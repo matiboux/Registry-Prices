@@ -1,15 +1,15 @@
 {
     "tld": "bible",
     "gandi": {
-        "date": "2025-06-23T13:35:04.993379",
+        "date": "2025-06-23T14:52:14.495239",
         "registration": {
             "eur": "64.76"
         },
         "renewal": {
-            "eur": "54.88"
+            "eur": "130.00"
         },
         "transfer": {
-            "eur": "130.00"
+            "eur": "54.88"
         },
         "owner_change": {
             "usd": "0.00"

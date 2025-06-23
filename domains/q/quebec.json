@@ -1,15 +1,15 @@
 {
     "tld": "quebec",
     "gandi": {
-        "date": "2025-06-23T13:35:07.349785",
+        "date": "2025-06-23T14:52:16.817956",
         "registration": {
             "eur": "31.90"
         },
         "renewal": {
-            "eur": "27.03"
+            "eur": "63.98"
         },
         "transfer": {
-            "eur": "63.98"
+            "eur": "27.03"
         },
         "owner_change": {
             "usd": "0.00"

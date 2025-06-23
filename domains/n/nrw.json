@@ -1,15 +1,15 @@
 {
     "tld": "nrw",
     "gandi": {
-        "date": "2025-06-23T13:35:06.929131",
+        "date": "2025-06-23T14:52:16.384290",
         "registration": {
             "eur": "61.10"
         },
         "renewal": {
-            "eur": "51.77"
+            "eur": "100.00"
         },
         "transfer": {
-            "eur": "100.00"
+            "eur": "51.77"
         },
         "owner_change": {
             "usd": "0.00"

@@ -1,15 +1,15 @@
 {
     "tld": "brussels",
     "gandi": {
-        "date": "2025-06-23T13:35:04.998700",
+        "date": "2025-06-23T14:52:14.502350",
         "registration": {
             "eur": "38.25"
         },
         "renewal": {
-            "eur": "32.41"
+            "eur": "90.00"
         },
         "transfer": {
-            "eur": "90.00"
+            "eur": "32.41"
         },
         "owner_change": {
             "usd": "0.00"

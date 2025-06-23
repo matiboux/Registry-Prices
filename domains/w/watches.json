@@ -1,15 +1,15 @@
 {
     "tld": "watches",
     "gandi": {
-        "date": "2025-06-23T13:35:08.269518",
+        "date": "2025-06-23T14:52:17.766537",
         "registration": {
             "eur": "390.00"
         },
         "renewal": {
-            "eur": "287.66"
+            "eur": "720.00"
         },
         "transfer": {
-            "eur": "720.00"
+            "eur": "287.66"
         },
         "owner_change": {
             "usd": "0.00"

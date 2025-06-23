@@ -1,15 +1,15 @@
 {
     "tld": "zuerich",
     "gandi": {
-        "date": "2025-06-23T13:35:08.680937",
+        "date": "2025-06-23T14:52:18.169283",
         "registration": {
             "eur": "93.55"
         },
         "renewal": {
-            "eur": "79.27"
+            "eur": "183.98"
         },
         "transfer": {
-            "eur": "183.98"
+            "eur": "79.27"
         },
         "owner_change": {
             "usd": "0.00"

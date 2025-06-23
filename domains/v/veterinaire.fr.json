@@ -1,15 +1,15 @@
 {
     "tld": "veterinaire.fr",
     "gandi": {
-        "date": "2025-06-23T13:35:08.128968",
+        "date": "2025-06-23T14:52:17.618218",
         "registration": {
             "eur": "19.00"
         },
         "renewal": {
-            "eur": "16.10"
+            "eur": "40.00"
         },
         "transfer": {
-            "eur": "40.00"
+            "eur": "16.10"
         },
         "owner_change": {
             "eur": "19.00"

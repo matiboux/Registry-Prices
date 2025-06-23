@@ -1,15 +1,15 @@
 {
     "tld": "vlaanderen",
     "gandi": {
-        "date": "2025-06-23T13:35:08.131134",
+        "date": "2025-06-23T14:52:17.620695",
         "registration": {
             "eur": "38.25"
         },
         "renewal": {
-            "eur": "32.41"
+            "eur": "80.00"
         },
         "transfer": {
-            "eur": "80.00"
+            "eur": "32.41"
         },
         "owner_change": {
             "usd": "0.00"

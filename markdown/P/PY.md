@@ -6,4 +6,4 @@ Pricing (excluding taxes):
 
 | Service | Date |  | / Renewed year | First year | Transfer | Restoration |
 |--|--|--|--|--|--|--|
-| **Gandi** | 2025-06-23 | 🏆 | € 168.00 | € 168.00 | € 330.00 |  |
+| **Gandi** | 2025-06-23 | 🏆 | € 330.00 | € 168.00 | € 168.00 |  |

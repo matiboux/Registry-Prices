@@ -1,15 +1,15 @@
 {
     "tld": "tirol",
     "gandi": {
-        "date": "2025-06-23T13:35:07.842022",
+        "date": "2025-06-23T14:52:17.333218",
         "registration": {
             "eur": "45.90"
         },
         "renewal": {
-            "eur": "38.89"
+            "eur": "100.00"
         },
         "transfer": {
-            "eur": "100.00"
+            "eur": "38.89"
         },
         "owner_change": {
             "usd": "0.00"

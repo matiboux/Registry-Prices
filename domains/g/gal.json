@@ -1,15 +1,15 @@
 {
     "tld": "gal",
     "gandi": {
-        "date": "2025-06-23T13:35:05.816561",
+        "date": "2025-06-23T14:52:15.323659",
         "registration": {
             "eur": "72.51"
         },
         "renewal": {
-            "eur": "58.22"
+            "eur": "140.00"
         },
         "transfer": {
-            "eur": "140.00"
+            "eur": "58.22"
         },
         "owner_change": {
             "usd": "0.00"

@@ -1,15 +1,15 @@
 {
     "tld": "realestate",
     "gandi": {
-        "date": "2025-06-23T13:35:07.496289",
+        "date": "2025-06-23T14:52:16.977551",
         "registration": {
             "eur": "103.63"
         },
         "renewal": {
-            "eur": "94.40"
+            "eur": "200.00"
         },
         "transfer": {
-            "eur": "200.00"
+            "eur": "94.40"
         },
         "owner_change": {
             "usd": "0.00"

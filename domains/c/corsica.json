@@ -1,15 +1,15 @@
 {
     "tld": "corsica",
     "gandi": {
-        "date": "2025-06-23T13:35:05.190772",
+        "date": "2025-06-23T14:52:14.702311",
         "registration": {
             "eur": "24.25"
         },
         "renewal": {
-            "eur": "24.25"
+            "eur": "50.00"
         },
         "transfer": {
-            "eur": "50.00"
+            "eur": "24.25"
         },
         "owner_change": {
             "usd": "0.00"

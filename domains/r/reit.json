@@ -1,15 +1,15 @@
 {
     "tld": "reit",
     "gandi": {
-        "date": "2025-06-23T13:35:07.498215",
+        "date": "2025-06-23T14:52:16.980583",
         "registration": {
             "eur": "970.16"
         },
         "renewal": {
-            "eur": "981.16"
+            "eur": "1.591"
         },
         "transfer": {
-            "eur": "1.591"
+            "eur": "981.16"
         },
         "owner_change": {
             "usd": "0.00"

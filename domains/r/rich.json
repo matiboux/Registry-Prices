@@ -1,15 +1,15 @@
 {
     "tld": "rich",
     "gandi": {
-        "date": "2025-06-23T13:35:07.500942",
+        "date": "2025-06-23T14:52:16.983912",
         "registration": {
             "eur": "1.561"
         },
         "renewal": {
-            "eur": "1.558"
+            "eur": "2.791"
         },
         "transfer": {
-            "eur": "2.791"
+            "eur": "1.558"
         },
         "owner_change": {
             "usd": "0.00"
