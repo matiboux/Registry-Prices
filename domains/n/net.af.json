@@ -1,18 +1,24 @@
 {
     "tld": "net.af",
     "ovh": {
-        "date": "2025-06-23T13:35:10.348023",
+        "date": "2025-06-23T14:33:24.277896",
         "registration": {
             "currency": "usd",
-            "price": "62.99"
+            "price": "62.99",
+            "eur": "57.99",
+            "usd": "62.99"
         },
         "renewal": {
             "currency": "usd",
-            "price": "68.99"
+            "price": "68.99",
+            "eur": "62.99",
+            "usd": "68.99"
         },
         "transfer": {
             "currency": "usd",
-            "price": "109.29"
+            "price": "109.29",
+            "eur": "98.49",
+            "usd": "109.29"
         }
     }
 }

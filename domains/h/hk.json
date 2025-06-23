@@ -19,18 +19,24 @@
         }
     },
     "ovh": {
-        "date": "2025-06-23T13:35:10.309714",
+        "date": "2025-06-23T14:33:24.231520",
         "registration": {
             "currency": "usd",
-            "price": "40.99"
+            "price": "40.99",
+            "eur": "37.99",
+            "usd": "40.99"
         },
         "renewal": {
             "currency": "usd",
-            "price": "44.99"
+            "price": "44.99",
+            "eur": "40.99",
+            "usd": "44.99"
         },
         "transfer": {
             "currency": "usd",
-            "price": "133.99"
+            "price": "133.99",
+            "eur": "120.79",
+            "usd": "133.99"
         }
     }
 }

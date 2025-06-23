@@ -1,18 +1,24 @@
 {
     "tld": "net.tl",
     "ovh": {
-        "date": "2025-06-23T13:35:10.352069",
+        "date": "2025-06-23T14:33:24.283392",
         "registration": {
             "currency": "usd",
-            "price": "75.99"
+            "price": "75.99",
+            "eur": "69.98",
+            "usd": "75.99"
         },
         "renewal": {
             "currency": "usd",
-            "price": "55.99"
+            "price": "55.99",
+            "eur": "50.99",
+            "usd": "55.99"
         },
         "transfer": {
             "currency": "usd",
-            "price": "50.99"
+            "price": "50.99",
+            "eur": "46.99",
+            "usd": "50.99"
         }
     }
 }

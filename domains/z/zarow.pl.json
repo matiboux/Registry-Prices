@@ -1,18 +1,24 @@
 {
     "tld": "zarow.pl",
     "ovh": {
-        "date": "2025-06-23T13:35:10.439273",
+        "date": "2025-06-23T14:33:24.390503",
         "registration": {
             "currency": "usd",
-            "price": "3.69"
+            "price": "3.69",
+            "eur": "3.39",
+            "usd": "3.69"
         },
         "renewal": {
             "currency": "usd",
-            "price": "10.89"
+            "price": "10.89",
+            "eur": "9.99",
+            "usd": "10.89"
         },
         "transfer": {
             "currency": "usd",
-            "price": "0"
+            "price": "0",
+            "eur": "0",
+            "usd": "0"
         }
     }
 }

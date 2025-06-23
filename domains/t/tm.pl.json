@@ -1,18 +1,24 @@
 {
     "tld": "tm.pl",
     "ovh": {
-        "date": "2025-06-23T13:35:10.416275",
+        "date": "2025-06-23T14:33:24.361570",
         "registration": {
             "currency": "usd",
-            "price": "3.49"
+            "price": "3.49",
+            "eur": "2.99",
+            "usd": "3.49"
         },
         "renewal": {
             "currency": "usd",
-            "price": "11.49"
+            "price": "11.49",
+            "eur": "9.99",
+            "usd": "11.49"
         },
         "transfer": {
             "currency": "usd",
-            "price": "0"
+            "price": "0",
+            "eur": "0",
+            "usd": "0"
         }
     }
 }

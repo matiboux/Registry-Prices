@@ -1,18 +1,24 @@
 {
     "tld": "com.ve",
     "ovh": {
-        "date": "2025-06-23T13:35:10.267293",
+        "date": "2025-06-23T14:33:24.182718",
         "registration": {
             "currency": "usd",
-            "price": "55.39"
+            "price": "55.39",
+            "eur": "49.89",
+            "usd": "55.39"
         },
         "renewal": {
             "currency": "usd",
-            "price": "61.09"
+            "price": "61.09",
+            "eur": "55.09",
+            "usd": "61.09"
         },
         "transfer": {
             "currency": "usd",
-            "price": "0"
+            "price": "0",
+            "eur": "0",
+            "usd": "0"
         }
     }
 }
