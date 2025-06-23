@@ -1,24 +1,30 @@
 {
     "tld": "mazury.pl",
     "ovh": {
-        "date": "2025-06-23T14:33:24.266171",
+        "date": "2025-06-23T16:05:22.926992",
         "registration": {
             "currency": "usd",
             "price": "3.69",
             "eur": "3.39",
-            "usd": "3.69"
+            "usd": "3.69",
+            "cad": "4.89",
+            "gbp": "2.89"
         },
         "renewal": {
             "currency": "usd",
             "price": "10.89",
             "eur": "9.99",
-            "usd": "10.89"
+            "usd": "10.89",
+            "cad": "14.59",
+            "gbp": "8.59"
         },
         "transfer": {
             "currency": "usd",
             "price": "0",
             "eur": "0",
-            "usd": "0"
+            "usd": "0",
+            "cad": "0",
+            "gbp": "0"
         }
     }
 }

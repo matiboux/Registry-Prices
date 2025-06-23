@@ -1,24 +1,30 @@
 {
     "tld": "com.gt",
     "ovh": {
-        "date": "2025-06-23T14:33:24.176349",
+        "date": "2025-06-23T16:05:22.852381",
         "registration": {
             "currency": "usd",
             "price": "40.99",
             "eur": "37.99",
-            "usd": "40.99"
+            "usd": "40.99",
+            "cad": "57.99",
+            "gbp": "29.03"
         },
         "renewal": {
             "currency": "usd",
             "price": "45.99",
             "eur": "41.99",
-            "usd": "45.99"
+            "usd": "45.99",
+            "cad": "63.99",
+            "gbp": "37.39"
         },
         "transfer": {
             "currency": "usd",
             "price": "0",
             "eur": "0",
-            "usd": "0"
+            "usd": "0",
+            "cad": "0",
+            "gbp": "0"
         }
     }
 }

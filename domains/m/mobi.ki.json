@@ -1,24 +1,30 @@
 {
     "tld": "mobi.ki",
     "ovh": {
-        "date": "2025-06-23T14:33:24.272255",
+        "date": "2025-06-23T16:05:22.932061",
         "registration": {
             "currency": "usd",
             "price": "1.002",
             "eur": "919",
-            "usd": "1.002"
+            "usd": "1.002",
+            "cad": "1.397",
+            "gbp": "781.15"
         },
         "renewal": {
             "currency": "usd",
             "price": "1.089",
             "eur": "999",
-            "usd": "1.089"
+            "usd": "1.089",
+            "cad": "1.518",
+            "gbp": "849.15"
         },
         "transfer": {
             "currency": "usd",
             "price": "1.056",
             "eur": "969",
-            "usd": "1.056"
+            "usd": "1.056",
+            "cad": "1.473",
+            "gbp": "823.65"
         }
     }
 }

@@ -1,24 +1,30 @@
 {
     "tld": "tm.fr",
     "ovh": {
-        "date": "2025-06-23T14:33:24.361345",
+        "date": "2025-06-23T16:05:23.005580",
         "registration": {
             "currency": "usd",
             "price": "8.49",
             "eur": "6.99",
-            "usd": "8.49"
+            "usd": "8.49",
+            "cad": "11.49",
+            "gbp": "6.99"
         },
         "renewal": {
             "currency": "usd",
             "price": "8.49",
             "eur": "6.99",
-            "usd": "8.49"
+            "usd": "8.49",
+            "cad": "11.49",
+            "gbp": "6.99"
         },
         "transfer": {
             "currency": "usd",
             "price": "164.08",
             "eur": "149",
-            "usd": "164.08"
+            "usd": "164.08",
+            "cad": "224.20",
+            "gbp": "126.84"
         }
     }
 }

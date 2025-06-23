@@ -1,24 +1,30 @@
 {
     "tld": "com.ni",
     "ovh": {
-        "date": "2025-06-23T14:33:24.179296",
+        "date": "2025-06-23T16:05:22.854762",
         "registration": {
             "currency": "usd",
             "price": "71.99",
             "eur": "65.98",
-            "usd": "71.99"
+            "usd": "71.99",
+            "cad": "99.99",
+            "gbp": "50.42"
         },
         "renewal": {
             "currency": "usd",
             "price": "77.99",
             "eur": "71.98",
-            "usd": "77.99"
+            "usd": "77.99",
+            "cad": "108.99",
+            "gbp": "62.99"
         },
         "transfer": {
             "currency": "usd",
             "price": "0",
             "eur": "0",
-            "usd": "0"
+            "usd": "0",
+            "cad": "0",
+            "gbp": "0"
         }
     }
 }
