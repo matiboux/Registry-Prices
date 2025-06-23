@@ -1,0 +1,18 @@
+{
+    "tld": "com.do",
+    "ovh": {
+        "date": "2025-06-23T13:35:10.261238",
+        "registration": {
+            "currency": "usd",
+            "price": "54.69"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "59.39"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "0"
+        }
+    }
+}

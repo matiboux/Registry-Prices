@@ -1,0 +1,47 @@
+{
+    "tld": "hamburg",
+    "namecheap": {
+        "date": "2025-06-23T13:35:04.262940",
+        "registration": {
+            "usd": "69.98",
+            "eur": "60.77"
+        },
+        "renewal": {
+            "usd": "71.98",
+            "eur": "62.51"
+        }
+    },
+    "gandi": {
+        "date": "2025-06-23T13:35:05.975205",
+        "registration": {
+            "eur": "70.64"
+        },
+        "renewal": {
+            "eur": "59.86"
+        },
+        "transfer": {
+            "eur": "140.00"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "183.54"
+        }
+    },
+    "ovh": {
+        "date": "2025-06-23T13:35:10.308151",
+        "registration": {
+            "currency": "usd",
+            "price": "54.49"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "57.39"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "57.39"
+        }
+    }
+}

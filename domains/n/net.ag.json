@@ -1,0 +1,37 @@
+{
+    "tld": "net.ag",
+    "internetbs": {
+        "date": "2025-06-23T13:35:01.528436",
+        "registration": {
+            "usd": "92.90",
+            "eur": "84.33"
+        },
+        "renewal": {
+            "usd": "105.09",
+            "eur": "95.39"
+        },
+        "transfer": {
+            "usd": "102.00",
+            "eur": "92.59"
+        },
+        "restore": {
+            "usd": "255.09",
+            "eur": "231.55"
+        }
+    },
+    "ovh": {
+        "date": "2025-06-23T13:35:10.348210",
+        "registration": {
+            "currency": "usd",
+            "price": "94.99"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "101.99"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "102.59"
+        }
+    }
+}

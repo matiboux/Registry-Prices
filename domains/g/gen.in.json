@@ -1,0 +1,37 @@
+{
+    "tld": "gen.in",
+    "internetbs": {
+        "date": "2025-06-23T13:35:01.303432",
+        "registration": {
+            "usd": "9.99",
+            "eur": "9.99"
+        },
+        "renewal": {
+            "usd": "11.35",
+            "eur": "10.29"
+        },
+        "transfer": {
+            "usd": "10.99",
+            "eur": "9.99"
+        },
+        "restore": {
+            "usd": "72.39",
+            "eur": "73.35"
+        }
+    },
+    "ovh": {
+        "date": "2025-06-23T13:35:10.300025",
+        "registration": {
+            "currency": "usd",
+            "price": "7.99"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "7.99"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "7.99"
+        }
+    }
+}

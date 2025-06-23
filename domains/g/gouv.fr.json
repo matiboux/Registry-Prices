@@ -1,0 +1,18 @@
+{
+    "tld": "gouv.fr",
+    "ovh": {
+        "date": "2025-06-23T13:35:10.303934",
+        "registration": {
+            "currency": "usd",
+            "price": "8.49"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "8.49"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "8.49"
+        }
+    }
+}

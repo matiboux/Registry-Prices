@@ -1,0 +1,21 @@
+{
+    "tld": "公司",
+    "gandi": {
+        "date": "2025-06-23T13:35:04.666095",
+        "registration": {
+            "eur": "45.30"
+        },
+        "renewal": {
+            "eur": "38.39"
+        },
+        "transfer": {
+            "eur": "90.00"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "216.84"
+        }
+    }
+}

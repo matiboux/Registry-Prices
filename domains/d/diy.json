@@ -1,0 +1,33 @@
+{
+    "tld": "diy",
+    "namecheap": {
+        "date": "2025-06-23T13:35:04.221969",
+        "registration": {
+            "usd": "38.98",
+            "eur": "33.85"
+        },
+        "renewal": {
+            "usd": "39.98",
+            "eur": "34.72"
+        },
+        "transfer": {
+            "usd": "38.98",
+            "eur": "33.85"
+        }
+    },
+    "gandi": {
+        "date": "2025-06-23T13:35:05.349737",
+        "registration": {
+            "eur": "34.99"
+        },
+        "renewal": {
+            "eur": "34.99"
+        },
+        "transfer": {
+            "eur": "80.00"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        }
+    }
+}

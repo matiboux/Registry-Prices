@@ -1,0 +1,36 @@
+{
+    "tld": "ki",
+    "gandi": {
+        "date": "2025-06-23T13:35:06.444624",
+        "registration": {
+            "eur": "900.00"
+        },
+        "renewal": {
+            "eur": "940.00"
+        },
+        "transfer": {
+            "eur": "1.540"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "1.000"
+        }
+    },
+    "ovh": {
+        "date": "2025-06-23T13:35:10.323310",
+        "registration": {
+            "currency": "usd",
+            "price": "1.002"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "1.089"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "1.056"
+        }
+    }
+}

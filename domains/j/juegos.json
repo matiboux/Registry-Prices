@@ -1,0 +1,51 @@
+{
+    "tld": "juegos",
+    "namecheap": {
+        "date": "2025-06-23T13:35:04.285248",
+        "registration": {
+            "usd": "368.98",
+            "eur": "320.43"
+        },
+        "renewal": {
+            "usd": "370.98",
+            "eur": "322.17"
+        },
+        "transfer": {
+            "usd": "368.98",
+            "eur": "320.43"
+        }
+    },
+    "gandi": {
+        "date": "2025-06-23T13:35:06.295043",
+        "registration": {
+            "eur": "318.16"
+        },
+        "renewal": {
+            "eur": "309.16"
+        },
+        "transfer": {
+            "eur": "583.98"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "345.46"
+        }
+    },
+    "ovh": {
+        "date": "2025-06-23T13:35:10.321037",
+        "registration": {
+            "currency": "usd",
+            "price": "379.99"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "412.99"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "379.99"
+        }
+    }
+}

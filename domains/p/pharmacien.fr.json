@@ -1,0 +1,33 @@
+{
+    "tld": "pharmacien.fr",
+    "gandi": {
+        "date": "2025-06-23T13:35:07.211333",
+        "registration": {
+            "eur": "19.00"
+        },
+        "renewal": {
+            "eur": "16.10"
+        },
+        "transfer": {
+            "eur": "40.00"
+        },
+        "owner_change": {
+            "eur": "19.00"
+        }
+    },
+    "ovh": {
+        "date": "2025-06-23T13:35:10.370590",
+        "registration": {
+            "currency": "usd",
+            "price": "21.99"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "21.99"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "21.99"
+        }
+    }
+}

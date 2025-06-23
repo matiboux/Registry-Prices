@@ -1,0 +1,40 @@
+{
+    "tld": "nz",
+    "internetbs": {
+        "date": "2025-06-23T13:35:01.529706",
+        "registration": {
+            "usd": "36.99",
+            "eur": "33.58"
+        },
+        "renewal": {
+            "usd": "42.25",
+            "eur": "38.35"
+        },
+        "transfer": {
+            "usd": "40.99",
+            "eur": "37.21"
+        },
+        "restore": {
+            "usd": "77.29",
+            "eur": "70.15"
+        }
+    },
+    "gandi": {
+        "date": "2025-06-23T13:35:06.929872",
+        "registration": {
+            "eur": "20.99"
+        },
+        "renewal": {
+            "eur": "17.79"
+        },
+        "transfer": {
+            "eur": "50.00"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "20.99"
+        }
+    }
+}

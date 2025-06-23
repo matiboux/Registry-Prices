@@ -1,0 +1,18 @@
+{
+    "tld": "kw",
+    "gandi": {
+        "date": "2025-06-23T13:35:06.446430",
+        "registration": {
+            "eur": "750.00"
+        },
+        "renewal": {
+            "eur": "800.00"
+        },
+        "transfer": {
+            "eur": "800.00"
+        },
+        "owner_change": {
+            "eur": "800.00"
+        }
+    }
+}

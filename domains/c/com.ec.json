@@ -1,0 +1,18 @@
+{
+    "tld": "com.ec",
+    "ovh": {
+        "date": "2025-06-23T13:35:10.261443",
+        "registration": {
+            "currency": "usd",
+            "price": "83.29"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "91.69"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "91.69"
+        }
+    }
+}

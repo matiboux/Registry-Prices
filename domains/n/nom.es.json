@@ -1,0 +1,29 @@
+{
+    "tld": "nom.es",
+    "namecheap": {
+        "date": "2025-06-23T13:35:04.319046",
+        "registration": {
+            "usd": "18.98",
+            "eur": "16.48"
+        },
+        "renewal": {
+            "usd": "19.98",
+            "eur": "17.35"
+        }
+    },
+    "ovh": {
+        "date": "2025-06-23T13:35:10.355044",
+        "registration": {
+            "currency": "usd",
+            "price": "8.49"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "8.49"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "0"
+        }
+    }
+}

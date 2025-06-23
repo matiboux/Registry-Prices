@@ -1,0 +1,18 @@
+{
+    "tld": "phone.ki",
+    "ovh": {
+        "date": "2025-06-23T13:35:10.370898",
+        "registration": {
+            "currency": "usd",
+            "price": "1.002"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "1.089"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "1.056"
+        }
+    }
+}

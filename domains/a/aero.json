@@ -1,0 +1,40 @@
+{
+    "tld": "aero",
+    "internetbs": {
+        "date": "2025-06-23T13:35:01.503909",
+        "registration": {
+            "usd": "61.90",
+            "eur": "56.19"
+        },
+        "renewal": {
+            "usd": "69.95",
+            "eur": "63.49"
+        },
+        "transfer": {
+            "usd": "67.90",
+            "eur": "61.63"
+        },
+        "restore": {
+            "usd": "149.99",
+            "eur": "136.15"
+        }
+    },
+    "gandi": {
+        "date": "2025-06-23T13:35:04.823994",
+        "registration": {
+            "eur": "49.00"
+        },
+        "renewal": {
+            "eur": "49.00"
+        },
+        "transfer": {
+            "eur": "100.00"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "99.00"
+        }
+    }
+}

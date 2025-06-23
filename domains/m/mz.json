@@ -1,0 +1,18 @@
+{
+    "tld": "mz",
+    "gandi": {
+        "date": "2025-06-23T13:35:06.765226",
+        "registration": {
+            "eur": "229.25"
+        },
+        "renewal": {
+            "eur": "15.00"
+        },
+        "transfer": {
+            "eur": "450.00"
+        },
+        "owner_change": {
+            "eur": "15.00"
+        }
+    }
+}

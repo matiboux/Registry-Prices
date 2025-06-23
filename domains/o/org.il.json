@@ -1,0 +1,22 @@
+{
+    "tld": "org.il",
+    "internetbs": {
+        "date": "2025-06-23T13:35:01.530525",
+        "registration": {
+            "usd": "32.99",
+            "eur": "29.95"
+        },
+        "renewal": {
+            "usd": "37.09",
+            "eur": "33.69"
+        },
+        "transfer": {
+            "usd": "35.99",
+            "eur": "32.67"
+        },
+        "restore": {
+            "usd": "87.09",
+            "eur": "79.09"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "tld": "商标",
+    "gandi": {
+        "date": "2025-06-23T13:35:04.667032",
+        "registration": {
+            "eur": "370.76"
+        },
+        "renewal": {
+            "eur": "317.36"
+        },
+        "transfer": {
+            "eur": "600.00"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "415.16"
+        }
+    }
+}

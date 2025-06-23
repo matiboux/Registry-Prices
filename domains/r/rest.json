@@ -1,0 +1,96 @@
+{
+    "tld": "rest",
+    "cloudflare": {
+        "date": "2025-06-23T13:34:58.577845",
+        "registration": {
+            "usd": "25.18",
+            "eur": "21.87"
+        },
+        "renewal": {
+            "usd": "25.18",
+            "eur": "21.87"
+        }
+    },
+    "internetbs": {
+        "date": "2025-06-23T13:35:01.312232",
+        "registration": {
+            "usd": "31.99",
+            "eur": "28.99"
+        },
+        "renewal": {
+            "usd": "36.05",
+            "eur": "31.95"
+        },
+        "transfer": {
+            "usd": "34.99",
+            "eur": "30.99"
+        },
+        "restore": {
+            "usd": "66.09",
+            "eur": "66.89"
+        }
+    },
+    "scaleway": {
+        "date": "2025-06-23T13:35:01.774345",
+        "registration": {
+            "eur": "32.73"
+        },
+        "renewal": {
+            "eur": "30.22"
+        },
+        "transfer": {
+            "eur": "32.73"
+        },
+        "restore": {
+            "eur": "49.99"
+        }
+    },
+    "namecheap": {
+        "date": "2025-06-23T13:35:04.350277",
+        "registration": {
+            "usd": "32.98",
+            "eur": "28.64"
+        },
+        "renewal": {
+            "usd": "34.98",
+            "eur": "30.38"
+        },
+        "transfer": {
+            "usd": "32.98",
+            "eur": "28.64"
+        }
+    },
+    "gandi": {
+        "date": "2025-06-23T13:35:07.499920",
+        "registration": {
+            "eur": "43.54"
+        },
+        "renewal": {
+            "eur": "36.89"
+        },
+        "transfer": {
+            "eur": "90.00"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "95.21"
+        }
+    },
+    "ovh": {
+        "date": "2025-06-23T13:35:10.388414",
+        "registration": {
+            "currency": "usd",
+            "price": "33.73"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "34.99"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "35.69"
+        }
+    }
+}

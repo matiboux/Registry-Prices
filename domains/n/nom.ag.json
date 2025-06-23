@@ -1,0 +1,18 @@
+{
+    "tld": "nom.ag",
+    "ovh": {
+        "date": "2025-06-23T13:35:10.354617",
+        "registration": {
+            "currency": "usd",
+            "price": "94.99"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "101.99"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "102.59"
+        }
+    }
+}

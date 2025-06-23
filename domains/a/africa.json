@@ -1,0 +1,55 @@
+{
+    "tld": "africa",
+    "internetbs": {
+        "date": "2025-06-23T13:35:01.504091",
+        "registration": {
+            "usd": "38.49",
+            "eur": "34.94"
+        },
+        "renewal": {
+            "usd": "55.95",
+            "eur": "50.79"
+        },
+        "transfer": {
+            "usd": "38.49",
+            "eur": "34.94"
+        },
+        "restore": {
+            "usd": "155.95",
+            "eur": "141.56"
+        }
+    },
+    "namecheap": {
+        "date": "2025-06-23T13:35:04.156652",
+        "registration": {
+            "usd": "12.98",
+            "eur": "11.27"
+        },
+        "renewal": {
+            "usd": "14.98",
+            "eur": "13.01"
+        },
+        "transfer": {
+            "usd": "12.98",
+            "eur": "11.27"
+        }
+    },
+    "gandi": {
+        "date": "2025-06-23T13:35:04.824541",
+        "registration": {
+            "eur": "20.72"
+        },
+        "renewal": {
+            "eur": "17.56"
+        },
+        "transfer": {
+            "eur": "50.00"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "49.31"
+        }
+    }
+}

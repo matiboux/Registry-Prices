@@ -1,0 +1,55 @@
+{
+    "tld": "gr.com",
+    "internetbs": {
+        "date": "2025-06-23T13:35:01.309366",
+        "registration": {
+            "usd": "14.99",
+            "eur": "13.99"
+        },
+        "renewal": {
+            "usd": "17.49",
+            "eur": "15.45"
+        },
+        "transfer": {
+            "usd": "16.99",
+            "eur": "14.99"
+        },
+        "restore": {
+            "usd": "30.39",
+            "eur": "28.49"
+        }
+    },
+    "namecheap": {
+        "date": "2025-06-23T13:35:04.257722",
+        "registration": {
+            "usd": "14.98",
+            "eur": "13.01"
+        },
+        "renewal": {
+            "usd": "16.98",
+            "eur": "14.75"
+        },
+        "transfer": {
+            "usd": "14.98",
+            "eur": "13.01"
+        }
+    },
+    "gandi": {
+        "date": "2025-06-23T13:35:05.825601",
+        "registration": {
+            "eur": "19.00"
+        },
+        "renewal": {
+            "eur": "19.00"
+        },
+        "transfer": {
+            "eur": "40.00"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "19.00"
+        }
+    }
+}

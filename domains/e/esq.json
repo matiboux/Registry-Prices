@@ -1,0 +1,47 @@
+{
+    "tld": "esq",
+    "cloudflare": {
+        "date": "2025-06-23T13:34:58.593022",
+        "registration": {
+            "usd": "20.18",
+            "eur": "17.52"
+        },
+        "renewal": {
+            "usd": "20.18",
+            "eur": "17.52"
+        }
+    },
+    "namecheap": {
+        "date": "2025-06-23T13:35:04.231904",
+        "registration": {
+            "usd": "25.98",
+            "eur": "22.56"
+        },
+        "renewal": {
+            "usd": "27.98",
+            "eur": "24.30"
+        },
+        "transfer": {
+            "usd": "25.98",
+            "eur": "22.56"
+        }
+    },
+    "gandi": {
+        "date": "2025-06-23T13:35:05.491626",
+        "registration": {
+            "eur": "19.99"
+        },
+        "renewal": {
+            "eur": "28.27"
+        },
+        "transfer": {
+            "eur": "71.98"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "97.06"
+        }
+    }
+}

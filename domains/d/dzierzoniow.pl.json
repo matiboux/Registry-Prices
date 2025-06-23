@@ -1,0 +1,18 @@
+{
+    "tld": "dzierzoniow.pl",
+    "ovh": {
+        "date": "2025-06-23T13:35:10.281584",
+        "registration": {
+            "currency": "usd",
+            "price": "3.69"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "10.89"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "0"
+        }
+    }
+}

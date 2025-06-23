@@ -1,0 +1,70 @@
+{
+    "tld": "film",
+    "internetbs": {
+        "date": "2025-06-23T13:35:01.508895",
+        "registration": {
+            "usd": "123.00",
+            "eur": "111.65"
+        },
+        "renewal": {
+            "usd": "139.09",
+            "eur": "126.25"
+        },
+        "transfer": {
+            "usd": "135.00",
+            "eur": "122.54"
+        },
+        "restore": {
+            "usd": "239.09",
+            "eur": "217.05"
+        }
+    },
+    "namecheap": {
+        "date": "2025-06-23T13:35:04.241446",
+        "registration": {
+            "usd": "77.98",
+            "eur": "67.72"
+        },
+        "renewal": {
+            "usd": "79.98",
+            "eur": "69.46"
+        },
+        "transfer": {
+            "usd": "77.98",
+            "eur": "67.72"
+        }
+    },
+    "gandi": {
+        "date": "2025-06-23T13:35:05.641389",
+        "registration": {
+            "eur": "99.16"
+        },
+        "renewal": {
+            "eur": "87.20"
+        },
+        "transfer": {
+            "eur": "191.98"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "144.16"
+        }
+    },
+    "ovh": {
+        "date": "2025-06-23T13:35:10.290948",
+        "registration": {
+            "currency": "usd",
+            "price": "75.99"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "82.99"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "82.59"
+        }
+    }
+}

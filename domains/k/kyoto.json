@@ -1,0 +1,47 @@
+{
+    "tld": "kyoto",
+    "namecheap": {
+        "date": "2025-06-23T13:35:04.290388",
+        "registration": {
+            "usd": "70.98",
+            "eur": "61.64"
+        },
+        "renewal": {
+            "usd": "70.98",
+            "eur": "61.64"
+        }
+    },
+    "gandi": {
+        "date": "2025-06-23T13:35:06.446738",
+        "registration": {
+            "eur": "74.44"
+        },
+        "renewal": {
+            "eur": "63.08"
+        },
+        "transfer": {
+            "eur": "143.98"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "226.18"
+        }
+    },
+    "ovh": {
+        "date": "2025-06-23T13:35:10.325842",
+        "registration": {
+            "currency": "usd",
+            "price": "80.61"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "87.56"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "80.61"
+        }
+    }
+}

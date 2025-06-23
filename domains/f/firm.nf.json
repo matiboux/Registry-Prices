@@ -1,0 +1,18 @@
+{
+    "tld": "firm.nf",
+    "ovh": {
+        "date": "2025-06-23T13:35:10.292477",
+        "registration": {
+            "currency": "usd",
+            "price": "1.198"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "183.99"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "194.99"
+        }
+    }
+}

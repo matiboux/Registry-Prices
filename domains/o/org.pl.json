@@ -1,0 +1,37 @@
+{
+    "tld": "org.pl",
+    "internetbs": {
+        "date": "2025-06-23T13:35:01.333239",
+        "registration": {
+            "usd": "10.99",
+            "eur": "9.99"
+        },
+        "renewal": {
+            "usd": "13.39",
+            "eur": "11.35"
+        },
+        "transfer": {
+            "usd": "12.99",
+            "eur": "10.99"
+        },
+        "restore": {
+            "usd": "50.89",
+            "eur": "51.55"
+        }
+    },
+    "ovh": {
+        "date": "2025-06-23T13:35:10.363350",
+        "registration": {
+            "currency": "usd",
+            "price": "3.49"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "11.49"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "0"
+        }
+    }
+}

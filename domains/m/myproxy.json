@@ -1,0 +1,18 @@
+{
+    "tld": "myproxy",
+    "namecheap": {
+        "date": "2025-06-23T13:35:04.313203",
+        "registration": {
+            "usd": "3.98",
+            "eur": "3.46"
+        },
+        "renewal": {
+            "usd": "3.98",
+            "eur": "3.46"
+        },
+        "transfer": {
+            "usd": "3.98",
+            "eur": "3.46"
+        }
+    }
+}

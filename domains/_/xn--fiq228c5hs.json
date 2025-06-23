@@ -1,0 +1,21 @@
+{
+    "tld": "中文网",
+    "gandi": {
+        "date": "2025-06-23T13:35:04.665505",
+        "registration": {
+            "eur": "270.00"
+        },
+        "renewal": {
+            "eur": "270.00"
+        },
+        "transfer": {
+            "eur": "360.00"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "400.00"
+        }
+    }
+}

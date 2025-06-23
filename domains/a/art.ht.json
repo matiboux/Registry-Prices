@@ -1,0 +1,18 @@
+{
+    "tld": "art.ht",
+    "ovh": {
+        "date": "2025-06-23T13:35:10.227874",
+        "registration": {
+            "currency": "usd",
+            "price": "94.99"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "101.99"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "150.69"
+        }
+    }
+}

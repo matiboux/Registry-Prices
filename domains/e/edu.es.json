@@ -1,0 +1,18 @@
+{
+    "tld": "edu.es",
+    "ovh": {
+        "date": "2025-06-23T13:35:10.282532",
+        "registration": {
+            "currency": "usd",
+            "price": "8.49"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "16.39"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "0"
+        }
+    }
+}

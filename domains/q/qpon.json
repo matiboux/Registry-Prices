@@ -1,0 +1,40 @@
+{
+    "tld": "qpon",
+    "internetbs": {
+        "date": "2025-06-23T13:35:01.494832",
+        "registration": {
+            "usd": "24.99",
+            "eur": "22.99"
+        },
+        "renewal": {
+            "usd": "25.75",
+            "eur": "23.69"
+        },
+        "transfer": {
+            "usd": "24.99",
+            "eur": "22.99"
+        },
+        "restore": {
+            "usd": "140.75",
+            "eur": "142.69"
+        }
+    },
+    "gandi": {
+        "date": "2025-06-23T13:35:07.349491",
+        "registration": {
+            "eur": "14.98"
+        },
+        "renewal": {
+            "eur": "28.20"
+        },
+        "transfer": {
+            "eur": "60.00"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "81.10"
+        }
+    }
+}

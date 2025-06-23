@@ -1,0 +1,18 @@
+{
+    "tld": "gov.uk",
+    "ovh": {
+        "date": "2025-06-23T13:35:10.304373",
+        "registration": {
+            "currency": "usd",
+            "price": "108.99"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "94.09"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "0"
+        }
+    }
+}

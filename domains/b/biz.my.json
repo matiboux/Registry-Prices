@@ -1,0 +1,15 @@
+{
+    "tld": "biz.my",
+    "gandi": {
+        "date": "2025-06-23T13:35:05.001046",
+        "registration": {
+            "eur": "70.00"
+        },
+        "renewal": {
+            "eur": "59.85"
+        },
+        "transfer": {
+            "eur": "110.00"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "tld": "ebiz.tw",
+    "internetbs": {
+        "date": "2025-06-23T13:35:01.524868",
+        "registration": {
+            "usd": "30.99",
+            "eur": "28.13"
+        },
+        "renewal": {
+            "usd": "35.05",
+            "eur": "31.79"
+        },
+        "transfer": {
+            "usd": "33.99",
+            "eur": "30.85"
+        },
+        "restore": {
+            "usd": "55.05",
+            "eur": "49.95"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "tld": "co.no",
+    "internetbs": {
+        "date": "2025-06-23T13:35:01.521399",
+        "registration": {
+            "usd": "29.99",
+            "eur": "27.22"
+        },
+        "renewal": {
+            "usd": "33.99",
+            "eur": "30.85"
+        },
+        "transfer": {
+            "usd": "0.00",
+            "eur": "0.00"
+        },
+        "restore": {
+            "usd": "73.99",
+            "eur": "67.19"
+        }
+    }
+}

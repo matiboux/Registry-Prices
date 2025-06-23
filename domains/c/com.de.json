@@ -1,0 +1,55 @@
+{
+    "tld": "com.de",
+    "internetbs": {
+        "date": "2025-06-23T13:35:01.314906",
+        "registration": {
+            "usd": "5.99",
+            "eur": "4.99"
+        },
+        "renewal": {
+            "usd": "6.19",
+            "eur": "6.19"
+        },
+        "transfer": {
+            "usd": "5.99",
+            "eur": "5.99"
+        },
+        "restore": {
+            "usd": "10.89",
+            "eur": "10.19"
+        }
+    },
+    "namecheap": {
+        "date": "2025-06-23T13:35:04.197922",
+        "registration": {
+            "usd": "5.98",
+            "eur": "5.19"
+        },
+        "renewal": {
+            "usd": "6.98",
+            "eur": "6.06"
+        },
+        "transfer": {
+            "usd": "5.98",
+            "eur": "5.19"
+        }
+    },
+    "gandi": {
+        "date": "2025-06-23T13:35:05.187337",
+        "registration": {
+            "eur": "12.00"
+        },
+        "renewal": {
+            "eur": "12.50"
+        },
+        "transfer": {
+            "eur": "31.98"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "12.50"
+        }
+    }
+}

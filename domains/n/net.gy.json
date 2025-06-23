@@ -1,0 +1,18 @@
+{
+    "tld": "net.gy",
+    "ovh": {
+        "date": "2025-06-23T13:35:10.349090",
+        "registration": {
+            "currency": "usd",
+            "price": "31.99"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "34.99"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "49.29"
+        }
+    }
+}

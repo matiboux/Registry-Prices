@@ -1,0 +1,47 @@
+{
+    "tld": "osaka",
+    "namecheap": {
+        "date": "2025-06-23T13:35:04.327761",
+        "registration": {
+            "usd": "32.98",
+            "eur": "28.64"
+        },
+        "renewal": {
+            "usd": "32.98",
+            "eur": "28.64"
+        }
+    },
+    "gandi": {
+        "date": "2025-06-23T13:35:07.063575",
+        "registration": {
+            "eur": "39.85"
+        },
+        "renewal": {
+            "eur": "33.77"
+        },
+        "transfer": {
+            "eur": "80.00"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "115.95"
+        }
+    },
+    "ovh": {
+        "date": "2025-06-23T13:35:10.365893",
+        "registration": {
+            "currency": "usd",
+            "price": "31.99"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "34.99"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "35.69"
+        }
+    }
+}

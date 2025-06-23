@@ -1,0 +1,33 @@
+{
+    "tld": "org.vc",
+    "namecheap": {
+        "date": "2025-06-23T13:35:04.327575",
+        "registration": {
+            "usd": "32.98",
+            "eur": "28.64"
+        },
+        "renewal": {
+            "usd": "32.98",
+            "eur": "28.64"
+        },
+        "transfer": {
+            "usd": "32.98",
+            "eur": "28.64"
+        }
+    },
+    "ovh": {
+        "date": "2025-06-23T13:35:10.365361",
+        "registration": {
+            "currency": "usd",
+            "price": "31.99"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "34.99"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "35.69"
+        }
+    }
+}

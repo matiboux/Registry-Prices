@@ -1,0 +1,37 @@
+{
+    "tld": "com.lc",
+    "internetbs": {
+        "date": "2025-06-23T13:35:01.522729",
+        "registration": {
+            "usd": "25.99",
+            "eur": "23.59"
+        },
+        "renewal": {
+            "usd": "29.89",
+            "eur": "27.09"
+        },
+        "transfer": {
+            "usd": "28.99",
+            "eur": "26.31"
+        },
+        "restore": {
+            "usd": "179.89",
+            "eur": "163.25"
+        }
+    },
+    "ovh": {
+        "date": "2025-06-23T13:35:10.263275",
+        "registration": {
+            "currency": "usd",
+            "price": "22.99"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "24.99"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "25.69"
+        }
+    }
+}

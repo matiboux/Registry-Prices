@@ -1,0 +1,18 @@
+{
+    "tld": "net.lv",
+    "ovh": {
+        "date": "2025-06-23T13:35:10.350678",
+        "registration": {
+            "currency": "usd",
+            "price": "13.49"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "15.89"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "15.89"
+        }
+    }
+}

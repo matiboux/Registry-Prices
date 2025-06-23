@@ -1,0 +1,92 @@
+{
+    "tld": "rodeo",
+    "cloudflare": {
+        "date": "2025-06-23T13:34:58.578378",
+        "registration": {
+            "usd": "7.18",
+            "eur": "6.24"
+        },
+        "renewal": {
+            "usd": "7.18",
+            "eur": "6.24"
+        }
+    },
+    "internetbs": {
+        "date": "2025-06-23T13:35:01.489692",
+        "registration": {
+            "usd": "60.95",
+            "eur": "55.32"
+        },
+        "renewal": {
+            "usd": "64.95",
+            "eur": "58.96"
+        },
+        "transfer": {
+            "usd": "60.95",
+            "eur": "55.32"
+        },
+        "restore": {
+            "usd": "174.95",
+            "eur": "158.80"
+        }
+    },
+    "scaleway": {
+        "date": "2025-06-23T13:35:01.775949",
+        "registration": {
+            "eur": "10.08"
+        },
+        "renewal": {
+            "eur": "8.62"
+        },
+        "transfer": {
+            "eur": "9.33"
+        },
+        "restore": {
+            "eur": "49.99"
+        }
+    },
+    "namecheap": {
+        "date": "2025-06-23T13:35:04.353002",
+        "registration": {
+            "usd": "10.48",
+            "eur": "9.10"
+        },
+        "renewal": {
+            "usd": "12.48",
+            "eur": "10.84"
+        }
+    },
+    "gandi": {
+        "date": "2025-06-23T13:35:07.501928",
+        "registration": {
+            "eur": "11.87"
+        },
+        "renewal": {
+            "eur": "10.06"
+        },
+        "transfer": {
+            "eur": "20.00"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "76.62"
+        }
+    },
+    "ovh": {
+        "date": "2025-06-23T13:35:10.390573",
+        "registration": {
+            "currency": "usd",
+            "price": "9.49"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "10.99"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "10.99"
+        }
+    }
+}

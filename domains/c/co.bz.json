@@ -1,0 +1,34 @@
+{
+    "tld": "co.bz",
+    "internetbs": {
+        "date": "2025-06-23T13:35:01.330269",
+        "registration": {
+            "usd": "22.99",
+            "eur": "20.99"
+        },
+        "renewal": {
+            "usd": "25.75",
+            "eur": "23.69"
+        },
+        "transfer": "",
+        "restore": {
+            "usd": "125.19",
+            "eur": "126.89"
+        }
+    },
+    "namecheap": {
+        "date": "2025-06-23T13:35:04.194074",
+        "registration": {
+            "usd": "45.98",
+            "eur": "39.93"
+        },
+        "renewal": {
+            "usd": "45.98",
+            "eur": "39.93"
+        },
+        "transfer": {
+            "usd": "45.98",
+            "eur": "39.93"
+        }
+    }
+}

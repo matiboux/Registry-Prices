@@ -1,0 +1,33 @@
+{
+    "tld": "vana",
+    "namecheap": {
+        "date": "2025-06-23T13:35:04.393353",
+        "registration": {
+            "usd": "2.298",
+            "eur": "1.995"
+        },
+        "renewal": {
+            "usd": "2.398",
+            "eur": "2.082"
+        },
+        "transfer": {
+            "usd": "2.298",
+            "eur": "1.995"
+        }
+    },
+    "gandi": {
+        "date": "2025-06-23T13:35:08.127471",
+        "registration": {
+            "eur": "2.200"
+        },
+        "renewal": {
+            "eur": "2.200"
+        },
+        "transfer": {
+            "eur": "3.840"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        }
+    }
+}

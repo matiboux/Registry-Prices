@@ -1,0 +1,18 @@
+{
+    "tld": "com.py",
+    "ovh": {
+        "date": "2025-06-23T13:35:10.265444",
+        "registration": {
+            "currency": "usd",
+            "price": "93.19"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "101.29"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "0"
+        }
+    }
+}

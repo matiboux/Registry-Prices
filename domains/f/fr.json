@@ -1,0 +1,93 @@
+{
+    "tld": "fr",
+    "dyjix": {
+        "date": "2025-06-23T13:34:58.728501",
+        "registration": {
+            "eur": "12.00"
+        },
+        "renewal": {
+            "eur": "12.00"
+        },
+        "transfer": {
+            "eur": "12.00"
+        }
+    },
+    "internetbs": {
+        "date": "2025-06-23T13:35:01.306049",
+        "registration": {
+            "usd": "8.63",
+            "eur": "7.83"
+        },
+        "renewal": {
+            "usd": "8.89",
+            "eur": "8.09"
+        },
+        "transfer": {
+            "usd": "8.63",
+            "eur": "7.83"
+        },
+        "restore": {
+            "usd": "16.65",
+            "eur": "15.09"
+        }
+    },
+    "scaleway": {
+        "date": "2025-06-23T13:35:01.702514",
+        "registration": {
+            "eur": "5.98"
+        },
+        "renewal": {
+            "eur": "5.98"
+        },
+        "transfer": {
+            "eur": "6.59"
+        },
+        "restore": {
+            "eur": "49.99"
+        }
+    },
+    "namecheap": {
+        "date": "2025-06-23T13:35:04.248321",
+        "registration": {
+            "usd": "17.98",
+            "eur": "15.61"
+        },
+        "renewal": {
+            "usd": "19.98",
+            "eur": "17.35"
+        }
+    },
+    "gandi": {
+        "date": "2025-06-23T13:35:05.647283",
+        "registration": {
+            "eur": "6.00"
+        },
+        "renewal": {
+            "eur": "6.00"
+        },
+        "transfer": {
+            "eur": "23.98"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "25.00"
+        }
+    },
+    "ovh": {
+        "date": "2025-06-23T13:35:10.296182",
+        "registration": {
+            "currency": "usd",
+            "price": "8.49"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "8.59"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "6.24"
+        }
+    }
+}

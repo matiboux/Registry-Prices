@@ -1,0 +1,47 @@
+{
+    "tld": "luxe",
+    "cloudflare": {
+        "date": "2025-06-23T13:34:58.572769",
+        "registration": {
+            "usd": "15.18",
+            "eur": "13.18"
+        },
+        "renewal": {
+            "usd": "15.18",
+            "eur": "13.18"
+        }
+    },
+    "gandi": {
+        "date": "2025-06-23T13:35:06.596079",
+        "registration": {
+            "eur": "20.83"
+        },
+        "renewal": {
+            "eur": "17.66"
+        },
+        "transfer": {
+            "eur": "50.00"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "84.88"
+        }
+    },
+    "ovh": {
+        "date": "2025-06-23T13:35:10.335007",
+        "registration": {
+            "currency": "usd",
+            "price": "15.49"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "18.49"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "21.39"
+        }
+    }
+}

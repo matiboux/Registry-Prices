@@ -1,0 +1,40 @@
+{
+    "tld": "コム",
+    "internetbs": {
+        "date": "2025-06-23T13:35:01.497116",
+        "registration": {
+            "usd": "12.99",
+            "eur": "10.99"
+        },
+        "renewal": {
+            "usd": "14.45",
+            "eur": "13.39"
+        },
+        "transfer": {
+            "usd": "13.99",
+            "eur": "12.99"
+        },
+        "restore": {
+            "usd": "137.49",
+            "eur": "139.35"
+        }
+    },
+    "gandi": {
+        "date": "2025-06-23T13:35:04.665092",
+        "registration": {
+            "eur": "13.99"
+        },
+        "renewal": {
+            "eur": "11.85"
+        },
+        "transfer": {
+            "eur": "31.98"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "82.39"
+        }
+    }
+}

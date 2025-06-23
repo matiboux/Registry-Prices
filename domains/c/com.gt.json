@@ -1,0 +1,18 @@
+{
+    "tld": "com.gt",
+    "ovh": {
+        "date": "2025-06-23T13:35:10.262144",
+        "registration": {
+            "currency": "usd",
+            "price": "40.99"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "45.99"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "0"
+        }
+    }
+}

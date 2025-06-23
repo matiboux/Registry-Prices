@@ -1,0 +1,18 @@
+{
+    "tld": "co.cr",
+    "ovh": {
+        "date": "2025-06-23T13:35:10.256635",
+        "registration": {
+            "currency": "usd",
+            "price": "36.99"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "39.99"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "0"
+        }
+    }
+}

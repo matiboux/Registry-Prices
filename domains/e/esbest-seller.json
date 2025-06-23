@@ -1,0 +1,18 @@
+{
+    "tld": "esbest-seller",
+    "ovh": {
+        "date": "2025-06-23T13:35:10.286361",
+        "registration": {
+            "currency": "usd",
+            "price": "13.49"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "13.49"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "0"
+        }
+    }
+}

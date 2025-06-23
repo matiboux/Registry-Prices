@@ -1,0 +1,47 @@
+{
+    "tld": "dealer",
+    "cloudflare": {
+        "date": "2025-06-23T13:34:58.617440",
+        "registration": {
+            "usd": "2.000",
+            "eur": "1.737"
+        },
+        "renewal": {
+            "usd": "2.000",
+            "eur": "1.737"
+        }
+    },
+    "namecheap": {
+        "date": "2025-06-23T13:35:04.214187",
+        "registration": {
+            "usd": "2.098",
+            "eur": "1.821"
+        },
+        "renewal": {
+            "usd": "2.198",
+            "eur": "1.908"
+        },
+        "transfer": {
+            "usd": "2.098",
+            "eur": "1.821"
+        }
+    },
+    "gandi": {
+        "date": "2025-06-23T13:35:05.345400",
+        "registration": {
+            "eur": "1.785"
+        },
+        "renewal": {
+            "eur": "1.776"
+        },
+        "transfer": {
+            "eur": "3.111"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "1.785"
+        }
+    }
+}

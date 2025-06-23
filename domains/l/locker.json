@@ -1,0 +1,33 @@
+{
+    "tld": "locker",
+    "namecheap": {
+        "date": "2025-06-23T13:35:04.298566",
+        "registration": {
+            "usd": "56.98",
+            "eur": "49.48"
+        },
+        "renewal": {
+            "usd": "58.98",
+            "eur": "51.22"
+        },
+        "transfer": {
+            "usd": "56.98",
+            "eur": "49.48"
+        }
+    },
+    "gandi": {
+        "date": "2025-06-23T13:35:06.597368",
+        "registration": {
+            "eur": "141.75"
+        },
+        "renewal": {
+            "eur": "141.75"
+        },
+        "transfer": {
+            "eur": "141.75"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        }
+    }
+}

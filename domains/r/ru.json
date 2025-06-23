@@ -1,0 +1,18 @@
+{
+    "tld": "ru",
+    "gandi": {
+        "date": "2025-06-23T13:35:07.502299",
+        "registration": {
+            "eur": "14.00"
+        },
+        "renewal": {
+            "eur": "4.00"
+        },
+        "transfer": {
+            "eur": "40.00"
+        },
+        "restore": {
+            "eur": "28.00"
+        }
+    }
+}

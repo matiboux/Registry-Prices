@@ -1,0 +1,21 @@
+{
+    "tld": "商城",
+    "gandi": {
+        "date": "2025-06-23T13:35:04.664186",
+        "registration": {
+            "eur": "240.16"
+        },
+        "renewal": {
+            "eur": "216.16"
+        },
+        "transfer": {
+            "eur": "440.00"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "495.16"
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "tld": "sb",
+    "gandi": {
+        "date": "2025-06-23T13:35:07.670224",
+        "registration": {
+            "eur": "48.80"
+        },
+        "renewal": {
+            "eur": "60.80"
+        },
+        "transfer": {
+            "eur": "100.00"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "60.80"
+        }
+    },
+    "ovh": {
+        "date": "2025-06-23T13:35:10.393335",
+        "registration": {
+            "currency": "usd",
+            "price": "60.99"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "65.99"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "72.99"
+        }
+    }
+}

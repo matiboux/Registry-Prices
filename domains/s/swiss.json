@@ -1,0 +1,36 @@
+{
+    "tld": "swiss",
+    "gandi": {
+        "date": "2025-06-23T13:35:07.684657",
+        "registration": {
+            "eur": "118.79"
+        },
+        "renewal": {
+            "eur": "109.79"
+        },
+        "transfer": {
+            "eur": "231.98"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "151.53"
+        }
+    },
+    "ovh": {
+        "date": "2025-06-23T13:35:10.408318",
+        "registration": {
+            "currency": "usd",
+            "price": "129.99"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "140.99"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "138.39"
+        }
+    }
+}

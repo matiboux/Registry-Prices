@@ -1,0 +1,29 @@
+{
+    "tld": "net.uk",
+    "cloudflare": {
+        "date": "2025-06-23T13:34:58.616344",
+        "registration": {
+            "usd": "4.94",
+            "eur": "4.29"
+        },
+        "renewal": {
+            "usd": "4.94",
+            "eur": "4.29"
+        }
+    },
+    "ovh": {
+        "date": "2025-06-23T13:35:10.352467",
+        "registration": {
+            "currency": "usd",
+            "price": "15.49"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "9.49"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "0"
+        }
+    }
+}

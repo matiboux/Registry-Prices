@@ -1,0 +1,55 @@
+{
+    "tld": "br.com",
+    "internetbs": {
+        "date": "2025-06-23T13:35:01.309741",
+        "registration": {
+            "usd": "45.99",
+            "eur": "41.99"
+        },
+        "renewal": {
+            "usd": "52.45",
+            "eur": "47.39"
+        },
+        "transfer": {
+            "usd": "50.90",
+            "eur": "45.99"
+        },
+        "restore": {
+            "usd": "45.55",
+            "eur": "46.05"
+        }
+    },
+    "namecheap": {
+        "date": "2025-06-23T13:35:04.175500",
+        "registration": {
+            "usd": "42.98",
+            "eur": "37.33"
+        },
+        "renewal": {
+            "usd": "44.98",
+            "eur": "39.06"
+        },
+        "transfer": {
+            "usd": "42.98",
+            "eur": "37.33"
+        }
+    },
+    "gandi": {
+        "date": "2025-06-23T13:35:04.998232",
+        "registration": {
+            "eur": "38.00"
+        },
+        "renewal": {
+            "eur": "38.00"
+        },
+        "transfer": {
+            "eur": "80.00"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "38.00"
+        }
+    }
+}

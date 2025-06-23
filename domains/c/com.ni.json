@@ -1,0 +1,18 @@
+{
+    "tld": "com.ni",
+    "ovh": {
+        "date": "2025-06-23T13:35:10.264368",
+        "registration": {
+            "currency": "usd",
+            "price": "71.99"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "77.99"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "0"
+        }
+    }
+}

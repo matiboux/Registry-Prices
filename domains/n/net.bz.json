@@ -1,0 +1,19 @@
+{
+    "tld": "net.bz",
+    "internetbs": {
+        "date": "2025-06-23T13:35:01.330623",
+        "registration": {
+            "usd": "22.99",
+            "eur": "20.99"
+        },
+        "renewal": {
+            "usd": "25.75",
+            "eur": "23.69"
+        },
+        "transfer": "",
+        "restore": {
+            "usd": "125.19",
+            "eur": "126.89"
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "tld": "museum",
+    "internetbs": {
+        "date": "2025-06-23T13:35:01.513001",
+        "registration": {
+            "usd": "72.90",
+            "eur": "66.17"
+        },
+        "renewal": {
+            "usd": "82.29",
+            "eur": "74.75"
+        },
+        "transfer": {
+            "usd": "79.90",
+            "eur": "72.53"
+        },
+        "restore": {
+            "usd": "122.29",
+            "eur": "111.05"
+        }
+    },
+    "gandi": {
+        "date": "2025-06-23T13:35:06.763539",
+        "registration": {
+            "eur": "66.79"
+        },
+        "renewal": {
+            "eur": "56.60"
+        },
+        "transfer": {
+            "eur": "140.00"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "115.15"
+        }
+    },
+    "ovh": {
+        "date": "2025-06-23T13:35:10.346033",
+        "registration": {
+            "currency": "usd",
+            "price": "44.99"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "54.39"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "54.39"
+        }
+    }
+}

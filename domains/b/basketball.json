@@ -1,0 +1,21 @@
+{
+    "tld": "basketball",
+    "gandi": {
+        "date": "2025-06-23T13:35:04.990488",
+        "registration": {
+            "eur": "69.47"
+        },
+        "renewal": {
+            "eur": "58.87"
+        },
+        "transfer": {
+            "eur": "140.00"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "108.86"
+        }
+    }
+}

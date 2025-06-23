@@ -1,0 +1,92 @@
+{
+    "tld": "ski",
+    "cloudflare": {
+        "date": "2025-06-23T13:34:58.619337",
+        "registration": {
+            "usd": "46.18",
+            "eur": "40.10"
+        },
+        "renewal": {
+            "usd": "46.18",
+            "eur": "40.10"
+        }
+    },
+    "internetbs": {
+        "date": "2025-06-23T13:35:01.516398",
+        "registration": {
+            "usd": "99.57",
+            "eur": "90.38"
+        },
+        "renewal": {
+            "usd": "111.79",
+            "eur": "101.49"
+        },
+        "transfer": {
+            "usd": "99.57",
+            "eur": "90.38"
+        },
+        "restore": {
+            "usd": "352.99",
+            "eur": "320.45"
+        }
+    },
+    "scaleway": {
+        "date": "2025-06-23T13:35:01.780652",
+        "registration": {
+            "eur": "45.08"
+        },
+        "renewal": {
+            "eur": "48.22"
+        },
+        "transfer": {
+            "eur": "45.08"
+        },
+        "restore": {
+            "eur": "50.29"
+        }
+    },
+    "namecheap": {
+        "date": "2025-06-23T13:35:04.365542",
+        "registration": {
+            "usd": "70.98",
+            "eur": "61.64"
+        },
+        "renewal": {
+            "usd": "72.98",
+            "eur": "63.38"
+        }
+    },
+    "gandi": {
+        "date": "2025-06-23T13:35:07.676554",
+        "registration": {
+            "eur": "53.15"
+        },
+        "renewal": {
+            "eur": "53.15"
+        },
+        "transfer": {
+            "eur": "103.98"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "115.12"
+        }
+    },
+    "ovh": {
+        "date": "2025-06-23T13:35:10.399548",
+        "registration": {
+            "currency": "usd",
+            "price": "39.86"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "65.69"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "63.09"
+        }
+    }
+}

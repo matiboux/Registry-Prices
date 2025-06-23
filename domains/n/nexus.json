@@ -1,0 +1,47 @@
+{
+    "tld": "nexus",
+    "cloudflare": {
+        "date": "2025-06-23T13:34:58.593706",
+        "registration": {
+            "usd": "10.18",
+            "eur": "8.84"
+        },
+        "renewal": {
+            "usd": "10.18",
+            "eur": "8.84"
+        }
+    },
+    "namecheap": {
+        "date": "2025-06-23T13:35:04.317220",
+        "registration": {
+            "usd": "12.98",
+            "eur": "11.27"
+        },
+        "renewal": {
+            "usd": "14.98",
+            "eur": "13.01"
+        },
+        "transfer": {
+            "usd": "12.98",
+            "eur": "11.27"
+        }
+    },
+    "gandi": {
+        "date": "2025-06-23T13:35:06.926688",
+        "registration": {
+            "eur": "19.99"
+        },
+        "renewal": {
+            "eur": "14.17"
+        },
+        "transfer": {
+            "eur": "40.00"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "97.36"
+        }
+    }
+}

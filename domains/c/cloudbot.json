@@ -1,0 +1,18 @@
+{
+    "tld": "cloudbot",
+    "namecheap": {
+        "date": "2025-06-23T13:35:04.192407",
+        "registration": {
+            "usd": "19.98",
+            "eur": "17.35"
+        },
+        "renewal": {
+            "usd": "22.98",
+            "eur": "19.96"
+        },
+        "transfer": {
+            "usd": "22.98",
+            "eur": "19.96"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "tld": "org.af",
+    "ovh": {
+        "date": "2025-06-23T13:35:10.359800",
+        "registration": {
+            "currency": "usd",
+            "price": "62.99"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "68.99"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "109.29"
+        }
+    }
+}

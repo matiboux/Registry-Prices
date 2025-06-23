@@ -1,0 +1,21 @@
+{
+    "tld": "我爱你",
+    "gandi": {
+        "date": "2025-06-23T13:35:04.667521",
+        "registration": {
+            "eur": "37.93"
+        },
+        "renewal": {
+            "eur": "32.14"
+        },
+        "transfer": {
+            "eur": "80.00"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "144.16"
+        }
+    }
+}

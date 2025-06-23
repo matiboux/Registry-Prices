@@ -1,0 +1,22 @@
+{
+    "tld": "com.gl",
+    "internetbs": {
+        "date": "2025-06-23T13:35:01.522371",
+        "registration": {
+            "usd": "59.90",
+            "eur": "54.37"
+        },
+        "renewal": {
+            "usd": "67.89",
+            "eur": "61.65"
+        },
+        "transfer": {
+            "usd": "65.90",
+            "eur": "59.82"
+        },
+        "restore": {
+            "usd": "87.89",
+            "eur": "79.79"
+        }
+    }
+}

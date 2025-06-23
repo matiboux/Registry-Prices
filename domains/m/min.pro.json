@@ -1,0 +1,18 @@
+{
+    "tld": "min.pro",
+    "ovh": {
+        "date": "2025-06-23T13:35:10.342701",
+        "registration": {
+            "currency": "usd",
+            "price": "161.99"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "172.99"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "166.29"
+        }
+    }
+}

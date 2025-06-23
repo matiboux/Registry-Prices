@@ -1,0 +1,37 @@
+{
+    "tld": "net.je",
+    "internetbs": {
+        "date": "2025-06-23T13:35:01.528789",
+        "registration": {
+            "usd": "74.90",
+            "eur": "67.99"
+        },
+        "renewal": {
+            "usd": "84.39",
+            "eur": "76.59"
+        },
+        "transfer": {
+            "usd": "81.90",
+            "eur": "74.34"
+        },
+        "restore": {
+            "usd": "104.39",
+            "eur": "94.75"
+        }
+    },
+    "ovh": {
+        "date": "2025-06-23T13:35:10.350072",
+        "registration": {
+            "currency": "usd",
+            "price": "44.99"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "47.99"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "44.99"
+        }
+    }
+}

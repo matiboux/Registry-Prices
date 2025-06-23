@@ -1,0 +1,40 @@
+{
+    "tld": "durban",
+    "internetbs": {
+        "date": "2025-06-23T13:35:01.492574",
+        "registration": {
+            "usd": "130.00",
+            "eur": "118.00"
+        },
+        "renewal": {
+            "usd": "149.35",
+            "eur": "135.59"
+        },
+        "transfer": {
+            "usd": "130.00",
+            "eur": "118.00"
+        },
+        "restore": {
+            "usd": "219.39",
+            "eur": "199.15"
+        }
+    },
+    "gandi": {
+        "date": "2025-06-23T13:35:05.351935",
+        "registration": {
+            "eur": "8.70"
+        },
+        "renewal": {
+            "eur": "11.50"
+        },
+        "transfer": {
+            "eur": "30.00"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "78.56"
+        }
+    }
+}

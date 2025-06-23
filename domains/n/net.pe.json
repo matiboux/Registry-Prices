@@ -1,0 +1,37 @@
+{
+    "tld": "net.pe",
+    "internetbs": {
+        "date": "2025-06-23T13:35:01.528968",
+        "registration": {
+            "usd": "70.90",
+            "eur": "64.36"
+        },
+        "renewal": {
+            "usd": "80.25",
+            "eur": "72.85"
+        },
+        "transfer": {
+            "usd": "77.90",
+            "eur": "70.71"
+        },
+        "restore": {
+            "usd": "100.25",
+            "eur": "91.05"
+        }
+    },
+    "namecheap": {
+        "date": "2025-06-23T13:35:04.315875",
+        "registration": {
+            "usd": "75.98",
+            "eur": "65.98"
+        },
+        "renewal": {
+            "usd": "77.98",
+            "eur": "67.72"
+        },
+        "transfer": {
+            "usd": "115.98",
+            "eur": "100.72"
+        }
+    }
+}

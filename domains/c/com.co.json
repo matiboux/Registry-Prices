@@ -1,0 +1,63 @@
+{
+    "tld": "com.co",
+    "cloudflare": {
+        "date": "2025-06-23T13:34:58.615569",
+        "registration": {
+            "usd": "10.00",
+            "eur": "8.68"
+        },
+        "renewal": {
+            "usd": "10.00",
+            "eur": "8.68"
+        }
+    },
+    "internetbs": {
+        "date": "2025-06-23T13:35:01.307408",
+        "registration": {
+            "usd": "18.99",
+            "eur": "17.24"
+        },
+        "renewal": {
+            "usd": "21.65",
+            "eur": "19.65"
+        },
+        "transfer": {
+            "usd": "18.99",
+            "eur": "17.24"
+        },
+        "restore": {
+            "usd": "131.69",
+            "eur": "119.55"
+        }
+    },
+    "namecheap": {
+        "date": "2025-06-23T13:35:04.197693",
+        "registration": {
+            "usd": "12.98",
+            "eur": "11.27"
+        },
+        "renewal": {
+            "usd": "13.98",
+            "eur": "12.14"
+        },
+        "transfer": {
+            "usd": "12.98",
+            "eur": "11.27"
+        }
+    },
+    "ovh": {
+        "date": "2025-06-23T13:35:10.260985",
+        "registration": {
+            "currency": "usd",
+            "price": "13.59"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "14.99"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "13.59"
+        }
+    }
+}

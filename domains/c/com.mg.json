@@ -1,0 +1,18 @@
+{
+    "tld": "com.mg",
+    "ovh": {
+        "date": "2025-06-23T13:35:10.263674",
+        "registration": {
+            "currency": "usd",
+            "price": "129.99"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "148.69"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "148.79"
+        }
+    }
+}

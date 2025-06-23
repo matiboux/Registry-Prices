@@ -1,0 +1,40 @@
+{
+    "tld": "rugby",
+    "internetbs": {
+        "date": "2025-06-23T13:35:01.534089",
+        "registration": {
+            "usd": "80.54",
+            "eur": "73.11"
+        },
+        "renewal": {
+            "usd": "90.89",
+            "eur": "82.49"
+        },
+        "transfer": {
+            "usd": "88.22",
+            "eur": "80.08"
+        },
+        "restore": {
+            "usd": "206.09",
+            "eur": "187.09"
+        }
+    },
+    "gandi": {
+        "date": "2025-06-23T13:35:07.502726",
+        "registration": {
+            "eur": "65.65"
+        },
+        "renewal": {
+            "eur": "55.63"
+        },
+        "transfer": {
+            "eur": "130.00"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "105.35"
+        }
+    }
+}

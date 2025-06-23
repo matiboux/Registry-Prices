@@ -1,0 +1,18 @@
+{
+    "tld": "bh",
+    "gandi": {
+        "date": "2025-06-23T13:35:04.993046",
+        "registration": {
+            "eur": "445.00"
+        },
+        "renewal": {
+            "eur": "136.00"
+        },
+        "transfer": {
+            "eur": "800.00"
+        },
+        "owner_change": {
+            "eur": "475.00"
+        }
+    }
+}

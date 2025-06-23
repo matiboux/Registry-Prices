@@ -1,0 +1,40 @@
+{
+    "tld": "游戏",
+    "internetbs": {
+        "date": "2025-06-23T13:35:01.487087",
+        "registration": {
+            "usd": "91.90",
+            "eur": "83.90"
+        },
+        "renewal": {
+            "usd": "104.05",
+            "eur": "94.69"
+        },
+        "transfer": {
+            "usd": "101.00",
+            "eur": "91.90"
+        },
+        "restore": {
+            "usd": "141.05",
+            "eur": "142.75"
+        }
+    },
+    "gandi": {
+        "date": "2025-06-23T13:35:04.669901",
+        "registration": {
+            "eur": "102.58"
+        },
+        "renewal": {
+            "eur": "92.70"
+        },
+        "transfer": {
+            "eur": "200.00"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "137.38"
+        }
+    }
+}

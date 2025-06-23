@@ -1,0 +1,18 @@
+{
+    "tld": "ainouveau",
+    "ovh": {
+        "date": "2025-06-23T13:35:09.344278",
+        "registration": {
+            "currency": "eur",
+            "price": "88.99"
+        },
+        "renewal": {
+            "currency": "eur",
+            "price": "119.99"
+        },
+        "transfer": {
+            "currency": "eur",
+            "price": "137"
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "tld": "brussels",
+    "gandi": {
+        "date": "2025-06-23T13:35:04.998700",
+        "registration": {
+            "eur": "38.25"
+        },
+        "renewal": {
+            "eur": "32.41"
+        },
+        "transfer": {
+            "eur": "90.00"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "105.13"
+        }
+    },
+    "ovh": {
+        "date": "2025-06-23T13:35:10.241730",
+        "registration": {
+            "currency": "usd",
+            "price": "25.99"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "41.99"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "31.69"
+        }
+    }
+}

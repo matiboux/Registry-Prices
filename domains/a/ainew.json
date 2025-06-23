@@ -1,0 +1,18 @@
+{
+    "tld": "ainew",
+    "ovh": {
+        "date": "2025-06-23T13:35:10.443599",
+        "registration": {
+            "currency": "usd",
+            "price": "77.39"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "130.79"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "143.56"
+        }
+    }
+}

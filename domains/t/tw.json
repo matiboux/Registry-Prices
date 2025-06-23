@@ -1,0 +1,52 @@
+{
+    "tld": "tw",
+    "internetbs": {
+        "date": "2025-06-23T13:35:01.532805",
+        "registration": {
+            "usd": "36.99",
+            "eur": "33.58"
+        },
+        "renewal": {
+            "usd": "42.25",
+            "eur": "38.35"
+        },
+        "transfer": {
+            "usd": "40.99",
+            "eur": "37.21"
+        },
+        "restore": {
+            "usd": "62.25",
+            "eur": "56.49"
+        }
+    },
+    "gandi": {
+        "date": "2025-06-23T13:35:07.847263",
+        "registration": {
+            "eur": "22.00"
+        },
+        "renewal": {
+            "eur": "20.83"
+        },
+        "transfer": {
+            "eur": "22.00"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        }
+    },
+    "ovh": {
+        "date": "2025-06-23T13:35:10.421378",
+        "registration": {
+            "currency": "usd",
+            "price": "20.49"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "21.99"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "20.49"
+        }
+    }
+}

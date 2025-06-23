@@ -1,0 +1,92 @@
+{
+    "tld": "casa",
+    "cloudflare": {
+        "date": "2025-06-23T13:34:58.594219",
+        "registration": {
+            "usd": "7.68",
+            "eur": "6.67"
+        },
+        "renewal": {
+            "usd": "7.68",
+            "eur": "6.67"
+        }
+    },
+    "internetbs": {
+        "date": "2025-06-23T13:35:01.489496",
+        "registration": {
+            "usd": "7.99",
+            "eur": "6.99"
+        },
+        "renewal": {
+            "usd": "9.29",
+            "eur": "8.25"
+        },
+        "transfer": {
+            "usd": "8.99",
+            "eur": "7.99"
+        },
+        "restore": {
+            "usd": "57.75",
+            "eur": "58.55"
+        }
+    },
+    "scaleway": {
+        "date": "2025-06-23T13:35:01.715543",
+        "registration": {
+            "eur": "8.03"
+        },
+        "renewal": {
+            "eur": "7.42"
+        },
+        "transfer": {
+            "eur": "8.03"
+        },
+        "restore": {
+            "eur": "58.26"
+        }
+    },
+    "namecheap": {
+        "date": "2025-06-23T13:35:04.184377",
+        "registration": {
+            "usd": "7.98",
+            "eur": "6.93"
+        },
+        "renewal": {
+            "usd": "9.98",
+            "eur": "8.67"
+        }
+    },
+    "gandi": {
+        "date": "2025-06-23T13:35:05.176826",
+        "registration": {
+            "eur": "10.22"
+        },
+        "renewal": {
+            "eur": "8.66"
+        },
+        "transfer": {
+            "eur": "31.98"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "79.95"
+        }
+    },
+    "ovh": {
+        "date": "2025-06-23T13:35:10.247627",
+        "registration": {
+            "currency": "usd",
+            "price": "9.99"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "9.99"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "10.69"
+        }
+    }
+}

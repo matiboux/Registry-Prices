@@ -1,0 +1,36 @@
+{
+    "tld": "meme",
+    "namecheap": {
+        "date": "2025-06-23T13:35:04.305316",
+        "registration": {
+            "usd": "12.98",
+            "eur": "11.27"
+        },
+        "renewal": {
+            "usd": "14.98",
+            "eur": "13.01"
+        },
+        "transfer": {
+            "usd": "12.98",
+            "eur": "11.27"
+        }
+    },
+    "gandi": {
+        "date": "2025-06-23T13:35:06.755903",
+        "registration": {
+            "eur": "23.86"
+        },
+        "renewal": {
+            "eur": "23.86"
+        },
+        "transfer": {
+            "eur": "40.00"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "104.71"
+        }
+    }
+}

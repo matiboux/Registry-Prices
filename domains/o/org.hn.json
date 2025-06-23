@@ -1,0 +1,18 @@
+{
+    "tld": "org.hn",
+    "ovh": {
+        "date": "2025-06-23T13:35:10.360675",
+        "registration": {
+            "currency": "usd",
+            "price": "70.99"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "76.99"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "77.29"
+        }
+    }
+}

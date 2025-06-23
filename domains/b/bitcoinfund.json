@@ -1,0 +1,18 @@
+{
+    "tld": "bitcoinfund",
+    "namecheap": {
+        "date": "2025-06-23T13:35:04.170652",
+        "registration": {
+            "usd": "75.98",
+            "eur": "65.98"
+        },
+        "renewal": {
+            "usd": "45.98",
+            "eur": "39.93"
+        },
+        "transfer": {
+            "usd": "45.98",
+            "eur": "39.93"
+        }
+    }
+}

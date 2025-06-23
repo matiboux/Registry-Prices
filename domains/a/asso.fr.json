@@ -1,0 +1,18 @@
+{
+    "tld": "asso.fr",
+    "ovh": {
+        "date": "2025-06-23T13:35:10.228715",
+        "registration": {
+            "currency": "usd",
+            "price": "8.49"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "8.49"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "164.08"
+        }
+    }
+}

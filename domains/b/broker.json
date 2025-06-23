@@ -1,0 +1,81 @@
+{
+    "tld": "broker",
+    "cloudflare": {
+        "date": "2025-06-23T13:34:58.605998",
+        "registration": {
+            "usd": "24.18",
+            "eur": "21.00"
+        },
+        "renewal": {
+            "usd": "24.18",
+            "eur": "21.00"
+        }
+    },
+    "internetbs": {
+        "date": "2025-06-23T13:35:01.505816",
+        "registration": {
+            "usd": "44.13",
+            "eur": "40.06"
+        },
+        "renewal": {
+            "usd": "45.49",
+            "eur": "41.29"
+        },
+        "transfer": {
+            "usd": "44.13",
+            "eur": "40.06"
+        },
+        "restore": {
+            "usd": "234.69",
+            "eur": "213.05"
+        }
+    },
+    "namecheap": {
+        "date": "2025-06-23T13:35:04.176434",
+        "registration": {
+            "usd": "30.98",
+            "eur": "26.90"
+        },
+        "renewal": {
+            "usd": "32.98",
+            "eur": "28.64"
+        },
+        "transfer": {
+            "usd": "30.98",
+            "eur": "26.90"
+        }
+    },
+    "gandi": {
+        "date": "2025-06-23T13:35:04.998481",
+        "registration": {
+            "eur": "34.89"
+        },
+        "renewal": {
+            "eur": "29.57"
+        },
+        "transfer": {
+            "eur": "71.98"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "127.06"
+        }
+    },
+    "ovh": {
+        "date": "2025-06-23T13:35:10.241466",
+        "registration": {
+            "currency": "usd",
+            "price": "19.33"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "34.29"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "33.69"
+        }
+    }
+}

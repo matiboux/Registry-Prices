@@ -1,0 +1,32 @@
+{
+    "tld": "select",
+    "cloudflare": {
+        "date": "2025-06-23T13:34:58.612579",
+        "registration": {
+            "usd": "22.18",
+            "eur": "19.26"
+        },
+        "renewal": {
+            "usd": "22.18",
+            "eur": "19.26"
+        }
+    },
+    "gandi": {
+        "date": "2025-06-23T13:35:07.672629",
+        "registration": {
+            "eur": "33.36"
+        },
+        "renewal": {
+            "eur": "28.27"
+        },
+        "transfer": {
+            "eur": "70.00"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "97.36"
+        }
+    }
+}

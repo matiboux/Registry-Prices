@@ -1,0 +1,18 @@
+{
+    "tld": "org.sb",
+    "ovh": {
+        "date": "2025-06-23T13:35:10.363620",
+        "registration": {
+            "currency": "usd",
+            "price": "60.99"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "65.99"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "72.99"
+        }
+    }
+}

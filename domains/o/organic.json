@@ -1,0 +1,66 @@
+{
+    "tld": "organic",
+    "cloudflare": {
+        "date": "2025-06-23T13:34:58.618995",
+        "registration": {
+            "usd": "59.18",
+            "eur": "51.39"
+        },
+        "renewal": {
+            "usd": "59.18",
+            "eur": "51.39"
+        }
+    },
+    "internetbs": {
+        "date": "2025-06-23T13:35:01.513387",
+        "registration": {
+            "usd": "104.75",
+            "eur": "95.08"
+        },
+        "renewal": {
+            "usd": "119.05",
+            "eur": "108.05"
+        },
+        "transfer": {
+            "usd": "104.75",
+            "eur": "95.08"
+        },
+        "restore": {
+            "usd": "243.25",
+            "eur": "220.79"
+        }
+    },
+    "gandi": {
+        "date": "2025-06-23T13:35:07.063343",
+        "registration": {
+            "eur": "95.40"
+        },
+        "renewal": {
+            "eur": "80.84"
+        },
+        "transfer": {
+            "eur": "191.98"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "108.01"
+        }
+    },
+    "ovh": {
+        "date": "2025-06-23T13:35:10.365621",
+        "registration": {
+            "currency": "usd",
+            "price": "25.28"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "84.39"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "80.29"
+        }
+    }
+}

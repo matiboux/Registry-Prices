@@ -1,0 +1,33 @@
+{
+    "tld": "kids",
+    "namecheap": {
+        "date": "2025-06-23T13:35:04.287489",
+        "registration": {
+            "usd": "22.98",
+            "eur": "19.96"
+        },
+        "renewal": {
+            "usd": "24.98",
+            "eur": "21.69"
+        },
+        "transfer": {
+            "usd": "22.98",
+            "eur": "19.96"
+        }
+    },
+    "gandi": {
+        "date": "2025-06-23T13:35:06.444803",
+        "registration": {
+            "eur": "30.05"
+        },
+        "renewal": {
+            "eur": "25.46"
+        },
+        "transfer": {
+            "eur": "63.98"
+        },
+        "restore": {
+            "eur": "101.23"
+        }
+    }
+}

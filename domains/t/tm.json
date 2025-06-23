@@ -1,0 +1,37 @@
+{
+    "tld": "tm",
+    "internetbs": {
+        "date": "2025-06-23T13:35:01.359091",
+        "registration": {
+            "usd": "570.00",
+            "eur": "517.39"
+        },
+        "renewal": {
+            "usd": "587.15",
+            "eur": "532.95"
+        },
+        "transfer": {
+            "usd": "570.00",
+            "eur": "517.39"
+        },
+        "restore": {
+            "usd": "957.15",
+            "eur": "868.79"
+        }
+    },
+    "gandi": {
+        "date": "2025-06-23T13:35:07.842752",
+        "registration": {
+            "eur": "500.00"
+        },
+        "renewal": {
+            "eur": "500.00"
+        },
+        "transfer": {
+            "eur": "800.00"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        }
+    }
+}

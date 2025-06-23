@@ -1,0 +1,18 @@
+{
+    "tld": "aid.pl",
+    "ovh": {
+        "date": "2025-06-23T13:35:10.225214",
+        "registration": {
+            "currency": "usd",
+            "price": "3.49"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "11.49"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "0"
+        }
+    }
+}

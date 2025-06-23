@@ -1,0 +1,40 @@
+{
+    "tld": "wien",
+    "internetbs": {
+        "date": "2025-06-23T13:35:01.517935",
+        "registration": {
+            "usd": "73.99",
+            "eur": "67.16"
+        },
+        "renewal": {
+            "usd": "82.45",
+            "eur": "74.79"
+        },
+        "transfer": {
+            "usd": "73.99",
+            "eur": "67.16"
+        },
+        "restore": {
+            "usd": "187.45",
+            "eur": "170.09"
+        }
+    },
+    "gandi": {
+        "date": "2025-06-23T13:35:08.266971",
+        "registration": {
+            "eur": "51.60"
+        },
+        "renewal": {
+            "eur": "43.72"
+        },
+        "transfer": {
+            "eur": "100.00"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "108.16"
+        }
+    }
+}

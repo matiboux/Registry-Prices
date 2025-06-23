@@ -1,0 +1,18 @@
+{
+    "tld": "iq",
+    "gandi": {
+        "date": "2025-06-23T13:35:06.139351",
+        "registration": {
+            "eur": "255.00"
+        },
+        "renewal": {
+            "eur": "246.00"
+        },
+        "transfer": {
+            "eur": "490.00"
+        },
+        "owner_change": {
+            "eur": "389.50"
+        }
+    }
+}

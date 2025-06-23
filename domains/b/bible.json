@@ -1,0 +1,36 @@
+{
+    "tld": "bible",
+    "gandi": {
+        "date": "2025-06-23T13:35:04.993379",
+        "registration": {
+            "eur": "64.76"
+        },
+        "renewal": {
+            "eur": "54.88"
+        },
+        "transfer": {
+            "eur": "130.00"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "113.89"
+        }
+    },
+    "ovh": {
+        "date": "2025-06-23T13:35:10.236984",
+        "registration": {
+            "currency": "usd",
+            "price": "31.99"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "135.09"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "134.99"
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "tld": "tirol",
+    "gandi": {
+        "date": "2025-06-23T13:35:07.842022",
+        "registration": {
+            "eur": "45.90"
+        },
+        "renewal": {
+            "eur": "38.89"
+        },
+        "transfer": {
+            "eur": "100.00"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "80.10"
+        }
+    },
+    "ovh": {
+        "date": "2025-06-23T13:35:10.415030",
+        "registration": {
+            "currency": "usd",
+            "price": "26.99"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "37.99"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "26.99"
+        }
+    }
+}

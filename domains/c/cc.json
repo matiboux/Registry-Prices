@@ -1,0 +1,96 @@
+{
+    "tld": "cc",
+    "cloudflare": {
+        "date": "2025-06-23T13:34:58.556485",
+        "registration": {
+            "usd": "8.00",
+            "eur": "6.95"
+        },
+        "renewal": {
+            "usd": "8.00",
+            "eur": "6.95"
+        }
+    },
+    "internetbs": {
+        "date": "2025-06-23T13:35:01.307870",
+        "registration": {
+            "usd": "10.99",
+            "eur": "9.99"
+        },
+        "renewal": {
+            "usd": "12.35",
+            "eur": "11.35"
+        },
+        "transfer": {
+            "usd": "11.99",
+            "eur": "10.99"
+        },
+        "restore": {
+            "usd": "100.39",
+            "eur": "101.79"
+        }
+    },
+    "scaleway": {
+        "date": "2025-06-23T13:35:01.716537",
+        "registration": {
+            "eur": "10.40"
+        },
+        "renewal": {
+            "eur": "9.60"
+        },
+        "transfer": {
+            "eur": "10.40"
+        },
+        "restore": {
+            "eur": "58.00"
+        }
+    },
+    "namecheap": {
+        "date": "2025-06-23T13:35:04.185753",
+        "registration": {
+            "usd": "10.98",
+            "eur": "9.54"
+        },
+        "renewal": {
+            "usd": "12.98",
+            "eur": "11.27"
+        },
+        "transfer": {
+            "usd": "10.98",
+            "eur": "9.54"
+        }
+    },
+    "gandi": {
+        "date": "2025-06-23T13:35:05.178174",
+        "registration": {
+            "eur": "13.00"
+        },
+        "renewal": {
+            "eur": "11.50"
+        },
+        "transfer": {
+            "eur": "31.98"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "100.00"
+        }
+    },
+    "ovh": {
+        "date": "2025-06-23T13:35:10.249046",
+        "registration": {
+            "currency": "usd",
+            "price": "11.49"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "12.49"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "11.49"
+        }
+    }
+}

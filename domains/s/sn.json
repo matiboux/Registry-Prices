@@ -1,0 +1,30 @@
+{
+    "tld": "sn",
+    "gandi": {
+        "date": "2025-06-23T13:35:07.677226",
+        "registration": {
+            "eur": "150.00"
+        },
+        "renewal": {
+            "eur": "150.00"
+        },
+        "transfer": {
+            "eur": "300.00"
+        }
+    },
+    "ovh": {
+        "date": "2025-06-23T13:35:10.400587",
+        "registration": {
+            "currency": "usd",
+            "price": "27.99"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "27.99"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "27.59"
+        }
+    }
+}

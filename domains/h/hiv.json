@@ -1,0 +1,70 @@
+{
+    "tld": "hiv",
+    "internetbs": {
+        "date": "2025-06-23T13:35:01.510959",
+        "registration": {
+            "usd": "328.00",
+            "eur": "297.73"
+        },
+        "renewal": {
+            "usd": "369.79",
+            "eur": "335.65"
+        },
+        "transfer": {
+            "usd": "359.00",
+            "eur": "325.86"
+        },
+        "restore": {
+            "usd": "429.79",
+            "eur": "390.15"
+        }
+    },
+    "scaleway": {
+        "date": "2025-06-23T13:35:01.748033",
+        "registration": {
+            "eur": "232.93"
+        },
+        "renewal": {
+            "eur": "215.02"
+        },
+        "transfer": {
+            "eur": "232.93"
+        },
+        "restore": {
+            "eur": "346.81"
+        }
+    },
+    "gandi": {
+        "date": "2025-06-23T13:35:05.976727",
+        "registration": {
+            "eur": "208.05"
+        },
+        "renewal": {
+            "eur": "199.05"
+        },
+        "transfer": {
+            "eur": "400.00"
+        },
+        "owner_change": {
+            "usd": "0.00"
+        },
+        "restore": {
+            "eur": "235.35"
+        }
+    },
+    "ovh": {
+        "date": "2025-06-23T13:35:10.309459",
+        "registration": {
+            "currency": "usd",
+            "price": "227.99"
+        },
+        "renewal": {
+            "currency": "usd",
+            "price": "249.99"
+        },
+        "transfer": {
+            "currency": "usd",
+            "price": "233.79"
+        }
+    }
+}

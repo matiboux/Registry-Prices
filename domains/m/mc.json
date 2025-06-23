@@ -1,0 +1,18 @@
+{
+    "tld": "mc",
+    "gandi": {
+        "date": "2025-06-23T13:35:06.753616",
+        "registration": {
+            "eur": "150.00"
+        },
+        "renewal": {
+            "eur": "150.00"
+        },
+        "transfer": {
+            "eur": "300.00"
+        },
+        "owner_change": {
+            "eur": "150.00"
+        }
+    }
+}
