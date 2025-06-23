@@ -1,0 +1,14 @@
+# Compare `.eu` domain names
+
+## Summary
+
+Pricing (excluding taxes):
+
+| Service | Date |  | / Renewed year | First year | Transfer | Restoration |
+|--|--|--|--|--|--|--|
+| **Dyjix** | 2025-06-23 |  | € 12.00 | € 12.00 | € 12.00 |  |
+| **Gandi** | 2025-06-23 |  | € 13.29 | € 2.99 | € 31.98 | € 13.38 |
+| **Internet.bs** | 2025-06-23 |  | € 6.19<br>($ 7.19) | € 4.99<br>($ 5.99) | € 5.99<br>($ 6.99) | € 5.59<br>($ 5.95) |
+| **Namecheap** | 2025-06-23 |  | € 7.80<br>($ 8.98) | € 6.06<br>($ 6.98) |  |  |
+| **OVH** | 2025-06-23 |  | {"currency": "usd", "price": "8.99"} | {"currency": "usd", "price": "7.79"} | {"currency": "usd", "price": "7.79"} |  |
+| **Scaleway** | 2025-06-23 | 🏆 | € 5.10 | € 5.52 | € 5.52 | € 49.99 |

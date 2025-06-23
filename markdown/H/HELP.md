@@ -1,0 +1,14 @@
+# Compare `.help` domain names
+
+## Summary
+
+Pricing (excluding taxes):
+
+| Service | Date |  | / Renewed year | First year | Transfer | Restoration |
+|--|--|--|--|--|--|--|
+| **Cloudflare** | 2025-06-23 | 🏆 | € 19.26<br>($ 22.18) | € 19.26<br>($ 22.18) |  |  |
+| **Gandi** | 2025-06-23 |  | € 32.51 | € 2.99 | € 80.00 | € 90.22 |
+| **Internet.bs** | 2025-06-23 |  | € 55.32<br>($ 60.95) | € 48.97<br>($ 53.95) | € 48.97<br>($ 53.95) | € 155.17<br>($ 170.95) |
+| **Namecheap** | 2025-06-23 |  | € 31.25<br>($ 35.98) | € 28.64<br>($ 32.98) | € 28.64<br>($ 32.98) |  |
+| **OVH** | 2025-06-23 |  | {"currency": "usd", "price": "36.49"} | {"currency": "usd", "price": "36.49"} | {"currency": "usd", "price": "36.49"} |  |
+| **Scaleway** | 2025-06-23 |  | € 24.22 | € 26.23 | € 26.23 | € 72.76 |

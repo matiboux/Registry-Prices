@@ -1,0 +1,12 @@
+# Compare `.best` domain names
+
+## Summary
+
+Pricing (excluding taxes):
+
+| Service | Date |  | / Renewed year | First year | Transfer | Restoration |
+|--|--|--|--|--|--|--|
+| **Gandi** | 2025-06-23 |  | € 21.26 | € 25.09 | € 40.00 | € 91.21 |
+| **Internet.bs** | 2025-06-23 |  | € 22.65<br>($ 24.75) | € 19.99<br>($ 21.99) | € 21.99<br>($ 23.99) | € 148.75<br>($ 146.75) |
+| **Namecheap** | 2025-06-23 | 🏆 | € 19.09<br>($ 21.98) | € 17.35<br>($ 19.98) |  |  |
+| **OVH** | 2025-06-23 |  | {"currency": "usd", "price": "21.39"} | {"currency": "usd", "price": "20.21"} | {"currency": "usd", "price": "87.99"} |  |

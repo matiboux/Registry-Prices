@@ -1,0 +1,14 @@
+# Compare `.fyi` domain names
+
+## Summary
+
+Pricing (excluding taxes):
+
+| Service | Date |  | / Renewed year | First year | Transfer | Restoration |
+|--|--|--|--|--|--|--|
+| **Cloudflare** | 2025-06-23 |  | € 13.18<br>($ 15.18) | € 13.18<br>($ 15.18) |  |  |
+| **Gandi** | 2025-06-23 |  | € 21.26 | € 9.99 | € 60.00 | € 91.22 |
+| **Internet.bs** | 2025-06-23 |  | € 19.59<br>($ 21.65) | € 16.99<br>($ 18.99) | € 18.99<br>($ 20.99) | € 69.85<br>($ 68.95) |
+| **Namecheap** | 2025-06-23 | 🏆 | € 7.80<br>($ 8.98) | € 6.06<br>($ 6.98) | € 6.06<br>($ 6.98) |  |
+| **OVH** | 2025-06-23 |  | {"currency": "usd", "price": "21.79"} | {"currency": "usd", "price": "22.30"} | {"currency": "usd", "price": "17.49"} |  |
+| **Scaleway** | 2025-06-23 |  | € 48.22 | € 18.43 | € 18.43 | € 49.99 |

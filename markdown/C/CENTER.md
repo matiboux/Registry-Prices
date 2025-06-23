@@ -1,0 +1,14 @@
+# Compare `.center` domain names
+
+## Summary
+
+Pricing (excluding taxes):
+
+| Service | Date |  | / Renewed year | First year | Transfer | Restoration |
+|--|--|--|--|--|--|--|
+| **Cloudflare** | 2025-06-23 | 🏆 | € 19.26<br>($ 22.18) | € 19.26<br>($ 22.18) |  |  |
+| **Gandi** | 2025-06-23 |  | € 21.26 | € 25.10 | € 60.00 | € 91.22 |
+| **Internet.bs** | 2025-06-23 |  | € 27.75<br>($ 30.55) | € 24.58<br>($ 27.08) | € 24.58<br>($ 27.08) | € 280.29<br>($ 308.75) |
+| **Namecheap** | 2025-06-23 |  | € 26.04<br>($ 29.98) | € 24.30<br>($ 27.98) | € 24.30<br>($ 27.98) |  |
+| **OVH** | 2025-06-23 |  | {"currency": "usd", "price": "31.49"} | {"currency": "usd", "price": "11.77"} | {"currency": "usd", "price": "30.89"} |  |
+| **Scaleway** | 2025-06-23 |  | € 48.22 | € 28.83 | € 18.43 | € 49.99 |

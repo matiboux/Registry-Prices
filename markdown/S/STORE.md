@@ -1,0 +1,14 @@
+# Compare `.store` domain names
+
+## Summary
+
+Pricing (excluding taxes):
+
+| Service | Date |  | / Renewed year | First year | Transfer | Restoration |
+|--|--|--|--|--|--|--|
+| **Cloudflare** | 2025-06-23 | 🏆 | € 34.89<br>($ 40.18) | € 34.89<br>($ 40.18) |  |  |
+| **Gandi** | 2025-06-23 |  | € 58.22 | € 1.99 | € 140.00 | € 171.16 |
+| **Internet.bs** | 2025-06-23 |  | € 63.79<br>($ 69.95) | € 49.90<br>($ 59.90) | € 61.90<br>($ 67.90) | € 366.99<br>($ 362.05) |
+| **Namecheap** | 2025-06-23 |  | € 44.27<br>($ 50.98) | € 1.55<br>($ 1.78) | € 42.54<br>($ 48.98) |  |
+| **OVH** | 2025-06-23 |  | {"currency": "usd", "price": "55.99"} | {"currency": "usd", "price": "0.99"} | {"currency": "usd", "price": "55.99"} |  |
+| **Scaleway** | 2025-06-23 |  | € 48.22 | € 52.23 | € 52.23 | € 145.26 |

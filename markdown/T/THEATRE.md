@@ -1,0 +1,13 @@
+# Compare `.theatre` domain names
+
+## Summary
+
+Pricing (excluding taxes):
+
+| Service | Date |  | / Renewed year | First year | Transfer | Restoration |
+|--|--|--|--|--|--|--|
+| **Cloudflare** | 2025-06-23 | 🏆 | € 434.37<br>($ 500.18) | € 434.37<br>($ 500.18) |  |  |
+| **Gandi** | 2025-06-23 |  | € 486.16 | € 495.16 | € 871.98 | € 571.04 |
+| **Internet.bs** | 2025-06-23 |  | € 656.15<br>($ 723.09) | € 581.00<br>($ 641.00) | € 637.00<br>($ 702.00) | € 698.69<br>($ 691.19) |
+| **Namecheap** | 2025-06-23 |  | € 520.17<br>($ 598.98) | € 520.17<br>($ 598.98) | € 520.17<br>($ 598.98) |  |
+| **OVH** | 2025-06-23 |  | {"currency": "usd", "price": "685.99"} | {"currency": "usd", "price": "630.99"} | {"currency": "usd", "price": "630.99"} |  |

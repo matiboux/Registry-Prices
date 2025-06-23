@@ -1,0 +1,14 @@
+# Compare `.shopping` domain names
+
+## Summary
+
+Pricing (excluding taxes):
+
+| Service | Date |  | / Renewed year | First year | Transfer | Restoration |
+|--|--|--|--|--|--|--|
+| **Cloudflare** | 2025-06-23 | 🏆 | € 20.13<br>($ 23.18) | € 20.13<br>($ 23.18) |  |  |
+| **Gandi** | 2025-06-23 |  | € 32.47 | € 38.31 | € 80.00 | € 101.44 |
+| **Internet.bs** | 2025-06-23 |  | € 29.89<br>($ 32.95) | € 26.99<br>($ 28.99) | € 28.99<br>($ 31.99) | € 79.89<br>($ 78.85) |
+| **Namecheap** | 2025-06-23 |  | € 27.77<br>($ 31.98) | € 26.04<br>($ 29.98) | € 26.04<br>($ 29.98) |  |
+| **OVH** | 2025-06-23 |  | {"currency": "usd", "price": "33.19"} | {"currency": "usd", "price": "30.59"} | {"currency": "usd", "price": "28.59"} |  |
+| **Scaleway** | 2025-06-23 |  | € 48.22 | € 27.53 | € 27.53 | € 49.99 |

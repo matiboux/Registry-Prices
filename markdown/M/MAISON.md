@@ -1,0 +1,14 @@
+# Compare `.maison` domain names
+
+## Summary
+
+Pricing (excluding taxes):
+
+| Service | Date |  | / Renewed year | First year | Transfer | Restoration |
+|--|--|--|--|--|--|--|
+| **Cloudflare** | 2025-06-23 | 🏆 | € 35.76<br>($ 41.18) | € 35.76<br>($ 41.18) |  |  |
+| **Gandi** | 2025-06-23 |  | € 49.67 | € 49.67 | € 103.98 | € 110.84 |
+| **Internet.bs** | 2025-06-23 |  | € 54.45<br>($ 59.99) | € 48.03<br>($ 52.91) | € 48.03<br>($ 52.91) | € 208.95<br>($ 230.19) |
+| **Namecheap** | 2025-06-23 |  | € 46.88<br>($ 53.98) | € 45.14<br>($ 51.98) | € 45.14<br>($ 51.98) |  |
+| **OVH** | 2025-06-23 |  | {"currency": "usd", "price": "58.59"} | {"currency": "usd", "price": "49.89"} | {"currency": "usd", "price": "56.49"} |  |
+| **Scaleway** | 2025-06-23 |  | € 48.22 | € 46.38 | € 46.38 | € 51.74 |

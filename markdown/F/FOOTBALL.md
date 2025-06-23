@@ -1,0 +1,14 @@
+# Compare `.football` domain names
+
+## Summary
+
+Pricing (excluding taxes):
+
+| Service | Date |  | / Renewed year | First year | Transfer | Restoration |
+|--|--|--|--|--|--|--|
+| **Cloudflare** | 2025-06-23 | 🏆 | € 15.79<br>($ 18.18) | € 15.79<br>($ 18.18) |  |  |
+| **Gandi** | 2025-06-23 |  | € 19.86 | € 23.44 | € 50.00 | € 89.56 |
+| **Internet.bs** | 2025-06-23 |  | € 24.79<br>($ 27.29) | € 22.12<br>($ 24.37) | € 22.12<br>($ 24.37) | € 103.05<br>($ 113.49) |
+| **Namecheap** | 2025-06-23 |  | € 21.69<br>($ 24.98) | € 19.96<br>($ 22.98) | € 19.96<br>($ 22.98) |  |
+| **OVH** | 2025-06-23 |  | {"currency": "usd", "price": "25.69"} | {"currency": "usd", "price": "21.59"} | {"currency": "usd", "price": "25.29"} |  |
+| **Scaleway** | 2025-06-23 |  | € 48.22 | € 18.43 | € 18.43 | € 49.99 |

@@ -1,0 +1,14 @@
+# Compare `.rent` domain names
+
+## Summary
+
+Pricing (excluding taxes):
+
+| Service | Date |  | / Renewed year | First year | Transfer | Restoration |
+|--|--|--|--|--|--|--|
+| **Cloudflare** | 2025-06-23 | 🏆 | € 39.24<br>($ 45.18) | € 39.24<br>($ 45.18) |  |  |
+| **Gandi** | 2025-06-23 |  | € 65.47 | € 77.26 | € 150.00 | € 100.18 |
+| **Internet.bs** | 2025-06-23 |  | € 70.15<br>($ 77.25) | € 62.62<br>($ 68.99) | € 62.62<br>($ 68.99) | € 179.09<br>($ 197.25) |
+| **Namecheap** | 2025-06-23 |  | € 56.43<br>($ 64.98) | € 54.69<br>($ 62.98) | € 54.69<br>($ 62.98) |  |
+| **OVH** | 2025-06-23 |  | {"currency": "usd", "price": "71.49"} | {"currency": "usd", "price": "15.01"} | {"currency": "usd", "price": "68.29"} |  |
+| **Scaleway** | 2025-06-23 |  | € 60.22 | € 65.23 | € 65.23 | € 362.76 |

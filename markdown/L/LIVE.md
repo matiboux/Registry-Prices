@@ -1,0 +1,14 @@
+# Compare `.live` domain names
+
+## Summary
+
+Pricing (excluding taxes):
+
+| Service | Date |  | / Renewed year | First year | Transfer | Restoration |
+|--|--|--|--|--|--|--|
+| **Cloudflare** | 2025-06-23 | 🏆 | € 20.13<br>($ 23.18) | € 20.13<br>($ 23.18) |  |  |
+| **Gandi** | 2025-06-23 |  | € 28.26 | € 3.99 | € 71.98 | € 99.31 |
+| **Internet.bs** | 2025-06-23 |  | € 28.55<br>($ 31.45) | € 24.73<br>($ 27.24) | € 24.73<br>($ 27.24) | € 212.99<br>($ 234.65) |
+| **Namecheap** | 2025-06-23 |  | € 28.64<br>($ 32.98) | € 26.04<br>($ 29.98) | € 26.04<br>($ 29.98) |  |
+| **OVH** | 2025-06-23 |  | {"currency": "usd", "price": "32.89"} | {"currency": "usd", "price": "3.66"} | {"currency": "usd", "price": "32.29"} |  |
+| **Scaleway** | 2025-06-23 |  | € 48.22 | € 22.98 | € 22.98 | € 49.99 |

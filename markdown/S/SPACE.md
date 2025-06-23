@@ -1,0 +1,14 @@
+# Compare `.space` domain names
+
+## Summary
+
+Pricing (excluding taxes):
+
+| Service | Date |  | / Renewed year | First year | Transfer | Restoration |
+|--|--|--|--|--|--|--|
+| **Cloudflare** | 2025-06-23 | 🏆 | € 17.52<br>($ 20.18) | € 17.52<br>($ 20.18) |  |  |
+| **Gandi** | 2025-06-23 |  | € 21.02 | € 3.00 | € 40.00 | € 90.16 |
+| **Internet.bs** | 2025-06-23 |  | € 23.69<br>($ 26.79) | € 21.99<br>($ 23.99) | € 22.99<br>($ 25.99) | € 60.69<br>($ 59.95) |
+| **Namecheap** | 2025-06-23 |  | € 24.30<br>($ 27.98) | € 1.55<br>($ 1.78) | € 22.56<br>($ 25.98) |  |
+| **OVH** | 2025-06-23 |  | {"currency": "usd", "price": "26.79"} | {"currency": "usd", "price": "1.06"} | {"currency": "usd", "price": "23.49"} |  |
+| **Scaleway** | 2025-06-23 |  | € 24.22 | € 26.23 | € 26.23 | € 58.26 |

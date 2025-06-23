@@ -1,0 +1,14 @@
+# Compare `.domains` domain names
+
+## Summary
+
+Pricing (excluding taxes):
+
+| Service | Date |  | / Renewed year | First year | Transfer | Restoration |
+|--|--|--|--|--|--|--|
+| **Cloudflare** | 2025-06-23 | 🏆 | € 26.21<br>($ 30.18) | € 26.21<br>($ 30.18) |  |  |
+| **Gandi** | 2025-06-23 |  | € 35.27 | € 41.62 | € 90.00 | € 104.26 |
+| **Internet.bs** | 2025-06-23 |  | € 34.99<br>($ 38.59) | € 31.07<br>($ 34.23) | € 31.99<br>($ 34.99) | € 132.29<br>($ 145.79) |
+| **Namecheap** | 2025-06-23 |  | € 34.72<br>($ 39.98) | € 32.98<br>($ 37.98) | € 32.98<br>($ 37.98) |  |
+| **OVH** | 2025-06-23 |  | {"currency": "usd", "price": "42.89"} | {"currency": "usd", "price": "35.29"} | {"currency": "usd", "price": "42.09"} |  |
+| **Scaleway** | 2025-06-23 |  | € 48.22 | € 39.23 | € 28.18 | € 49.99 |

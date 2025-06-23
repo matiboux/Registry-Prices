@@ -1,0 +1,14 @@
+# Compare `.kim` domain names
+
+## Summary
+
+Pricing (excluding taxes):
+
+| Service | Date |  | / Renewed year | First year | Transfer | Restoration |
+|--|--|--|--|--|--|--|
+| **Cloudflare** | 2025-06-23 | 🏆 | € 13.18<br>($ 15.18) | € 13.18<br>($ 15.18) |  |  |
+| **Gandi** | 2025-06-23 |  | € 19.86 | € 23.43 | € 50.00 | € 89.55 |
+| **Internet.bs** | 2025-06-23 |  | € 27.09<br>($ 29.89) | € 23.59<br>($ 25.99) | € 26.31<br>($ 28.99) | € 130.59<br>($ 143.95) |
+| **Namecheap** | 2025-06-23 |  | € 19.09<br>($ 21.98) | € 17.35<br>($ 19.98) | € 17.35<br>($ 19.98) |  |
+| **OVH** | 2025-06-23 |  | {"currency": "usd", "price": "21.79"} | {"currency": "usd", "price": "15.01"} | {"currency": "usd", "price": "23.29"} |  |
+| **Scaleway** | 2025-06-23 |  | € 48.22 | € 17.33 | € 17.33 | € 49.99 |

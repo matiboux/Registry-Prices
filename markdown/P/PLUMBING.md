@@ -1,0 +1,14 @@
+# Compare `.plumbing` domain names
+
+## Summary
+
+Pricing (excluding taxes):
+
+| Service | Date |  | / Renewed year | First year | Transfer | Restoration |
+|--|--|--|--|--|--|--|
+| **Cloudflare** | 2025-06-23 | 🏆 | € 43.58<br>($ 50.18) | € 43.58<br>($ 50.18) |  |  |
+| **Gandi** | 2025-06-23 |  | € 49.98 | € 58.98 | € 120.00 | € 110.84 |
+| **Internet.bs** | 2025-06-23 |  | € 66.05<br>($ 72.75) | € 58.26<br>($ 64.18) | € 58.26<br>($ 64.18) | € 323.09<br>($ 355.95) |
+| **Namecheap** | 2025-06-23 |  | € 57.30<br>($ 65.98) | € 55.56<br>($ 63.98) | € 55.56<br>($ 63.98) |  |
+| **OVH** | 2025-06-23 |  | {"currency": "usd", "price": "71.49"} | {"currency": "usd", "price": "60.29"} | {"currency": "usd", "price": "68.89"} |  |
+| **Scaleway** | 2025-06-23 |  | € 48.22 | € 46.38 | € 46.38 | € 51.74 |

@@ -1,0 +1,14 @@
+# Compare `.site` domain names
+
+## Summary
+
+Pricing (excluding taxes):
+
+| Service | Date |  | / Renewed year | First year | Transfer | Restoration |
+|--|--|--|--|--|--|--|
+| **Cloudflare** | 2025-06-23 | 🏆 | € 21.87<br>($ 25.18) | € 21.87<br>($ 25.18) |  |  |
+| **Gandi** | 2025-06-23 |  | € 29.06 | € 1.99 | € 50.00 | € 117.16 |
+| **Internet.bs** | 2025-06-23 |  | € 28.85<br>($ 31.95) | € 26.99<br>($ 29.99) | € 27.99<br>($ 30.99) | € 89.09<br>($ 87.99) |
+| **Namecheap** | 2025-06-23 |  | € 29.51<br>($ 33.98) | € 1.55<br>($ 1.78) | € 27.77<br>($ 31.98) |  |
+| **OVH** | 2025-06-23 |  | {"currency": "usd", "price": "34.39"} | {"currency": "usd", "price": "0.99"} | {"currency": "usd", "price": "29.39"} |  |
+| **Scaleway** | 2025-06-23 |  | € 30.22 | € 32.73 | € 32.73 | € 87.26 |

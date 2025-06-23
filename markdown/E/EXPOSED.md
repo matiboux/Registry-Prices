@@ -1,0 +1,14 @@
+# Compare `.exposed` domain names
+
+## Summary
+
+Pricing (excluding taxes):
+
+| Service | Date |  | / Renewed year | First year | Transfer | Restoration |
+|--|--|--|--|--|--|--|
+| **Cloudflare** | 2025-06-23 | 🏆 | € 13.18<br>($ 15.18) | € 13.18<br>($ 15.18) |  |  |
+| **Gandi** | 2025-06-23 |  | € 19.86 | € 23.44 | € 50.00 | € 89.56 |
+| **Internet.bs** | 2025-06-23 |  | € 22.05<br>($ 24.25) | € 19.42<br>($ 21.39) | € 19.42<br>($ 21.39) | € 120.25<br>($ 132.45) |
+| **Namecheap** | 2025-06-23 |  | € 19.09<br>($ 21.98) | € 17.35<br>($ 19.98) | € 17.35<br>($ 19.98) |  |
+| **OVH** | 2025-06-23 |  | {"currency": "usd", "price": "21.49"} | {"currency": "usd", "price": "18.69"} | {"currency": "usd", "price": "20.19"} |  |
+| **Scaleway** | 2025-06-23 |  | € 48.22 | € 18.43 | € 18.43 | € 49.99 |

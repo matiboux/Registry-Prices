@@ -1,0 +1,11 @@
+# Compare `.scot` domain names
+
+## Summary
+
+Pricing (excluding taxes):
+
+| Service | Date |  | / Renewed year | First year | Transfer | Restoration |
+|--|--|--|--|--|--|--|
+| **Gandi** | 2025-06-23 | 🏆 | € 35.67 | € 42.10 | € 90.00 | € 237.16 |
+| **Internet.bs** | 2025-06-23 |  | € 61.65<br>($ 67.89) | € 54.37<br>($ 59.90) | € 59.82<br>($ 65.90) | € 422.69<br>($ 465.69) |
+| **OVH** | 2025-06-23 |  | {"currency": "usd", "price": "32.99"} | {"currency": "usd", "price": "24.99"} | {"currency": "usd", "price": "35.99"} |  |

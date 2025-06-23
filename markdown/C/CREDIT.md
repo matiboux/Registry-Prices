@@ -1,0 +1,14 @@
+# Compare `.credit` domain names
+
+## Summary
+
+Pricing (excluding taxes):
+
+| Service | Date |  | / Renewed year | First year | Transfer | Restoration |
+|--|--|--|--|--|--|--|
+| **Cloudflare** | 2025-06-23 |  | € 65.29<br>($ 75.18) | € 65.29<br>($ 75.18) |  |  |
+| **Gandi** | 2025-06-23 |  | € 98.30 | € 108.78 | € 220.00 | € 142.56 |
+| **Internet.bs** | 2025-06-23 |  | € 90.55<br>($ 99.85) | € 79.90<br>($ 87.90) | € 87.90<br>($ 96.90) | € 138.79<br>($ 137.19) |
+| **Namecheap** | 2025-06-23 |  | € 83.35<br>($ 95.98) | € 81.62<br>($ 93.98) | € 81.62<br>($ 93.98) |  |
+| **OVH** | 2025-06-23 |  | {"currency": "usd", "price": "104.79"} | {"currency": "usd", "price": "16.09"} | {"currency": "usd", "price": "102.59"} |  |
+| **Scaleway** | 2025-06-23 | 🏆 | € 48.22 | € 86.03 | € 86.03 | € 95.96 |

@@ -1,0 +1,14 @@
+# Compare `.design` domain names
+
+## Summary
+
+Pricing (excluding taxes):
+
+| Service | Date |  | / Renewed year | First year | Transfer | Restoration |
+|--|--|--|--|--|--|--|
+| **Cloudflare** | 2025-06-23 | 🏆 | € 34.89<br>($ 40.18) | € 34.89<br>($ 40.18) |  |  |
+| **Gandi** | 2025-06-23 |  | € 48.47 | € 57.20 | € 120.00 | € 103.05 |
+| **Internet.bs** | 2025-06-23 |  | € 49.55<br>($ 54.59) | € 44.47<br>($ 48.99) | € 44.47<br>($ 48.99) | € 96.19<br>($ 105.95) |
+| **Namecheap** | 2025-06-23 |  | € 45.14<br>($ 51.98) | € 43.40<br>($ 49.98) | € 43.40<br>($ 49.98) |  |
+| **OVH** | 2025-06-23 |  | {"currency": "usd", "price": "56.39"} | {"currency": "usd", "price": "52.59"} | {"currency": "usd", "price": "56.39"} |  |
+| **Scaleway** | 2025-06-23 |  | € 48.22 | € 52.23 | € 52.23 | € 58.26 |

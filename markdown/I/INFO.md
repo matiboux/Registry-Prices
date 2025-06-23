@@ -1,0 +1,14 @@
+# Compare `.info` domain names
+
+## Summary
+
+Pricing (excluding taxes):
+
+| Service | Date |  | / Renewed year | First year | Transfer | Restoration |
+|--|--|--|--|--|--|--|
+| **Cloudflare** | 2025-06-23 | 🏆 | € 15.35<br>($ 17.68) | € 15.35<br>($ 17.68) |  |  |
+| **Gandi** | 2025-06-23 |  | € 22.67 | € 3.99 | € 60.00 | € 92.87 |
+| **Internet.bs** | 2025-06-23 |  | € 37.39<br>($ 41.19) | € 27.22<br>($ 29.99) | € 27.22<br>($ 29.99) | € 137.25<br>($ 151.19) |
+| **Namecheap** | 2025-06-23 |  | € 25.17<br>($ 28.98) | € 21.69<br>($ 24.98) | € 21.69<br>($ 24.98) |  |
+| **OVH** | 2025-06-23 |  | {"currency": "usd", "price": "25.89"} | {"currency": "usd", "price": "5.28"} | {"currency": "usd", "price": "25.89"} |  |
+| **Scaleway** | 2025-06-23 |  | € 17.44 | € 22.63 | € 19.21 | € 49.99 |

@@ -1,0 +1,14 @@
+# Compare `.wiki` domain names
+
+## Summary
+
+Pricing (excluding taxes):
+
+| Service | Date |  | / Renewed year | First year | Transfer | Restoration |
+|--|--|--|--|--|--|--|
+| **Cloudflare** | 2025-06-23 | 🏆 | € 16.66<br>($ 19.18) | € 16.66<br>($ 19.18) |  |  |
+| **Gandi** | 2025-06-23 |  | € 28.10 | € 33.16 | € 70.00 | € 98.85 |
+| **Internet.bs** | 2025-06-23 |  | € 37.21<br>($ 40.99) | € 33.58<br>($ 36.99) | € 33.58<br>($ 36.99) | € 137.05<br>($ 150.99) |
+| **Namecheap** | 2025-06-23 |  | € 24.73<br>($ 28.48) | € 23.00<br>($ 26.48) | € 23.00<br>($ 26.48) |  |
+| **OVH** | 2025-06-23 |  | {"currency": "usd", "price": "27.19"} | {"currency": "usd", "price": "29.39"} | {"currency": "usd", "price": "27.09"} |  |
+| **Scaleway** | 2025-06-23 |  | € 23.02 | € 24.93 | € 24.93 | € 58.26 |
