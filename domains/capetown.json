@@ -1,6 +1,7 @@
 {
     "tld": "capetown",
     "internetbs": {
+        "date": "2025-06-23T00:44:53.671297",
         "registration": {
             "usd": "125.00",
             "eur": "113.46"
@@ -19,6 +20,7 @@
         }
     },
     "gandi": {
+        "date": "2025-06-23T00:44:57.598482",
         "registration": {
             "eur": "8.70"
         },

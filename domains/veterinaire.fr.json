@@ -1,6 +1,7 @@
 {
     "tld": "veterinaire.fr",
     "gandi": {
+        "date": "2025-06-23T00:45:00.608037",
         "registration": {
             "eur": "19.00"
         },
@@ -15,6 +16,7 @@
         }
     },
     "ovh": {
+        "date": "2025-06-23T00:45:02.923122",
         "registration": {
             "eur": "19.99",
             "usd": "21.99"

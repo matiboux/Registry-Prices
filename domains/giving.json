@@ -1,6 +1,7 @@
 {
     "tld": "giving",
     "namecheap": {
+        "date": "2025-06-23T00:44:56.579501",
         "registration": {
             "usd": "27.98",
             "eur": "24.30"
@@ -15,6 +16,7 @@
         }
     },
     "gandi": {
+        "date": "2025-06-23T00:44:58.243949",
         "registration": {
             "promo€": "35.84"
         },

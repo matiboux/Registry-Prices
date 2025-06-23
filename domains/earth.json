@@ -1,6 +1,7 @@
 {
     "tld": "earth",
     "internetbs": {
+        "date": "2025-06-23T00:44:53.689121",
         "registration": {
             "usd": "30.99",
             "eur": "28.13"
@@ -19,6 +20,7 @@
         }
     },
     "namecheap": {
+        "date": "2025-06-23T00:44:56.551140",
         "registration": {
             "usd": "19.98",
             "eur": "17.35"
@@ -26,12 +28,10 @@
         "renewal": {
             "usd": "21.98",
             "eur": "19.09"
-        },
-        "transfer": {
-            "null": ""
         }
     },
     "gandi": {
+        "date": "2025-06-23T00:44:57.909303",
         "registration": {
             "eur": "25.96"
         },

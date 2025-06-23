@@ -1,6 +1,7 @@
 {
     "tld": "rodeo",
     "cloudflare": {
+        "date": "2025-06-23T00:44:50.747304",
         "registration": {
             "usd": "7.18",
             "eur": "6.24"
@@ -11,6 +12,7 @@
         }
     },
     "internetbs": {
+        "date": "2025-06-23T00:44:53.668770",
         "registration": {
             "usd": "60.95",
             "eur": "55.32"
@@ -29,6 +31,7 @@
         }
     },
     "scaleway": {
+        "date": "2025-06-23T00:44:53.951048",
         "registration": {
             "eur": "10.08"
         },
@@ -43,6 +46,7 @@
         }
     },
     "namecheap": {
+        "date": "2025-06-23T00:44:56.672388",
         "registration": {
             "usd": "10.48",
             "eur": "9.10"
@@ -50,12 +54,10 @@
         "renewal": {
             "usd": "12.48",
             "eur": "10.84"
-        },
-        "transfer": {
-            "null": ""
         }
     },
     "gandi": {
+        "date": "2025-06-23T00:45:00.004519",
         "registration": {
             "eur": "11.87"
         },
@@ -73,6 +75,7 @@
         }
     },
     "ovh": {
+        "date": "2025-06-23T00:45:02.886864",
         "registration": {
             "eur": "8.69",
             "usd": "9.49"

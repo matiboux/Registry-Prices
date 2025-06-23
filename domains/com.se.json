@@ -1,6 +1,7 @@
 {
     "tld": "com.se",
     "internetbs": {
+        "date": "2025-06-23T00:44:53.503597",
         "registration": {
             "usd": "9.99",
             "eur": "8.99"
@@ -19,6 +20,7 @@
         }
     },
     "namecheap": {
+        "date": "2025-06-23T00:44:56.523506",
         "registration": {
             "usd": "9.98",
             "eur": "8.67"

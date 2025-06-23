@@ -1,6 +1,7 @@
 {
     "tld": "broker",
     "cloudflare": {
+        "date": "2025-06-23T00:44:50.774670",
         "registration": {
             "usd": "24.18",
             "eur": "21.00"
@@ -11,6 +12,7 @@
         }
     },
     "internetbs": {
+        "date": "2025-06-23T00:44:53.686700",
         "registration": {
             "usd": "44.13",
             "eur": "40.06"
@@ -29,6 +31,7 @@
         }
     },
     "namecheap": {
+        "date": "2025-06-23T00:44:56.502300",
         "registration": {
             "usd": "30.98",
             "eur": "26.90"
@@ -43,6 +46,7 @@
         }
     },
     "gandi": {
+        "date": "2025-06-23T00:44:57.411864",
         "registration": {
             "eur": "34.89"
         },

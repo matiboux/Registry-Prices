@@ -1,6 +1,7 @@
 {
     "tld": "u2",
     "namecheap": {
+        "date": "2025-06-23T00:44:56.703559",
         "registration": {
             "usd": "29.98",
             "eur": "26.04"
@@ -8,10 +9,6 @@
         "renewal": {
             "usd": "22.98",
             "eur": "19.96"
-        },
-        "transfer": {
-            "null": "",
-            "null": ""
         }
     }
 }

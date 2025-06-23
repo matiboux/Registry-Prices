@@ -1,6 +1,7 @@
 {
     "tld": "gb.net",
     "internetbs": {
+        "date": "2025-06-23T00:44:53.496628",
         "registration": {
             "usd": "7.99",
             "eur": "7.99"
@@ -19,6 +20,7 @@
         }
     },
     "namecheap": {
+        "date": "2025-06-23T00:44:56.576628",
         "registration": {
             "usd": "9.98",
             "eur": "8.67"
@@ -33,6 +35,7 @@
         }
     },
     "gandi": {
+        "date": "2025-06-23T00:44:58.240134",
         "registration": {
             "eur": "24.00"
         },

@@ -1,6 +1,7 @@
 {
     "tld": "cm",
     "internetbs": {
+        "date": "2025-06-23T00:44:53.552552",
         "registration": {
             "usd": "91.90",
             "eur": "82.90"
@@ -16,6 +17,7 @@
         "restore": ""
     },
     "namecheap": {
+        "date": "2025-06-23T00:44:56.517304",
         "registration": {
             "usd": "140.98",
             "eur": "122.43"
@@ -23,12 +25,10 @@
         "renewal": {
             "usd": "142.98",
             "eur": "124.17"
-        },
-        "transfer": {
-            "null": ""
         }
     },
     "gandi": {
+        "date": "2025-06-23T00:44:57.607908",
         "registration": {
             "eur": "75.00"
         },
@@ -43,6 +43,7 @@
         }
     },
     "ovh": {
+        "date": "2025-06-23T00:45:02.745887",
         "registration": {
             "eur": "69.99",
             "usd": "75.99"

@@ -1,6 +1,7 @@
 {
     "tld": "org.es",
     "internetbs": {
+        "date": "2025-06-23T00:44:53.711432",
         "registration": {
             "usd": "3.99",
             "eur": "3.62"
@@ -19,6 +20,7 @@
         }
     },
     "namecheap": {
+        "date": "2025-06-23T00:44:56.649233",
         "registration": {
             "usd": "18.98",
             "eur": "16.48"
@@ -26,12 +28,10 @@
         "renewal": {
             "usd": "19.98",
             "eur": "17.35"
-        },
-        "transfer": {
-            "null": ""
         }
     },
     "ovh": {
+        "date": "2025-06-23T00:45:02.857413",
         "registration": {
             "eur": "6.99",
             "usd": "8.49"

@@ -1,6 +1,7 @@
 {
     "tld": "boston",
     "cloudflare": {
+        "date": "2025-06-23T00:44:50.783253",
         "registration": {
             "usd": "10.18",
             "eur": "8.84"
@@ -11,6 +12,7 @@
         }
     },
     "internetbs": {
+        "date": "2025-06-23T00:44:53.668026",
         "registration": {
             "usd": "15.99",
             "eur": "14.51"
@@ -29,6 +31,7 @@
         }
     },
     "namecheap": {
+        "date": "2025-06-23T00:44:56.500530",
         "registration": {
             "usd": "19.98",
             "eur": "17.35"
@@ -43,6 +46,7 @@
         }
     },
     "gandi": {
+        "date": "2025-06-23T00:44:57.410727",
         "registration": {
             "eur": "17.60"
         },

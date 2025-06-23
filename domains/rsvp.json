@@ -1,6 +1,7 @@
 {
     "tld": "rsvp",
     "cloudflare": {
+        "date": "2025-06-23T00:44:50.762296",
         "registration": {
             "usd": "8.18",
             "eur": "7.10"
@@ -11,6 +12,7 @@
         }
     },
     "namecheap": {
+        "date": "2025-06-23T00:44:56.673142",
         "registration": {
             "usd": "12.98",
             "eur": "11.27"

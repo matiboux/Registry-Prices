@@ -1,6 +1,7 @@
 {
     "tld": "sg",
     "namecheap": {
+        "date": "2025-06-23T00:44:56.679984",
         "registration": {
             "usd": "44.98",
             "eur": "39.06"
@@ -8,12 +9,10 @@
         "renewal": {
             "usd": "46.98",
             "eur": "40.80"
-        },
-        "transfer": {
-            "null": ""
         }
     },
     "gandi": {
+        "date": "2025-06-23T00:45:00.177643",
         "registration": {
             "eur": "37.20"
         },

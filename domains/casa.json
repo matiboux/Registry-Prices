@@ -1,6 +1,7 @@
 {
     "tld": "casa",
     "cloudflare": {
+        "date": "2025-06-23T00:44:50.763058",
         "registration": {
             "usd": "7.68",
             "eur": "6.67"
@@ -11,6 +12,7 @@
         }
     },
     "internetbs": {
+        "date": "2025-06-23T00:44:53.668514",
         "registration": {
             "usd": "7.99",
             "eur": "6.99"
@@ -29,6 +31,7 @@
         }
     },
     "scaleway": {
+        "date": "2025-06-23T00:44:53.897836",
         "registration": {
             "eur": "8.03"
         },
@@ -43,6 +46,7 @@
         }
     },
     "namecheap": {
+        "date": "2025-06-23T00:44:56.508995",
         "registration": {
             "usd": "7.98",
             "eur": "6.93"
@@ -50,12 +54,10 @@
         "renewal": {
             "usd": "9.98",
             "eur": "8.67"
-        },
-        "transfer": {
-            "null": ""
         }
     },
     "gandi": {
+        "date": "2025-06-23T00:44:57.600572",
         "registration": {
             "eur": "10.22"
         },
@@ -73,6 +75,7 @@
         }
     },
     "ovh": {
+        "date": "2025-06-23T00:45:02.739796",
         "registration": {
             "eur": "8.49",
             "usd": "9.99"

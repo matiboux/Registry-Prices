@@ -1,6 +1,7 @@
 {
     "tld": "ryukyu",
     "internetbs": {
+        "date": "2025-06-23T00:44:53.675447",
         "registration": {
             "usd": "31.64",
             "eur": "28.64"
@@ -19,6 +20,7 @@
         }
     },
     "namecheap": {
+        "date": "2025-06-23T00:44:56.674773",
         "registration": {
             "usd": "17.98",
             "eur": "15.61"
@@ -26,12 +28,10 @@
         "renewal": {
             "usd": "20.98",
             "eur": "18.22"
-        },
-        "transfer": {
-            "null": ""
         }
     },
     "gandi": {
+        "date": "2025-06-23T00:45:00.006544",
         "registration": {
             "eur": "12.38"
         },
@@ -49,6 +49,7 @@
         }
     },
     "ovh": {
+        "date": "2025-06-23T00:45:02.887993",
         "registration": {
             "eur": "19.99",
             "usd": "21.79"

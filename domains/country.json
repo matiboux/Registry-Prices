@@ -1,6 +1,7 @@
 {
     "tld": "country",
     "internetbs": {
+        "date": "2025-06-23T00:44:53.688554",
         "registration": {
             "usd": "2.238",
             "eur": "2.031"
@@ -19,6 +20,7 @@
         }
     },
     "scaleway": {
+        "date": "2025-06-23T00:44:53.905412",
         "registration": {
             "eur": "2.600"
         },
@@ -33,6 +35,7 @@
         }
     },
     "namecheap": {
+        "date": "2025-06-23T00:44:56.529534",
         "registration": {
             "usd": "2.298",
             "eur": "1.995"
@@ -40,12 +43,10 @@
         "renewal": {
             "usd": "2.398",
             "eur": "2.082"
-        },
-        "transfer": {
-            "null": ""
         }
     },
     "gandi": {
+        "date": "2025-06-23T00:44:57.615049",
         "registration": {
             "eur": "2.499"
         },
@@ -63,6 +64,7 @@
         }
     },
     "ovh": {
+        "date": "2025-06-23T00:45:02.759694",
         "registration": {
             "eur": "23.99",
             "usd": "25.99"

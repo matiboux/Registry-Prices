@@ -1,6 +1,7 @@
 {
     "tld": "luxury",
     "internetbs": {
+        "date": "2025-06-23T00:44:53.556062",
         "registration": {
             "usd": "35.99",
             "eur": "31.99"
@@ -19,18 +20,14 @@
         }
     },
     "namecheap": {
-        "registration": {
-            "null": ""
-        },
+        "date": "2025-06-23T00:44:56.623808",
         "renewal": {
             "usd": "500.98",
             "eur": "435.07"
-        },
-        "transfer": {
-            "null": ""
         }
     },
     "gandi": {
+        "date": "2025-06-23T00:44:59.056362",
         "registration": {
             "eur": "41.62"
         },
@@ -48,6 +45,7 @@
         }
     },
     "ovh": {
+        "date": "2025-06-23T00:45:02.829443",
         "registration": {
             "eur": "459",
             "usd": "500.29"

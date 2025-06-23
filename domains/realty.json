@@ -1,6 +1,7 @@
 {
     "tld": "realty",
     "cloudflare": {
+        "date": "2025-06-23T00:44:50.777102",
         "registration": {
             "usd": "280.18",
             "eur": "243.32"
@@ -11,6 +12,7 @@
         }
     },
     "internetbs": {
+        "date": "2025-06-23T00:44:53.519815",
         "registration": {
             "usd": "357.00",
             "eur": "324.00"
@@ -29,6 +31,7 @@
         }
     },
     "namecheap": {
+        "date": "2025-06-23T00:44:56.666796",
         "registration": {
             "usd": "312.98",
             "eur": "271.80"
@@ -36,12 +39,10 @@
         "renewal": {
             "usd": "314.98",
             "eur": "273.54"
-        },
-        "transfer": {
-            "null": ""
         }
     },
     "gandi": {
+        "date": "2025-06-23T00:44:59.996793",
         "registration": {
             "eur": "281.80"
         },

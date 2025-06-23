@@ -1,6 +1,7 @@
 {
     "tld": "africa",
     "internetbs": {
+        "date": "2025-06-23T00:44:53.684927",
         "registration": {
             "usd": "38.49",
             "eur": "34.94"
@@ -19,6 +20,7 @@
         }
     },
     "namecheap": {
+        "date": "2025-06-23T00:44:56.480650",
         "registration": {
             "usd": "12.98",
             "eur": "11.27"
@@ -33,6 +35,7 @@
         }
     },
     "gandi": {
+        "date": "2025-06-23T00:44:57.151969",
         "registration": {
             "eur": "20.72"
         },

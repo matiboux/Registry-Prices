@@ -1,6 +1,7 @@
 {
     "tld": "w3n",
     "namecheap": {
+        "date": "2025-06-23T00:44:56.714941",
         "registration": {
             "usd": "11.98",
             "eur": "10.40"
@@ -8,10 +9,6 @@
         "renewal": {
             "usd": "11.98",
             "eur": "10.40"
-        },
-        "transfer": {
-            "null": "",
-            "null": ""
         }
     }
 }

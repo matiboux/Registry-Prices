@@ -1,6 +1,7 @@
 {
     "tld": "osaka",
     "namecheap": {
+        "date": "2025-06-23T00:44:56.650840",
         "registration": {
             "usd": "32.98",
             "eur": "28.64"
@@ -8,12 +9,10 @@
         "renewal": {
             "usd": "32.98",
             "eur": "28.64"
-        },
-        "transfer": {
-            "null": ""
         }
     },
     "gandi": {
+        "date": "2025-06-23T00:44:59.482700",
         "registration": {
             "eur": "39.85"
         },
@@ -31,6 +30,7 @@
         }
     },
     "ovh": {
+        "date": "2025-06-23T00:45:02.862854",
         "registration": {
             "eur": "28.99",
             "usd": "31.99"

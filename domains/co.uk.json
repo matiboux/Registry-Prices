@@ -1,6 +1,7 @@
 {
     "tld": "co.uk",
     "cloudflare": {
+        "date": "2025-06-23T00:44:50.783896",
         "registration": {
             "usd": "4.94",
             "eur": "4.29"
@@ -11,6 +12,7 @@
         }
     },
     "internetbs": {
+        "date": "2025-06-23T00:44:53.488844",
         "registration": {
             "usd": "7.99",
             "eur": "6.99"
@@ -23,6 +25,7 @@
         "restore": ""
     },
     "namecheap": {
+        "date": "2025-06-23T00:44:56.519489",
         "registration": {
             "usd": "7.48",
             "eur": "6.50"
@@ -37,6 +40,7 @@
         }
     },
     "gandi": {
+        "date": "2025-06-23T00:44:57.609143",
         "registration": {
             "eur": "8.60"
         },
@@ -51,6 +55,7 @@
         }
     },
     "ovh": {
+        "date": "2025-06-23T00:45:02.748835",
         "registration": {
             "eur": "7.49",
             "usd": "8.49"

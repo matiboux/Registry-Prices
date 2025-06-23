@@ -1,6 +1,7 @@
 {
     "tld": "pharmacien.fr",
     "gandi": {
+        "date": "2025-06-23T00:44:59.642011",
         "registration": {
             "eur": "19.00"
         },
@@ -15,6 +16,7 @@
         }
     },
     "ovh": {
+        "date": "2025-06-23T00:45:02.867107",
         "registration": {
             "eur": "19.99",
             "usd": "21.99"

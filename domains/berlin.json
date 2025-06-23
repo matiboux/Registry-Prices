@@ -1,6 +1,7 @@
 {
     "tld": "berlin",
     "internetbs": {
+        "date": "2025-06-23T00:44:53.685470",
         "registration": {
             "usd": "75.49",
             "eur": "68.52"
@@ -19,6 +20,7 @@
         }
     },
     "namecheap": {
+        "date": "2025-06-23T00:44:56.494493",
         "registration": {
             "usd": "69.98",
             "eur": "60.77"
@@ -26,12 +28,10 @@
         "renewal": {
             "usd": "71.98",
             "eur": "62.51"
-        },
-        "transfer": {
-            "null": ""
         }
     },
     "gandi": {
+        "date": "2025-06-23T00:44:57.404788",
         "registration": {
             "eur": "70.64"
         },
@@ -49,6 +49,7 @@
         }
     },
     "ovh": {
+        "date": "2025-06-23T00:45:02.729158",
         "registration": {
             "eur": "51.99",
             "usd": "54.49"

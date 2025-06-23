@@ -1,18 +1,14 @@
 {
     "tld": "cn",
     "namecheap": {
-        "registration": {
-            "null": ""
-        },
+        "date": "2025-06-23T00:44:56.517672",
         "renewal": {
             "usd": "18.98",
             "eur": "16.48"
-        },
-        "transfer": {
-            "null": ""
         }
     },
     "gandi": {
+        "date": "2025-06-23T00:44:57.608153",
         "registration": {
             "eur": "8.44"
         },
@@ -30,6 +26,7 @@
         }
     },
     "ovh": {
+        "date": "2025-06-23T00:45:02.746120",
         "registration": {
             "eur": "49",
             "usd": "53.39"

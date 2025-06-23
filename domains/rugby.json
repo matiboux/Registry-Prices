@@ -1,6 +1,7 @@
 {
     "tld": "rugby",
     "internetbs": {
+        "date": "2025-06-23T00:44:53.715386",
         "registration": {
             "usd": "80.54",
             "eur": "73.11"
@@ -19,6 +20,7 @@
         }
     },
     "gandi": {
+        "date": "2025-06-23T00:45:00.005354",
         "registration": {
             "eur": "65.65"
         },

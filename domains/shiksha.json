@@ -1,6 +1,7 @@
 {
     "tld": "shiksha",
     "scaleway": {
+        "date": "2025-06-23T00:44:53.953531",
         "registration": {
             "eur": "17.33"
         },
@@ -15,6 +16,7 @@
         }
     },
     "namecheap": {
+        "date": "2025-06-23T00:44:56.680732",
         "registration": {
             "usd": "15.98",
             "eur": "13.88"
@@ -29,6 +31,7 @@
         }
     },
     "gandi": {
+        "date": "2025-06-23T00:45:00.178338",
         "registration": {
             "eur": "22.03"
         },

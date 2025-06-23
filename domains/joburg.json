@@ -1,6 +1,7 @@
 {
     "tld": "joburg",
     "internetbs": {
+        "date": "2025-06-23T00:44:53.672966",
         "registration": {
             "usd": "130.00",
             "eur": "118.00"
@@ -19,6 +20,7 @@
         }
     },
     "gandi": {
+        "date": "2025-06-23T00:44:58.724487",
         "registration": {
             "eur": "8.70"
         },

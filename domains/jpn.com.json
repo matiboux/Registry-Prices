@@ -1,6 +1,7 @@
 {
     "tld": "jpn.com",
     "internetbs": {
+        "date": "2025-06-23T00:44:53.498519",
         "registration": {
             "usd": "37.99",
             "eur": "33.99"
@@ -19,6 +20,7 @@
         }
     },
     "namecheap": {
+        "date": "2025-06-23T00:44:56.608582",
         "registration": {
             "usd": "38.98",
             "eur": "33.85"
@@ -33,6 +35,7 @@
         }
     },
     "gandi": {
+        "date": "2025-06-23T00:44:58.725313",
         "registration": {
             "eur": "34.80"
         },

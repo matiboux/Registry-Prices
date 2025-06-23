@@ -1,6 +1,7 @@
 {
     "tld": "co.cm",
     "internetbs": {
+        "date": "2025-06-23T00:44:53.552725",
         "registration": {
             "usd": "17.99",
             "eur": "15.99"
@@ -16,6 +17,7 @@
         "restore": ""
     },
     "ovh": {
+        "date": "2025-06-23T00:45:02.746859",
         "registration": {
             "eur": "69.99",
             "usd": "75.99"

@@ -1,6 +1,7 @@
 {
     "tld": "ski",
     "cloudflare": {
+        "date": "2025-06-23T00:44:50.787646",
         "registration": {
             "usd": "46.18",
             "eur": "40.10"
@@ -11,6 +12,7 @@
         }
     },
     "internetbs": {
+        "date": "2025-06-23T00:44:53.696953",
         "registration": {
             "usd": "99.57",
             "eur": "90.38"
@@ -29,6 +31,7 @@
         }
     },
     "scaleway": {
+        "date": "2025-06-23T00:44:53.954985",
         "registration": {
             "eur": "45.08"
         },
@@ -43,6 +46,7 @@
         }
     },
     "namecheap": {
+        "date": "2025-06-23T00:44:56.683807",
         "registration": {
             "usd": "70.98",
             "eur": "61.64"
@@ -50,12 +54,10 @@
         "renewal": {
             "usd": "72.98",
             "eur": "63.38"
-        },
-        "transfer": {
-            "null": ""
         }
     },
     "gandi": {
+        "date": "2025-06-23T00:45:00.180564",
         "registration": {
             "eur": "53.15"
         },

@@ -1,6 +1,7 @@
 {
     "tld": "living",
     "namecheap": {
+        "date": "2025-06-23T00:44:56.620167",
         "registration": {
             "usd": "38.98",
             "eur": "33.85"
@@ -15,6 +16,7 @@
         }
     },
     "gandi": {
+        "date": "2025-06-23T00:44:59.053172",
         "registration": {
             "eur": "34.99"
         },

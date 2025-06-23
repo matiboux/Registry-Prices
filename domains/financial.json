@@ -1,6 +1,7 @@
 {
     "tld": "financial",
     "cloudflare": {
+        "date": "2025-06-23T00:44:50.734262",
         "registration": {
             "usd": "40.18",
             "eur": "34.89"
@@ -11,6 +12,7 @@
         }
     },
     "internetbs": {
+        "date": "2025-06-23T00:44:53.541482",
         "registration": {
             "usd": "50.39",
             "eur": "45.74"
@@ -29,6 +31,7 @@
         }
     },
     "scaleway": {
+        "date": "2025-06-23T00:44:53.915744",
         "registration": {
             "eur": "46.38"
         },
@@ -43,6 +46,7 @@
         }
     },
     "namecheap": {
+        "date": "2025-06-23T00:44:56.566184",
         "registration": {
             "usd": "50.98",
             "eur": "44.27"
@@ -57,6 +61,7 @@
         }
     },
     "gandi": {
+        "date": "2025-06-23T00:44:58.073066",
         "registration": {
             "eur": "63.11"
         },

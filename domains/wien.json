@@ -1,6 +1,7 @@
 {
     "tld": "wien",
     "internetbs": {
+        "date": "2025-06-23T00:44:53.698537",
         "registration": {
             "usd": "73.99",
             "eur": "67.16"
@@ -19,6 +20,7 @@
         }
     },
     "gandi": {
+        "date": "2025-06-23T00:45:00.751491",
         "registration": {
             "eur": "51.60"
         },

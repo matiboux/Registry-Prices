@@ -1,6 +1,7 @@
 {
     "tld": "tokyo",
     "internetbs": {
+        "date": "2025-06-23T00:44:53.502248",
         "registration": {
             "usd": "18.83",
             "eur": "17.04"
@@ -19,6 +20,7 @@
         }
     },
     "namecheap": {
+        "date": "2025-06-23T00:44:56.698784",
         "registration": {
             "usd": "16.98",
             "eur": "14.75"
@@ -26,12 +28,10 @@
         "renewal": {
             "usd": "18.98",
             "eur": "16.48"
-        },
-        "transfer": {
-            "null": ""
         }
     },
     "gandi": {
+        "date": "2025-06-23T00:45:00.344596",
         "registration": {
             "eur": "12.38"
         },
@@ -49,6 +49,7 @@
         }
     },
     "ovh": {
+        "date": "2025-06-23T00:45:02.915080",
         "registration": {
             "eur": "19.99",
             "usd": "22.19"

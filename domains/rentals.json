@@ -1,6 +1,7 @@
 {
     "tld": "rentals",
     "cloudflare": {
+        "date": "2025-06-23T00:44:50.746253",
         "registration": {
             "usd": "31.18",
             "eur": "27.08"
@@ -11,6 +12,7 @@
         }
     },
     "internetbs": {
+        "date": "2025-06-23T00:44:53.536483",
         "registration": {
             "usd": "35.95",
             "eur": "32.63"
@@ -29,6 +31,7 @@
         }
     },
     "scaleway": {
+        "date": "2025-06-23T00:44:53.948478",
         "registration": {
             "eur": "40.53"
         },
@@ -43,6 +46,7 @@
         }
     },
     "namecheap": {
+        "date": "2025-06-23T00:44:56.668797",
         "registration": {
             "usd": "39.98",
             "eur": "34.72"
@@ -57,6 +61,7 @@
         }
     },
     "gandi": {
+        "date": "2025-06-23T00:44:59.999921",
         "registration": {
             "eur": "38.31"
         },

@@ -1,6 +1,7 @@
 {
     "tld": "compare",
     "cloudflare": {
+        "date": "2025-06-23T00:44:50.778930",
         "registration": {
             "usd": "22.18",
             "eur": "19.26"
@@ -11,6 +12,7 @@
         }
     },
     "internetbs": {
+        "date": "2025-06-23T00:44:53.687949",
         "registration": {
             "usd": "52.95",
             "eur": "48.06"
@@ -29,6 +31,7 @@
         }
     },
     "gandi": {
+        "date": "2025-06-23T00:44:57.611728",
         "registration": {
             "eur": "36.66"
         },

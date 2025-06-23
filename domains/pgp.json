@@ -1,6 +1,7 @@
 {
     "tld": "pgp",
     "namecheap": {
+        "date": "2025-06-23T00:44:56.654556",
         "registration": {
             "usd": "14.98",
             "eur": "13.01"
@@ -8,10 +9,6 @@
         "renewal": {
             "usd": "14.98",
             "eur": "13.01"
-        },
-        "transfer": {
-            "null": "",
-            "null": ""
         }
     }
 }

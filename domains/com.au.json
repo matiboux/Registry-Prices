@@ -1,6 +1,7 @@
 {
     "tld": "com.au",
     "internetbs": {
+        "date": "2025-06-23T00:44:53.669593",
         "registration": {
             "usd": "10.92",
             "eur": "9.91"
@@ -19,6 +20,7 @@
         }
     },
     "namecheap": {
+        "date": "2025-06-23T00:44:56.521693",
         "registration": {
             "usd": "18.98",
             "eur": "16.48"
@@ -26,12 +28,10 @@
         "renewal": {
             "usd": "19.98",
             "eur": "17.35"
-        },
-        "transfer": {
-            "null": ""
         }
     },
     "ovh": {
+        "date": "2025-06-23T00:45:02.939187",
         "registration": {
             "eur": "12.38",
             "usd": "13.64"

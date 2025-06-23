@@ -1,6 +1,7 @@
 {
     "tld": "orb",
     "namecheap": {
+        "date": "2025-06-23T00:44:56.648488",
         "registration": {
             "usd": "8.98",
             "eur": "7.80"
@@ -8,10 +9,6 @@
         "renewal": {
             "usd": "8.98",
             "eur": "7.80"
-        },
-        "transfer": {
-            "null": "",
-            "null": ""
         }
     }
 }

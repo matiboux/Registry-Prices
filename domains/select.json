@@ -1,6 +1,7 @@
 {
     "tld": "select",
     "cloudflare": {
+        "date": "2025-06-23T00:44:50.781127",
         "registration": {
             "usd": "22.18",
             "eur": "19.26"
@@ -11,6 +12,7 @@
         }
     },
     "gandi": {
+        "date": "2025-06-23T00:45:00.176712",
         "registration": {
             "eur": "33.36"
         },

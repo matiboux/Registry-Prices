@@ -1,6 +1,7 @@
 {
     "tld": "kitchen",
     "cloudflare": {
+        "date": "2025-06-23T00:44:50.740561",
         "registration": {
             "usd": "45.18",
             "eur": "39.24"
@@ -11,6 +12,7 @@
         }
     },
     "internetbs": {
+        "date": "2025-06-23T00:44:53.542264",
         "registration": {
             "usd": "52.79",
             "eur": "47.92"
@@ -29,6 +31,7 @@
         }
     },
     "scaleway": {
+        "date": "2025-06-23T00:44:53.929607",
         "registration": {
             "eur": "46.38"
         },
@@ -43,6 +46,7 @@
         }
     },
     "namecheap": {
+        "date": "2025-06-23T00:44:56.611941",
         "registration": {
             "usd": "56.98",
             "eur": "49.48"
@@ -57,6 +61,7 @@
         }
     },
     "gandi": {
+        "date": "2025-06-23T00:44:58.899522",
         "registration": {
             "eur": "63.11"
         },

@@ -1,6 +1,7 @@
 {
     "tld": "wales",
     "internetbs": {
+        "date": "2025-06-23T00:44:53.675636",
         "registration": {
             "usd": "14.99",
             "eur": "12.99"
@@ -19,6 +20,7 @@
         }
     },
     "namecheap": {
+        "date": "2025-06-23T00:44:56.715355",
         "registration": {
             "usd": "12.98",
             "eur": "11.27"
@@ -26,12 +28,10 @@
         "renewal": {
             "usd": "14.98",
             "eur": "13.01"
-        },
-        "transfer": {
-            "null": ""
         }
     },
     "gandi": {
+        "date": "2025-06-23T00:45:00.748768",
         "registration": {
             "eur": "17.50"
         },
@@ -49,6 +49,7 @@
         }
     },
     "ovh": {
+        "date": "2025-06-23T00:45:02.927254",
         "registration": {
             "eur": "12.99",
             "usd": "14.49"

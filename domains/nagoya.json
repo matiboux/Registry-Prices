@@ -1,6 +1,7 @@
 {
     "tld": "nagoya",
     "internetbs": {
+        "date": "2025-06-23T00:44:53.673750",
         "registration": {
             "usd": "22.53",
             "eur": "20.39"
@@ -19,6 +20,7 @@
         }
     },
     "namecheap": {
+        "date": "2025-06-23T00:44:56.636267",
         "registration": {
             "usd": "16.98",
             "eur": "14.75"
@@ -26,12 +28,10 @@
         "renewal": {
             "usd": "18.98",
             "eur": "16.48"
-        },
-        "transfer": {
-            "null": ""
         }
     },
     "gandi": {
+        "date": "2025-06-23T00:44:59.352230",
         "registration": {
             "eur": "12.22"
         },
@@ -49,6 +49,7 @@
         }
     },
     "ovh": {
+        "date": "2025-06-23T00:45:02.841757",
         "registration": {
             "eur": "19.99",
             "usd": "22.19"

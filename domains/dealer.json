@@ -1,6 +1,7 @@
 {
     "tld": "dealer",
     "cloudflare": {
+        "date": "2025-06-23T00:44:50.785774",
         "registration": {
             "usd": "2.000",
             "eur": "1.737"
@@ -11,6 +12,7 @@
         }
     },
     "namecheap": {
+        "date": "2025-06-23T00:44:56.538325",
         "registration": {
             "usd": "2.098",
             "eur": "1.821"
@@ -25,6 +27,7 @@
         }
     },
     "gandi": {
+        "date": "2025-06-23T00:44:57.769519",
         "registration": {
             "eur": "1.785"
         },

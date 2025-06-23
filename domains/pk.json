@@ -1,6 +1,7 @@
 {
     "tld": "pk",
     "internetbs": {
+        "date": "2025-06-23T00:44:53.551218",
         "registration": {
             "usd": "66.95",
             "eur": "60.77"
@@ -13,6 +14,7 @@
         "restore": ""
     },
     "gandi": {
+        "date": "2025-06-23T00:44:59.645528",
         "registration": {
             "eur": "120.00"
         },

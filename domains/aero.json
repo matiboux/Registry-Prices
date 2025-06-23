@@ -1,6 +1,7 @@
 {
     "tld": "aero",
     "internetbs": {
+        "date": "2025-06-23T00:44:53.684756",
         "registration": {
             "usd": "61.90",
             "eur": "56.19"
@@ -19,6 +20,7 @@
         }
     },
     "gandi": {
+        "date": "2025-06-23T00:44:57.151205",
         "registration": {
             "eur": "49.00"
         },

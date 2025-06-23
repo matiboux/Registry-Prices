@@ -1,6 +1,7 @@
 {
     "tld": "qpon",
     "internetbs": {
+        "date": "2025-06-23T00:44:53.675250",
         "registration": {
             "usd": "24.99",
             "eur": "22.99"
@@ -19,6 +20,7 @@
         }
     },
     "gandi": {
+        "date": "2025-06-23T00:44:59.814551",
         "registration": {
             "eur": "14.98"
         },

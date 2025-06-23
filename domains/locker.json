@@ -1,6 +1,7 @@
 {
     "tld": "locker",
     "namecheap": {
+        "date": "2025-06-23T00:44:56.621722",
         "registration": {
             "usd": "56.98",
             "eur": "49.48"
@@ -15,6 +16,7 @@
         }
     },
     "gandi": {
+        "date": "2025-06-23T00:44:59.057011",
         "registration": {
             "eur": "141.75"
         },

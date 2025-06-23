@@ -1,6 +1,7 @@
 {
     "tld": "sats",
     "namecheap": {
+        "date": "2025-06-23T00:44:56.676647",
         "registration": {
             "usd": "20.00",
             "eur": "17.37"
@@ -8,10 +9,6 @@
         "renewal": {
             "usd": "20.00",
             "eur": "17.37"
-        },
-        "transfer": {
-            "null": "",
-            "null": ""
         }
     }
 }

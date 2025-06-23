@@ -1,6 +1,7 @@
 {
     "tld": "ltda",
     "namecheap": {
+        "date": "2025-06-23T00:44:56.623636",
         "registration": {
             "usd": "42.98",
             "eur": "37.33"
@@ -8,12 +9,10 @@
         "renewal": {
             "usd": "44.98",
             "eur": "39.06"
-        },
-        "transfer": {
-            "null": ""
         }
     },
     "gandi": {
+        "date": "2025-06-23T00:44:59.055641",
         "registration": {
             "eur": "44.60"
         },
@@ -31,6 +30,7 @@
         }
     },
     "ovh": {
+        "date": "2025-06-23T00:45:02.828413",
         "registration": {
             "eur": "32.99",
             "usd": "35.99"

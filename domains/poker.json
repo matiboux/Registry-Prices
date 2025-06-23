@@ -1,6 +1,7 @@
 {
     "tld": "poker",
     "internetbs": {
+        "date": "2025-06-23T00:44:53.694802",
         "registration": {
             "usd": "93.85",
             "eur": "85.19"
@@ -19,6 +20,7 @@
         }
     },
     "scaleway": {
+        "date": "2025-06-23T00:44:53.943834",
         "registration": {
             "eur": "52.23"
         },
@@ -33,6 +35,7 @@
         }
     },
     "namecheap": {
+        "date": "2025-06-23T00:44:56.659239",
         "registration": {
             "usd": "57.98",
             "eur": "50.35"

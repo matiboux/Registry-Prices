@@ -1,17 +1,10 @@
 {
     "tld": "net.cn",
     "namecheap": {
-        "registration": {
-            "null": "",
-            "null": ""
-        },
+        "date": "2025-06-23T00:44:56.638268",
         "renewal": {
             "usd": "18.98",
             "eur": "16.48"
-        },
-        "transfer": {
-            "null": "",
-            "null": ""
         }
     }
 }

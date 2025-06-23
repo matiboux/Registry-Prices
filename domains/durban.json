@@ -1,6 +1,7 @@
 {
     "tld": "durban",
     "internetbs": {
+        "date": "2025-06-23T00:44:53.672113",
         "registration": {
             "usd": "130.00",
             "eur": "118.00"
@@ -19,6 +20,7 @@
         }
     },
     "gandi": {
+        "date": "2025-06-23T00:44:57.776053",
         "registration": {
             "eur": "8.70"
         },

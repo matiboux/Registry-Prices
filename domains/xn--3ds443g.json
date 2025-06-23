@@ -1,18 +1,14 @@
 {
     "tld": "在线",
     "namecheap": {
-        "registration": {
-            "null": ""
-        },
+        "date": "2025-06-23T00:44:56.723730",
         "renewal": {
             "usd": "35.98",
             "eur": "31.25"
-        },
-        "transfer": {
-            "null": ""
         }
     },
     "gandi": {
+        "date": "2025-06-23T00:44:56.965406",
         "registration": {
             "eur": "217.15"
         },

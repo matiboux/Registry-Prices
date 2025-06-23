@@ -1,6 +1,7 @@
 {
     "tld": "organic",
     "cloudflare": {
+        "date": "2025-06-23T00:44:50.787307",
         "registration": {
             "usd": "59.18",
             "eur": "51.39"
@@ -11,6 +12,7 @@
         }
     },
     "internetbs": {
+        "date": "2025-06-23T00:44:53.693970",
         "registration": {
             "usd": "104.75",
             "eur": "95.08"
@@ -29,6 +31,7 @@
         }
     },
     "gandi": {
+        "date": "2025-06-23T00:44:59.482396",
         "registration": {
             "eur": "95.40"
         },

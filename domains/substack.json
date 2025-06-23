@@ -1,6 +1,7 @@
 {
     "tld": "substack",
     "namecheap": {
+        "date": "2025-06-23T00:44:56.690040",
         "registration": {
             "usd": "30.98",
             "eur": "26.90"
@@ -8,10 +9,6 @@
         "renewal": {
             "usd": "30.98",
             "eur": "26.90"
-        },
-        "transfer": {
-            "null": "",
-            "null": ""
         }
     }
 }
